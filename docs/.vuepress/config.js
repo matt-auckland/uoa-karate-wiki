@@ -24,9 +24,8 @@ module.exports = {
             text: "Beginner's Guide",
             link: "/beginner-guide",
           },
-          { text: "About the Club", link: "/" },
-          { text: "Grading Info", link: "/" },
-          { text: "Kobudo", link: "/" },
+          { text: "Grading Info", link: "/grading" },
+          { text: "Kobudo", link: "/kobudo" },
           {
             text: "Vocabulary",
             link: "/vocabulary",
@@ -43,8 +42,8 @@ module.exports = {
                 link: "/kata",
               },
               { text: "Bunkai", link: "/bunkai" },
-              { text: "Renzoku Bunkai", link: "/bunkai" },
-              { text: "Yakusoku Kumite", link: "/bunkai" },
+              { text: "Renzoku Bunkai", link: "/bunkai/renzokyu-bunkai" },
+              { text: "Yakusoku Kumite", link: "/bunkai/yakusoku-kumite" },
             ],
           },
 
@@ -53,16 +52,16 @@ module.exports = {
             items: [
               {
                 text: "Bowing, sitting, and other etiquette",
-                link: "/dojo-etiquette-and-ceremonies",
+                link: "/etiquette",
               },
               {
                 text: "Opening / Closing Ceremony ",
-                link: "/dojo-etiquette-and-ceremonies",
+                link: "/ceremonies",
               },
-              { text: "Dojo Kun ", link: "/dojo-etiquette-and-ceremonies" },
+              { text: "Dojo Kun ", link: "/ceremonies#dojo-kun" },
               {
                 text: "Speaking Japanese",
-                link: "/dojo-etiquette-and-ceremonies",
+                link: "/japanese",
               },
             ],
           },

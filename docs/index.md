@@ -1,3 +1,7 @@
+---
+title: UoA Karate Wiki
+---
+
 # Welcome to the UoA Karate Wiki
 
 > Practise Daily and Protect Traditional Karate
@@ -8,28 +12,33 @@ This is intended to be a reference resource for the study of Goju Ryu Karate and
 
 ## Useful Pages
 
+### Karate
+
 - [Goju Ryu Karate 剛柔流空手](/)
 - [What is Karate?](/)
 - [Kata](/kata/)
 - [Bunkai](/bunkai)
 - [Vocabulary](/docs/vocabulary.md)
-- [Grading Info](/)
 - [Renzoku Bunkai](/)
-- [Kobudo 古武道 - Weapons](/)
-- [Hojo Undo](/hojo-undo/)
+- [Junbi Undo (Warm Up Exercises)](/hojo-undo/)
+- [Hojo Undo (Supplementary Exercises)](/hojo-undo/)
+- [Kiai](/) (**Incomplete**)
+- [Kakie](/) (**Incomplete**)
+- [Footwork and Stances](/) (**Incomplete**)
+- [Kumite (Sparring)](/) (**Incomplete**)
+- [Conditioning](/) (**Incomplete**)
+
+### Etiquette
+
+- [Bowing, sitting, etiquette and misc gestures](/)
 - [Opening/Closing Ceremony](/)
 - [Dojo Kun](/)
+
+### Misc
+
 - [About the Club](/)
+- [Grading Info](/)
+- [Kobudo 古武道 - Weapons](/)
 - [Training Tips](/)
-- [Japanese Pronunciation](/)
 - [Learning Japanese](/)
-- [Bowing, sitting, etiquette and other gestures](/)
-
-## Very Incomplete Pages
-
-- [Kiai](/)
-- [Footwork](/)
-- [Stances](/)
-- [Kumite (Sparring)](/)
-- [Kakie](/)
-- [Conditioning](/)
+- [Japanese Pronunciation](/)
