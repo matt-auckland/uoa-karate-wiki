@@ -1,0 +1,14 @@
+{
+  "name": "club-wiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt <mpau548@aucklanduni.ac.nz>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
