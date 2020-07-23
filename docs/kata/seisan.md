@@ -6,6 +6,9 @@ creator: Unknown
 createdon: Unknown
 learnt_at: Sandan (Black Belt)
 grading: Unknown
+
+categories:
+  - Kata
 ---
 
 # Seisan

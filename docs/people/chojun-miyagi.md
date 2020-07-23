@@ -1,3 +1,9 @@
+---
+title: Chojun Miyagi
+categories:
+  - People
+---
+
 # Chojun Miyagi
 
 Chojun Miyagi is the creator of Goju Ryu Karate. (April 25th, 1888 - October 1953)

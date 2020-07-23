@@ -10,6 +10,9 @@ creator: Unknown
 createdon: Unknown
 learnt_at: 5th Kyu (Green Belt)
 grading: 4th Kyu and above
+
+categories:
+  - Kata
 ---
 
 # Seiyunchin

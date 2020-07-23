@@ -6,6 +6,9 @@ creator: Unknown
 created_on: Unknown
 learnt_at: 8th Kyu (Blue Belt)
 required_for_grading: Shodan
+
+categories:
+  - Kata
 ---
 
 # Sanchin

@@ -1,5 +1,7 @@
 ---
 title: Footwork & Stances
+categories:
+  - Misc
 ---
 
 ## Footwork

@@ -1,3 +1,9 @@
+---
+title: Saifa Bunkai
+categories:
+  - Bunkai
+---
+
 For the [kata](/kata), see [Saif](/kata/saifa)
 
 ## Standard Bunkai

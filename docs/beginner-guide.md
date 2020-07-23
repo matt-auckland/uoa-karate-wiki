@@ -1,3 +1,11 @@
+---
+title: Beginner's Guide
+categories:
+  - Misc
+---
+
+# Beginner's Guide
+
 ## If you're new
 
 For information about the club, training times, or fees, click [[ UoA_Karate_Club | here ]].
@@ -32,3 +40,5 @@ It also has info on things like how to [[Etiquette#How_to_tie_your_belt | tie yo
 ## Starting and ending ceremonies
 
 See [[Ceremonies]] for information on the ceremonies.
+
+<Footer-Nav />

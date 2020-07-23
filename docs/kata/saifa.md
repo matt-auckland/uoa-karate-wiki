@@ -6,6 +6,9 @@ creator: Unknown
 createdon: Unknown
 learnt_at: 7th Kyu (Yellow Belt)
 grading: 6th Kyu and above
+
+categories:
+  - Kata
 ---
 
 # Saifa

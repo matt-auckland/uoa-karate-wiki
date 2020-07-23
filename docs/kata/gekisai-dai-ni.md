@@ -6,6 +6,9 @@ creator: Chojun Miyagi
 createdon: 1940s
 learnt_at: 9th Kyu (Blue Belt)
 grading: 8th Kyu and above
+
+categories:
+  - Kata
 ---
 
 # Gekisai Dai Ni

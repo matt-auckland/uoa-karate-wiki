@@ -9,6 +9,9 @@ origin: China
 creator: Unknown
 createdon: Unknown
 learnt_at: Sandan (Black Belt)
+
+categories:
+  - Kata
 ---
 
 # Suparinpei

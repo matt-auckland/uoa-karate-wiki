@@ -10,6 +10,9 @@ creator: Unknown
 createdon: Unknown
 learnt_at: Shodan (Black Belt)
 grading: Nidan and above
+
+categories:
+  - Kata
 ---
 
 # Sanseiru

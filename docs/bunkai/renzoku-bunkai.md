@@ -1,3 +1,9 @@
+---
+title: Renzoku Bunkai
+categories:
+  - Bunkai
+---
+
 Renzoku Bunkai 「連続分解」 or "Continuous Application" (also known as two-person kata) are two person drills based off of [[kata]].
 Generally one person is designated the "Defender" and one the "Attacker", both persons will perform a predetermined sequence of attacks, defenses and movements based off of a kata. These can be used to practice speed, timing and techniques in a controlled environment and with variable pressure (you can raise or lower the intensity as needed).
 

@@ -1,6 +1,4 @@
 ---
-sidebar: auto
-
 name: Gekisai Dai Ichi
 kanji: <ruby><rb>撃</rb><rt>げき</rt><rb>砕</rb><rt>さい</rt><rb>第</rb><rt>だい</rt><rb>一</rb><rt>いち</rt></ruby>
 alternate_name1: Fukyu Gata Ni
@@ -10,6 +8,9 @@ creator: Chojun Miyagi
 created: 1940s
 learnt_at: 10th Kyu/Ungraded (White Belt)
 required_for_grading: 9th Kyu and above
+
+categories:
+  - Kata
 ---
 
 <Infobox/>

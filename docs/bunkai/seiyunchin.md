@@ -1,3 +1,9 @@
+---
+title: Seiyunchin Bunkai
+categories:
+  - Bunkai
+---
+
 ## Standard Bunkai
 
 ### 1. Wrist grab escape

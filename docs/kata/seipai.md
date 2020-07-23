@@ -6,6 +6,9 @@ creator: Unknown
 createdon: Unknown
 learnt_at: Nidan (Black Belt)
 grading: Sandan and above
+
+categories:
+  - Kata
 ---
 
 # Seipai

@@ -8,7 +8,10 @@ creator: Chojun Miyagi
 created: 1920 - 1940
 learnt_at: Shodan (Black Belt)
 required_for_grading: 1
----
+
+categories:
+  - Kata
+****---
 
 # Tensho
 
@@ -33,10 +36,10 @@ id#https://www.youtube.com/watch?v=4W8yV85HuHI
 
 - [Morote Chudan Uke](/)
 - [Hiki Uke](/)
-- [Kake Uke ](/)
-- [Shotei Uchi ](/)
-- [Koken ](/)
-- [Shotei Uke ](/)
+- [Kake Uke](/)
+- [Shotei Uchi](/)
+- [Koken](/)
+- [Shotei Uke](/)
 - [Chudan Uke](/)
 - [Toraguchi](/)
 

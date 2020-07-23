@@ -1,3 +1,10 @@
+---
+title: Grading
+categories:
+  - Misc
+  - Important
+---
+
 Gradings are generally held twice a year, near the end of each semester a week or two before exams begin. Students are tested on what they know, and should know. If requirements are met to the grading Sensei's satisfaction, then the students will go up in rank. A certificate is also presented to those who successfully grade, and (if they have one) the grading is recorded in their grading booklet.
 
 A grading is more or a less an extended training session, about 2.5 - 3 hours long, and is generally composed of the following:

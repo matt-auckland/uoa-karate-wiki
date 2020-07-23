@@ -8,6 +8,9 @@ creator: Unknown
 createdon: Unknown
 learnt_at: 3rd Kyu (Brown Belt)
 grading: 2nd Kyu and above
+
+categories:
+  - Kata
 ---
 
 # Shisochin

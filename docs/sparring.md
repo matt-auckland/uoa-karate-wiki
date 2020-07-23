@@ -1,3 +1,9 @@
+---
+title: Sparring
+categories:
+  - Misc
+---
+
 # Sparring/Kumite
 
 Sparring is when you practise techniques with a partner in a free form fashion. The type of sparring dictates the overall goal and intensity of the exercise.

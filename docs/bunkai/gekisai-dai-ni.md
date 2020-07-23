@@ -1,3 +1,9 @@
+---
+title: Gekisai Dai Ni Bunkai
+categories:
+  - Bunkai
+---
+
 For the [kata](/kata), see [Gekisai Dai Ni](/kata/gekisai-dai-ni)
 
 ## Standard Bunkai

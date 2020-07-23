@@ -1,3 +1,9 @@
+---
+title: Kata
+categories:
+  - Kata
+---
+
 # Kata
 
 ## What is a Kata?
