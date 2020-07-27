@@ -38,5 +38,3 @@ It also has info on things like how to [tie your belt](/etiquette#How_to_tie_you
 ## Starting and ending ceremonies
 
 See [Ceremonies](/ceremonies) for information on the ceremonies.
-
-<Footer-Nav />
