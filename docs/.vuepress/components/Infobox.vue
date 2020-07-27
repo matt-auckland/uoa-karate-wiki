@@ -49,7 +49,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style >
 .infobox {
   border: 1px solid #a2a9b1;
   border-spacing: 3px;
@@ -63,15 +63,21 @@ export default {
   line-height: 1.5em;
 }
 
-.title {
+.infobox .title {
   text-align: center;
   font-size: 125%;
   font-weight: bold;
   background-color: #8b0b14;
   margin-bottom: 8px;
 }
-.prop-title {
+
+.infobox .prop-title {
+  font-weight: bold;
   text-transform: capitalize;
+}
+
+.infobox rt {
+  font-size: 80%;
 }
 </style>
 
