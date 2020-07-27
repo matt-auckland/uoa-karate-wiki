@@ -77,7 +77,7 @@ Created by Sensei ?
 
 # Seipai
 
-## Iain Abernathy Drill
+## Iain Abernathy Seipai Renzoku Bunkai
 
 Designed by Iain Abernathy, shows some ways you can apply two sequences from Seipai.
 
