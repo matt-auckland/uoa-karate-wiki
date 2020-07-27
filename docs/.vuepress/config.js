@@ -6,7 +6,7 @@ module.exports = {
   themeConfig: {
     docsDir: "docs",
     editLinks: true,
-    repo: "vuejs/vuepress",
+    repo: "matt-auckland/uoa-karate-wiki",
     docsBranch: "master",
     logo: "/logo.png",
     // editLinkText: 'Help us improve this page!',
