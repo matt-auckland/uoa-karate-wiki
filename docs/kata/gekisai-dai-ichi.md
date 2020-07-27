@@ -1,4 +1,5 @@
 ---
+title: Gekisai Dai Ichi
 name: Gekisai Dai Ichi
 kanji: <ruby><rb>撃</rb><rt>げき</rt><rb>砕</rb><rt>さい</rt><rb>第</rb><rt>だい</rt><rb>一</rb><rt>いち</rt></ruby>
 alternate_name1: Fukyu Gata Ni

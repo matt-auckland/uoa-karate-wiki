@@ -1,5 +1,5 @@
 ---
-title: Seispai Bunkai
+title: Seipai Bunkai
 categories:
   - Bunkai
 ---

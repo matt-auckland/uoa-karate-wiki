@@ -11,7 +11,7 @@ required_for_grading: 1
 
 categories:
   - Kata
-****---
+---
 
 # Tensho
 

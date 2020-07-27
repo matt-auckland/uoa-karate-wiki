@@ -2,7 +2,7 @@
   "name": "club-wiki",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Matt <mpau548@aucklanduni.ac.nz>",
+  "author": "Mathew Paul <mathewp.94@gmail.com>",
   "license": "MIT",
   "scripts": {
     "serve": "vuepress dev docs",
