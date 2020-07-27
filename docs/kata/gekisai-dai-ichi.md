@@ -36,8 +36,7 @@ This name means "Popularisation Kata Two". For more info on this, see the histor
 
 ## How To
 
-service=youtube
-|id=https://youtu.be/YtcRO7zceIg
+<Wiki-Video url="https://youtu.be/YtcRO7zceIg" />
 
 ### Important Points
 

@@ -21,8 +21,7 @@ Taken literally, Gekisai（撃砕）means "Pulverising​" and Dai Ni（第二�
 
 ## How To
 
-service=youtube
-|id=https://youtu.be/7ATBdHJcq-g
+<Wiki-Video url="https://youtu.be/7ATBdHJcq-g" />
 
 ### Important Points
 

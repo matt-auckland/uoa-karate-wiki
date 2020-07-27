@@ -3,6 +3,7 @@
     <iframe
       width="560"
       height="315"
+      loading="lazy"
       :src="processedUrl"
       frameborder="0"
       allowfullscreen
@@ -16,6 +17,7 @@ export default {
   computed: {
     processedUrl() {
       /**
+       * regexr.com/594r0
         Any of the following URL formats will be properly handled
         https://www.youtu.be/3HGX7L6VIcU
         https://youtube.com/3HGX7L6VIcU

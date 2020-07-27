@@ -29,8 +29,7 @@ Two versions of 'Sanchin' exist in [Goju Ryu], "Higaonna", and "Miyagi". "Higaon
 
 ## How To - Miyagi Style (<ruby><rb>宮</rb><rt>みや</rt><rb>城</rb><rt>ぎ</rt></ruby>)
 
-service=youtube
-|id=https://youtu.be/kybxNOlnl20
+<Wiki-Video url="https://youtu.be/kybxNOlnl20" />
 
 ### Important Points
 
