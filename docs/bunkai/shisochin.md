@@ -1,5 +1,7 @@
 ---
 title: Shisochin Bunkai
+isDraft: true
+
 categories:
   - Bunkai
 ---

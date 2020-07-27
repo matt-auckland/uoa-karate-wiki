@@ -1,7 +1,6 @@
 ---
 title: Sparring
 categories:
-  - Misc
 ---
 
 # Sparring/Kumite

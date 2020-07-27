@@ -70,7 +70,7 @@ service=youtube
 - [Hachiji Dachi](/)
 - [Heiko Dachi](/)
 
-### Sandan Changes
+### Dan Grade Changes
 
 - The chudan yoko uke are muchimi.
 - The age uke are more circular in their movements.

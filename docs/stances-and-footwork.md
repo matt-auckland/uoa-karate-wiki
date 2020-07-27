@@ -1,14 +1,16 @@
 ---
 title: Footwork & Stances
+isDraft: true
 categories:
-  - Misc
 ---
 
 ## Footwork
 
-Info on ways to move in Karate. e.g. suriashi, tsugi ashi. Will probably involve a few videos
+<Wiki-Video url="https://www.youtube.com/watch?v=gvVyBNzfHiY" />
 
 ### Suriashi
+
+### Okuri Ashi
 
 ### Tsugi Ashi
 

@@ -1,7 +1,7 @@
 ---
 title: Kiai
+isDraft: true
 categories:
-  - Misc
 ---
 
 # Kiai

@@ -29,11 +29,11 @@ This kata is also know by a few other names, such as Peichurin and Becchurin.
 
 ## How To
 
-<Video url="https://youtu.be/znVHgcPISKg" />
+<Wiki-Video url="https://youtu.be/znVHgcPISKg" />
 
 ### Important Points
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

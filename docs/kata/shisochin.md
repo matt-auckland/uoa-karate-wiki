@@ -26,7 +26,7 @@ The alternative 'spelling' of the kata uses a different character at the end, å›
 
 ## How To
 
-<Video url="https://youtu.be/GyRyR3pd7FI" />
+<Wiki-Video url="https://youtu.be/GyRyR3pd7FI" />
 
 ### Important Points
 
@@ -61,7 +61,7 @@ The alternative 'spelling' of the kata uses a different character at the end, å›
 - [Han Zenkutsu Dachi](/)
 - [Neko Ashi Dachi](/)
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

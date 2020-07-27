@@ -25,11 +25,11 @@ The characters making up Sanseiru are: Three （三）, Ten （十）, Six （�
 
 ## How To
 
-<Video url="https://youtu.be/tCrXO9MQJyk" />
+<Wiki-Video url="https://youtu.be/tCrXO9MQJyk" />
 
 ### Important Points
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

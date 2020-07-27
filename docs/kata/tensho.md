@@ -48,7 +48,7 @@ id#https://www.youtube.com/watch?v=4W8yV85HuHI
 - [Musubi Dachi](/)
 - [Sanchin Dachi](/)
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

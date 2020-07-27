@@ -52,7 +52,7 @@ service=youtube
 - [Hachiji Dachi](/)
 - [Neko Ashi Dachi](/)
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

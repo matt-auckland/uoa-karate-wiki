@@ -1,7 +1,6 @@
 ---
 title: Conditioning
 categories:
-  - Misc
 ---
 
 "Conditioning" in a athletic context generally refers to trainings in a way to strengthen the muscles and cardiovascular system to improve performance and prevent injury. In a Karate context, it can also refer to the training of one's body to become more resilient to attacks both in terms of injury prevention and in terms of pain tolerance.

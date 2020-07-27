@@ -19,7 +19,7 @@ categories:
 
 ## How To
 
-<Video url="https://youtu.be/oKj5drvygec" />
+<Wiki-Video url="https://youtu.be/oKj5drvygec" />
 
 ### Important Points
 
@@ -51,7 +51,7 @@ categories:
 - [Han Zenkutsu Dachi](/)
 - [Neko Ashi Dachi](/)
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

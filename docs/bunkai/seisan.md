@@ -1,5 +1,7 @@
 ---
 title: Seisan Bunkai
+isDraft: true
+
 categories:
   - Bunkai
 ---

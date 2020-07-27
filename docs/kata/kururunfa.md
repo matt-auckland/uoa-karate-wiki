@@ -19,11 +19,11 @@ categories:
 
 ## How To
 
-<Video url="https://youtu.be/3HGX7L6VIcU"/>
+<Wiki-Video url="https://youtu.be/3HGX7L6VIcU"/>
 
 ### Important Points
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

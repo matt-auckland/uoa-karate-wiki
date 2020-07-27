@@ -21,11 +21,11 @@ The meaning of Seisan is "Thirteen hands". Ten (十), three (三) and hand (手)
 
 ## How To
 
-<Video url="https://youtu.be/jXNjK_HuV1Y" />
+<Wiki-Video url="https://youtu.be/jXNjK_HuV1Y" />
 
 ### Important Points
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

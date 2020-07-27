@@ -1,5 +1,6 @@
 ---
 title: UoA Karate Wiki
+noFooter: true
 ---
 
 # Welcome to the UoA Karate Wiki

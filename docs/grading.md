@@ -1,7 +1,6 @@
 ---
 title: Grading
 categories:
-  - Misc
   - Important
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Beginner's Guide
 categories:
-  - Misc
+  - Important
 ---
 
 # Beginner's Guide

@@ -2,7 +2,6 @@
 title: Vocabulary
 category:
   - Vocabulary
-  - Misc
 ---
 
 # Vocabulary

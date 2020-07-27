@@ -1,7 +1,6 @@
 ---
 title: Etiquitte
 categories:
-  - Misc
 ---
 
 Foremost in Karate is respect. Respect your partners, your teachers, your dojo, your training equipment, and yourself.

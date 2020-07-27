@@ -1,5 +1,7 @@
 ---
 title: Sanseiru Bunkai
+isDraft: true
+
 categories:
   - Bunkai
 ---

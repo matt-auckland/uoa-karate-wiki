@@ -33,7 +33,7 @@ export default {
   filters: {
     categoryName(name) {
       switch (name) {
-        case "Important":
+        case "important":
           return "Important Pages";
         default:
           return name;
@@ -42,43 +42,55 @@ export default {
   },
   computed: {
     trimmedPageObjs() {
-      let trimmedPageObjs = this.$site.pages.map((page) => {
-        return {
-          categories: page.frontmatter && page.frontmatter.categories,
-          title: page.title,
-          path: page.path,
-        };
-      });
+      let trimmedPageObjs = this.$site.pages
+        .filter(
+          (page) => !page.frontmatter.isDraft && !page.frontmatter.noFooter
+        )
+        .map((page) => {
+          return {
+            categories: page.frontmatter && page.frontmatter.categories,
+            title: page.title,
+            path: page.path,
+            indexPage: page.relativePath.includes("index.md"),
+          };
+        });
 
       return trimmedPageObjs;
     },
     footerCategoriesObj() {
       // we add Important here so it's the first category to show in the footer
-      const footerCategoriesObj = { Important: {} };
+      const footerCategoriesObj = { important: {} };
+      const miscPages = { pages: [] };
+      const ignoredCategories = ["hojo undo", "kobudo"];
+      const unlinkedCategories = ["important", "misc"];
+
       this.trimmedPageObjs.forEach((page) => {
         if (page.categories && page.categories.length) {
           page.categories.forEach((cat) => {
+            cat = cat.toLowerCase();
+
             // We don't want to display these categories right now
-            if (cat != "Hojo Undo" && cat != "Misc") {
+            if (ignoredCategories.includes(cat)) {
+              // Put the page in misc if we don't want to display the category
+              miscPages.pages.push(page);
+            } else if (page.indexPage && !unlinkedCategories.includes(cat)) {
+              // If page is an index page (aka index.md), use it as the category link
+              // But we also skip categories we don't want to be links
+              footerCategoriesObj[cat].path = page.path;
+            } else {
               if (footerCategoriesObj[cat] && footerCategoriesObj[cat].pages) {
                 footerCategoriesObj[cat].pages.push(page);
               } else {
                 footerCategoriesObj[cat] = { pages: [page] };
               }
-
-              // We don't want these categories to be links
-              if (cat != "Important" && cat != "Misc") {
-                if (page.path && page.path[page.path.length - 1] == "/") {
-                  console.log(page.path[page.path.length - 1]);
-                  footerCategoriesObj[cat].path = page.path;
-                  console.log(footerCategoriesObj[cat].path);
-                }
-              }
             }
           });
+        } else {
+          // If the page doesn't have a category, throw it in misc
+          miscPages.pages.push(page);
         }
       });
-      console.log(footerCategoriesObj);
+      footerCategoriesObj.misc = miscPages;
       return footerCategoriesObj;
     },
     footerCategories() {
@@ -112,6 +124,7 @@ export default {
   flex: 0 0 100px;
   border-right: 1px solid var(--border-colour);
   text-align: right;
+  text-transform: capitalize;
 }
 
 .pages {

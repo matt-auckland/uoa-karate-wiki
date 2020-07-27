@@ -48,7 +48,7 @@ service=youtube
 - [Musubi Dachi](/)
 - [Sanchin Dachi](/)
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## How To - Higaonna Style (<ruby><rb>東</rb><rt>ひが</rt><rb>恩</rb><rt>おん</rt><rb>納</rb><rt>な</rt></ruby>)
 
@@ -70,7 +70,7 @@ This version of the kata features turns that the modern version lacks.
 - [Sanchin Dachi](/)
 - [Bensoku Dachi](/)
 
-### Sandan Changes
+### Dan Grade Changes
 
 ## Bunkai
 

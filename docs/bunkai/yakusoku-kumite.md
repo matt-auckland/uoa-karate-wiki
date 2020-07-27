@@ -1,5 +1,6 @@
 ---
 title: Yakusoku Kumite
+isDraft: true
 categories:
   - Bunkai
 ---
