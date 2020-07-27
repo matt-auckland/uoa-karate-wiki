@@ -14,6 +14,8 @@ categories:
   - Kata
 ---
 
+# Gekisai Dai Ichi
+
 <Infobox/>
 
 The first [kata](/) taught in modern Goju Ryu. It was originally created to help popularise Karate.

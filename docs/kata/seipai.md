@@ -13,6 +13,8 @@ categories:
 
 # Seipai
 
+<Infobox/>
+
 ## Name Meaning
 
 Seipai means "Eighteen Hands" and is formed from the characters "ten"（十）, "eight"（八）and "hand"（手）.

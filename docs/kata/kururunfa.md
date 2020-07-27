@@ -13,6 +13,8 @@ categories:
 
 # Kururunfa
 
+<Infobox/>
+
 ## Name Meaning
 
 ## Kata History

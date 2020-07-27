@@ -13,6 +13,8 @@ categories:
 
 # Saifa
 
+<Infobox/>
+
 ## Name Meaning
 
 ## Kata History

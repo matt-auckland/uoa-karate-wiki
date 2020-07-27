@@ -16,6 +16,8 @@ categories:
 
 # Suparinpei
 
+<Infobox/>
+
 The penultimate [kata] of [Goju Ryu].
 
 ## Name Meaning

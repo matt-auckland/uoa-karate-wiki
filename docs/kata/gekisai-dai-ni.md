@@ -13,6 +13,8 @@ categories:
 
 # Gekisai Dai Ni
 
+<Infobox/>
+
 ## Name Meaning
 
 Taken literally, Gekisai（撃砕）means "Pulverising​" and Dai Ni（第二）means "Number Two". When you interpret the kanji characters for 'Gekisai' individually, you get something more like "Attack & Destroy". The "number two" comes from the fact that it is a part of a pair of kata, the other being Gekisai Dai Ichi（撃砕第一）

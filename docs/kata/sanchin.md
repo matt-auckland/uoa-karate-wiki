@@ -13,6 +13,8 @@ categories:
 
 # Sanchin
 
+<Infobox/>
+
 ## Name Meaning
 
 The name "Sanchin" is composed of the characters "Three" (<ruby><rb>三</rb><rt>さん</rt></ruby>) and "Battle"(<ruby><rb>戦</rb><rt>ちん</rt></ruby>), thus meaning "Three Battles".　 These battles are commonly thought to be the battles of the mind, body and spirit; which can all be improved by the practice of Sanchin, or so the story goes.

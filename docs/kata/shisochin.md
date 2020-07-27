@@ -15,6 +15,8 @@ categories:
 
 # Shisochin
 
+<Infobox/>
+
 ## Name Meaning
 
 This is based off both the Chinese and Japanese meanings of the characters (The meanings are essentially the same).

@@ -17,6 +17,8 @@ categories:
 
 # Sanseiru
 
+<Infobox/>
+
 ## Name Meaning
 
 The characters making up Sanseiru are: Three （三）, Ten （十）, Six （六）, and Hand （手）; together they mean "Thirty Six Hands".

@@ -17,6 +17,8 @@ categories:
 
 # Seiyunchin
 
+<Infobox/>
+
 ## Name Meaning
 
 ## Kata History
