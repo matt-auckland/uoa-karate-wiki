@@ -23,8 +23,8 @@ export default {
         http://youtube.com/embed/3HGX7L6VIcU
        */
 
-      const fullYTUrl = /^(http|https):\/\/(www.|)youtu(be.com|.be)\/(?!embed)\(watch\?v=|[az-0-9]+)/;
-      const partialYTUrl = /^(http|https):\/\/(www\.)?youtu(be.com|.be)\/(?!embed)(watch\?v=|)/;
+      const fullYTUrl = /^(http|https):\/\/(www.|)youtu(be.com|.be)\/(?!embed)(watch\?v=|[a-z0-9]+)/;
+      const partialYTUrl = /^(http|https):\/\/(www\.)?youtu(be.com|.be)\/(?!embed)(watch\?v=)?/;
       const embedString = "https://youtube.com/embed/";
 
       let processedUrl = this.url;
