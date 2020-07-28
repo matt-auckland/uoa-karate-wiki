@@ -4,12 +4,13 @@ categories:
   - Bunkai
 ---
 
-Renzoku Bunkai 「連続分解」 or "Continuous Application" (also known as two-person kata) are two person drills based off of [kata](/kata/).
-Generally one person is designated the "Defender" and one the "Attacker", both persons will perform a predetermined sequence of attacks, defenses and movements based off of a kata. These can be used to practice speed, timing and techniques in a controlled environment and with variable pressure (you can raise or lower the intensity as needed).
+Renzoku Bunkai 「連続分解」 or "Continuous Applications" (also known as two-person kata) are two-person drills based off of [kata](/kata/).
+Generally, one person is designated the "Defender" and one the "Attacker", both persons will perform a predetermined sequence of attacks, defenses, and movements based off of a kata. These can be used to practice speed, timing, and techniques in a controlled environment and with variable pressure (you can raise or lower the intensity as needed).
 
-## Sandangi
+## Sandan gi / Sandan Uke
 
-While not exactly based off of a kata, Sandangi is similar enough to a Renzoku Bunkai that I've put it here.
+While not exactly based off of a kata, Sandan gi is similar enough to a Renzoku Bunkai that I've put it here.
+Sandan gi is written in Japanese as 三段技, literally "Three level techniques". It is also known as Sandan uke 三段受け, which literally means "Three level blocks".
 
 ### Video
 
@@ -18,24 +19,28 @@ While not exactly based off of a kata, Sandangi is similar enough to a Renzoku B
 ### Important Points
 
 - Stances are sanchin dachi -> hanzen kutsu dachi -> shikodachi -> repeat
-- Attacks are Jodan, chudan, gedan.
-- Ensure your stances are not too long and make sure your shikodachi is on a 45˚ angle.
-- Keep contact with your partner as much as possible, you should feel them move before you see them move. This is [[muchimi]], press on them and 'stick' to your partner.
+- Attacks are jodan, chudan, gedan.
+- Jodan Uke -> Chudan Uke -> Gedan Barai.
+- The attacker does the sequence of three attacks twice, before the roles are switched, and the defender then performs the sequqnce of three attacks twice.
+- Ensure your stances are not too long and make sure your shikodachi is on a proper 45˚ angle.
+- Stances and movements will of course need to be adjusted to match your partner's size
+- Keep contact with your partner as much as possible, you should feel them move before you see them move, similar to kakie, this helps train your touch sensitivity which is important in close combat.
+- This also helps to train muchimi, press your partner and 'stick' to them.
 
-<!--
 ## Gekisai Dai Ichi
 
 ### Club's Standard Renzoku Bunkai
 
-[video]
+<Wiki-Video url="https://youtu.be/BHV5VTsmpsA" />
 
-### Important Points
+<!-- ### Important Points -->
 
+<!--
 ## Gekisai Dai Ni
 
 ### name
 
-[video]
+<Wiki-Video url="" />
 
 ### Important Points -->
 
@@ -43,43 +48,44 @@ While not exactly based off of a kata, Sandangi is similar enough to a Renzoku B
 
 ### Saifa Renzoku Bunkai #1
 
-Created by Sensei ?
 <Wiki-Video url="https://www.youtube.com/watch?v=E52iFcSD1E0" />
 
-### Important Points
+<!-- ### Important Points -->
 
 ### Saifa Renzoku Bunkai #2
 
-Created by Sensei ?
 <Wiki-Video url="https://www.youtube.com/watch?v=fB5R8iHMop8" />
 <Wiki-Video url="https://www.youtube.com/watch?v=e05WcOg6BBg" />
 
-### Important Points
+<!-- ### Important Points -->
 
 ## Seiyunchin
 
 ### Seiyunchin Renzoku Bunkai
 
-Created by Sensei ?
 <Wiki-Video url="https://www.youtube.com/watch?v=2m6L0IbPT-U" />
 
-### Important Points
+<!-- ### Important Points -->
+
+<!-- ## Shisochin
+
+### Shisochin Renzoku Bunkai
+
+<Wiki-Video url="" /> -->
 
 ## Sanseiru
 
 ### Sanseiru Renzoku Bunkai
 
-Created by Sensei ?
-
 <Wiki-Video url="https://www.youtube.com/watch?v=M1coA8RDBLQ" />
 
-### Important Points
+<!-- ### Important Points -->
 
 ## Seipai
 
 ### Iain Abernathy Seipai Renzoku Bunkai
 
-Designed by Iain Abernathy, shows some ways you can apply two sequences from Seipai.
+Created by Iain Abernathy Sensei, this shows some ways you can apply techniques from Seipai.
 
 #### First Half:
 
@@ -93,13 +99,12 @@ Designed by Iain Abernathy, shows some ways you can apply two sequences from Sei
 
 <Wiki-Video url="https://youtu.be/pfwBR7g0c6E" />
 
-### Important Points
+<!-- ### Important Points -->
 
 ## Tensho
 
 ### Tensho Renzoku Bunkai
 
-Created by Sensei ?
 <Wiki-Video url="https://www.youtube.com/watch?v=CJfB9qgDAPc" />
 
-### Important Points
+<!-- ### Important Points -->
