@@ -62,6 +62,7 @@ export default {
       const footerCategoriesObj = { important: {} };
       const miscPages = { pages: [] };
       const ignoredCategories = ["hojo undo", "kobudo"];
+      // categories that we don't want to have links from their titles
       const unlinkedCategories = ["important", "misc"];
 
       this.trimmedPageObjs.forEach((page) => {
@@ -73,15 +74,25 @@ export default {
             if (ignoredCategories.includes(cat)) {
               // Put the page in misc if we don't want to display the category
               miscPages.pages.push(page);
-            } else if (page.indexPage && !unlinkedCategories.includes(cat)) {
+            } else {
+              if (!page.indexPage) {
+                if (
+                  footerCategoriesObj[cat] &&
+                  footerCategoriesObj[cat].pages
+                ) {
+                  footerCategoriesObj[cat].pages.push(page);
+                } else {
+                  footerCategoriesObj[cat] = { pages: [page] };
+                }
+              }
               // If page is an index page (aka index.md), use it as the category link
               // But we also skip categories we don't want to be links
-              footerCategoriesObj[cat].path = page.path;
-            } else {
-              if (footerCategoriesObj[cat] && footerCategoriesObj[cat].pages) {
-                footerCategoriesObj[cat].pages.push(page);
-              } else {
-                footerCategoriesObj[cat] = { pages: [page] };
+
+              if (page.indexPage && !unlinkedCategories.includes(cat)) {
+                if (!footerCategoriesObj[cat]) {
+                  footerCategoriesObj[cat] = { pages: [] };
+                }
+                footerCategoriesObj[cat].path = page.path;
               }
             }
           });
