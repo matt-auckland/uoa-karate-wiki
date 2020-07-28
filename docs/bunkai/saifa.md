@@ -4,7 +4,7 @@ categories:
   - Bunkai
 ---
 
-For the [kata](/kata), see [Saif](/kata/saifa)
+For the [kata](/kata), see [Saifa](/kata/saifa)
 
 ## Standard Bunkai
 
@@ -44,4 +44,4 @@ Counter the incoming punch with a left handed shotae uke while shifting into a s
 
 **Attack**: Left leg back, punch chudan oizuki.
 
-**Defense**: Suriashi to the right into neko-ashi dachi on a 45-degree angle to the attacker. In the same movement perform a hidari open handed chudan uke, and perform a haito strike to the attacker’s back using the thumb side of the right hand.
+**Defense**: Suriashi to the right into neko-ashi dachi on a 45-degree angle to the attacker. In the same movement perform a hidari kake uke, and perform a haito strike to the attacker’s back using the thumb side of the right hand.
