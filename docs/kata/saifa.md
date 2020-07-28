@@ -17,6 +17,8 @@ categories:
 
 ## Name Meaning
 
+The name is generally translated as "smash and tear". [砕](https://jisho.org/search/%E7%A0%95%20%23kanji) has meanings like "smash/break/crush", while [破](https://jisho.org/search/%E7%A0%B4%20%23kanji) has meanings like "rend/tear/destroy/defeat".
+
 ## Kata History
 
 ## How To
@@ -32,7 +34,7 @@ categories:
 - [Ura Ken Uchi](/)
 - [Morote Sukui Uke](/)
 - [Hiji Ate](/)
-- [Mae Geri|Gedan Mae Geri](/)
+- [Gedan Mae Geri](/)
 - [Heiko Zuki](/)
 - [Gedan Tettsui Uchi](/)
 - [Hiki Uke](/)
@@ -52,8 +54,6 @@ categories:
 - [Hachiji Dachi](/)
 - [Han Zenkutsu Dachi](/)
 - [Neko Ashi Dachi](/)
-
-### Dan Grade Changes
 
 ## Bunkai
 
