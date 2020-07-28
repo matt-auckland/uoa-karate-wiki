@@ -168,7 +168,9 @@ category:
 
 ## Okinawan
 
-| Romaji  | Japanese | Meaning           | Notes                                                                                     |
-| ------- | -------- | ----------------- | ----------------------------------------------------------------------------------------- |
-| Enpi    | 猿臂     | Elbow, Monkey arm | Okinawan term, comes from China. Regular Japanese people may not know the "Elbow" meaning |
-| Muchimi |          | Heavy, sticky     |                                                                                           |
+| Romaji    | Japanese                                                    | Meaning                                                                                                                                                | Notes                                                                                     |
+| --------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| Enpi      | <ruby><rb>猿</rb><rb>臂</rb><rt>えん</rt><rt>ぴ</rt></ruby> | Elbow, Monkey arm                                                                                                                                      | Okinawan term, comes from China. Regular Japanese people may not know the "Elbow" meaning |
+| Muchimi   | ムチミ                                                      | Heavy, sticky                                                                                                                                          |                                                                                           |
+| Chinkuchi | チンクチ                                                    | Refers to an instantaneous, but momentary, contraction of muscles just as a punch makes contact.                                                       | https://www.karatebyjesse.com/chinkuchi-another-exotic-okinawan-karate-word/              |
+| Gamaku    | ガマク                                                      | Gamaku is an Okinawan term, Uchinaguchi or hogan dialect, that refers to the musculature the surrounds the waist and connects the torso to the pelvis. |                                                                                           |
