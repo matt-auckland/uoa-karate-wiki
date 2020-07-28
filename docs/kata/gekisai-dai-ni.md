@@ -21,11 +21,13 @@ Taken literally, Gekisai（撃砕）means "Pulverising​" and Dai Ni（第二�
 
 ## Kata History
 
+Created in the 1940s by Chojun Miyagi. It's a more advanced version of [Gekisai Dai Ichi](/kata/gekisai-dai-ichi), introducing open handed techniques.
+
 ## How To
 
 <Wiki-Video url="https://youtu.be/7ATBdHJcq-g" />
 
-### Important Points
+<!-- ### Important Points -->
 
 ### Kata Techniques
 
@@ -53,7 +55,7 @@ Taken literally, Gekisai（撃砕）means "Pulverising​" and Dai Ni（第二�
 - [Hachiji Dachi](/)
 - [Neko Ashi Dachi](/)
 
-### Dan Grade Changes
+<!-- ### Dan Grade Changes -->
 
 ## Bunkai
 

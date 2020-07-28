@@ -63,7 +63,7 @@ The alternative 'spelling' of the kata uses a different character at the end, å›
 - [Han Zenkutsu Dachi](/)
 - [Neko Ashi Dachi](/)
 
-### Dan Grade Changes
+<!-- ### Dan Grade Changes -->
 
 ## Bunkai
 

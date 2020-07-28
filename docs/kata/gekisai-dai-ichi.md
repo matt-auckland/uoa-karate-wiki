@@ -18,7 +18,7 @@ categories:
 
 <Infobox/>
 
-The first [kata](/) taught in modern Goju Ryu. It was originally created to help popularise Karate.
+The first [kata](/) taught in modern Goju Ryu. It was created to help popularise Karate. It is the only kata in Goju Ryu that ends with a step forward instead of a step backward.
 
 ## Name Meaning
 
@@ -35,6 +35,8 @@ Fukyu (普及) means "Popularisation", "Gata" is another way of saying "Kata" an
 This name means "Popularisation Kata Two". For more info on this, see the history section.
 
 ## Kata History
+
+It was created to help popularise Karate in the 1940s by Chojun Miyagi with the help of a Shorin Ryu Sensei. It introduced Jodan Uke into the Goju Ryu syllabus.
 
 ## How To
 

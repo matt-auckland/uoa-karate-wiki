@@ -15,17 +15,15 @@ categories:
 
 <Infobox/>
 
-## Name Meaning
+<!-- ## Name Meaning -->
 
-## Kata History
+<!-- ## Kata History -->
 
 ## How To
 
 <Wiki-Video url="https://youtu.be/3HGX7L6VIcU"/>
 
-### Important Points
-
-### Dan Grade Changes
+<!-- ### Important Points -->
 
 ## Bunkai
 

@@ -19,15 +19,15 @@ categories:
 
 <Infobox/>
 
-## Name Meaning
+<!-- ## Name Meaning -->
 
-## Kata History
+<!-- ## Kata History -->
 
 ## How To
 
 <Wiki-Video url="https://www.youtube.com/watch?v=NBoU_T8VF_0" />
 
-### Important Points
+<!-- ### Important Points -->
 
 ### Kata Techniques
 
@@ -57,7 +57,7 @@ categories:
 - [Bensoku Dachi](/)
 - [Neko Ashi Dachi](/)
 
-### Dan Grade Changes
+<!-- ### Dan Grade Changes -->
 
 ## Bunkai
 

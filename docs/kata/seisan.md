@@ -19,15 +19,13 @@ categories:
 
 The meaning of Seisan is "Thirteen hands". Ten (十), three (三) and hand (手) all add up to mean "Thirteen hands".
 
-## Kata History
+<!-- ## Kata History -->
 
 ## How To
 
 <Wiki-Video url="https://youtu.be/jXNjK_HuV1Y" />
 
-### Important Points
-
-### Dan Grade Changes
+<!-- ### Important Points -->
 
 ## Bunkai
 

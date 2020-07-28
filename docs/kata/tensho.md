@@ -23,14 +23,14 @@ Tensho means "Revolving Palms", with its characters individually meaning "Revolv
 
 ## Kata History
 
-This kata was created by Chojun Miyagi Sensei. It is supposed to be based off of a kata recorded in the Bubishi.
+This kata was created by Chojun Miyagi Sensei. It is supposed to be based off a kata recorded in the Bubishi.
 
 ## How To
 
 service#youtube
 id#https://www.youtube.com/watch?v=4W8yV85HuHI
 
-### Important Points
+<!-- ### Important Points -->
 
 ### Kata Techniques
 
@@ -48,7 +48,7 @@ id#https://www.youtube.com/watch?v=4W8yV85HuHI
 - [Musubi Dachi](/)
 - [Sanchin Dachi](/)
 
-### Dan Grade Changes
+<!-- ### Dan Grade Changes -->
 
 ## Bunkai
 

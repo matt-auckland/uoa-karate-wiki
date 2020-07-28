@@ -29,9 +29,7 @@ The characters making up Sanseiru are: Three （三）, Ten （十）, Six （�
 
 <Wiki-Video url="https://youtu.be/tCrXO9MQJyk" />
 
-### Important Points
-
-### Dan Grade Changes
+<!-- ### Important Points -->
 
 ## Bunkai
 

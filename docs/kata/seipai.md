@@ -25,9 +25,7 @@ Seipai means "Eighteen Hands" and is formed from the characters "ten"（十）, 
 
 <Wiki-Video url="https://youtu.be/rBvK4eSHReY" />
 
-### Important Points
-
-### Dan Grade Changes
+<!-- ### Important Points -->
 
 ## Bunkai
 

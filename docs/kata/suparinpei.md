@@ -33,9 +33,7 @@ This kata is also know by a few other names, such as Peichurin and Becchurin.
 
 <Wiki-Video url="https://youtu.be/znVHgcPISKg" />
 
-### Important Points
-
-### Dan Grade Changes
+<!-- ### Important Points -->
 
 ## Bunkai
 
