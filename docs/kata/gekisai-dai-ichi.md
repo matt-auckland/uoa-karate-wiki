@@ -81,4 +81,4 @@ It was created to help popularise Karate in the 1940s by Chojun Miyagi with the 
 
 ## Bunkai
 
-See [Gekisai Dai Ichi (Bunkai)](/bunkai/gekisai-dai-ichi)
+See [Gekisai Dai Ichi (Bunkai)](/bunkai/gekisai-dai-ichi.md)

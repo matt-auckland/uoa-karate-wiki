@@ -27,6 +27,6 @@ The meaning of Seisan is "Thirteen hands". Ten (十), three (三) and hand (手)
 
 <!-- ### Important Points -->
 
-## Bunkai
+<!-- ## Bunkai
 
-See [Seisan (Bunkai)](/bunkai/seisan)
+See [Seisan (Bunkai)](/bunkai/seisan.md) -->

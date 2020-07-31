@@ -41,10 +41,10 @@ See [Kata](/kata/)
 
 ## Bunkai
 
-See [Bunkai](/bunkai)
+See [Bunkai](/bunkai/)
 
 ## Grading System
 
-See [Grading](/)
+See [Grading](/grading.md)
 
 ## History

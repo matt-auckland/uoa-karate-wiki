@@ -80,4 +80,4 @@ This is also know as "Sanchin Dai Ni" (三戦第二) or "Turning Sanchin".
 
 ## Bunkai
 
-See [Sanchin (Bunkai)](/bunkai/sanchin)
+See [Sanchin (Bunkai)](/bunkai/sanchin.md)

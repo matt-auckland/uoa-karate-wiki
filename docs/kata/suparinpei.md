@@ -18,7 +18,7 @@ categories:
 
 <Infobox/>
 
-The penultimate [kata] of [Goju Ryu].
+The penultimate [kata](/kata/) of [Goju Ryu](/goju-ryu.md).
 
 ## Name Meaning
 
@@ -34,7 +34,7 @@ This kata is also know by a few other names, such as Peichurin and Becchurin.
 <Wiki-Video url="https://youtu.be/znVHgcPISKg" />
 
 <!-- ### Important Points -->
-
+<!--
 ## Bunkai
 
-See [Suparinpei (Bunkai)](/bunkai/suparinpei)
+See [Suparinpei (Bunkai)](/bunkai/suparinpei.md) -->

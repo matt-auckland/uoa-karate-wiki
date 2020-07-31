@@ -4,7 +4,7 @@ categories:
   - Bunkai
 ---
 
-For the [kata](/kata), see [Saifa](/kata/saifa)
+For the [kata](/kata/), see [Saifa](/kata/saifa.md)
 
 ## Standard Bunkai
 

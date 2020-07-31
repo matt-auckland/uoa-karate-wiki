@@ -61,4 +61,4 @@ categories:
 
 ## Bunkai
 
-See [Seiyunchin (Bunkai)](/)
+See [Seiyunchin (Bunkai)](/bunkai/seiyunchin.md)

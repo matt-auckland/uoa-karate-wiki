@@ -18,17 +18,17 @@ module.exports = {
         items: [
           {
             text: "About Goju Ryu",
-            link: "/goju-ryu",
+            link: "/goju-ryu.md",
           },
           {
             text: "Beginner's Guide",
-            link: "/beginner-guide",
+            link: "/beginner-guide.md",
           },
-          { text: "Grading Info", link: "/grading" },
-          { text: "Kobudo", link: "/kobudo" },
+          { text: "Grading Info", link: "/grading.md" },
+          { text: "Kobudo", link: "/kobudo.md" },
           {
             text: "Vocabulary",
-            link: "/vocabulary",
+            link: "/vocabulary.md",
           },
           {
             text: "Hojo Undo",
@@ -39,11 +39,11 @@ module.exports = {
             items: [
               {
                 text: "Kata",
-                link: "/kata",
+                link: "/kata/",
               },
-              { text: "Bunkai", link: "/bunkai" },
-              { text: "Renzoku Bunkai", link: "/bunkai/renzokyu-bunkai" },
-              { text: "Yakusoku Kumite", link: "/bunkai/yakusoku-kumite" },
+              { text: "Bunkai", link: "/bunkai/" },
+              { text: "Renzoku Bunkai", link: "/bunkai/renzokyu-bunkai.md" },
+              { text: "Yakusoku Kumite", link: "/bunkai/yakusoku-kumite.md" },
             ],
           },
 
@@ -52,16 +52,16 @@ module.exports = {
             items: [
               {
                 text: "Bowing, sitting, and other etiquette",
-                link: "/etiquette",
+                link: "/etiquette.md",
               },
               {
                 text: "Opening / Closing Ceremony ",
-                link: "/ceremonies",
+                link: "/ceremonies.md",
               },
-              { text: "Dojo Kun ", link: "/ceremonies#dojo-kun" },
+              { text: "Dojo Kun ", link: "/ceremonies#dojo-kun.md" },
               {
                 text: "Speaking Japanese",
-                link: "/japanese",
+                link: "/japanese.md",
               },
             ],
           },

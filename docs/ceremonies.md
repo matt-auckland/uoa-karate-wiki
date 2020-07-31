@@ -3,7 +3,7 @@ title: Ceremonies
 categories:
 ---
 
-In training we begin with a ceremony and close with one. These are performed mostly in Japanese and there are set phrases used. For help with pronouncing and reading the Japanese, [click here](/japanese).
+In training we begin with a ceremony and close with one. These are performed mostly in Japanese and there are set phrases used. For help with pronouncing and reading the Japanese, [click here](/japanese.md).
 
 ## Opening Ceremony
 

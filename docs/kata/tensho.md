@@ -7,7 +7,6 @@ origin: Okinawa
 creator: Chojun Miyagi
 created: 1920 - 1940
 learnt_at: Shodan (Black Belt)
-required_for_grading: 1
 
 categories:
   - Kata
@@ -27,8 +26,7 @@ This kata was created by Chojun Miyagi Sensei. It is supposed to be based off a 
 
 ## How To
 
-service#youtube
-id#https://www.youtube.com/watch?v=4W8yV85HuHI
+<Wiki-Video url="https://www.youtube.com/watch?v=4W8yV85HuHI" />
 
 <!-- ### Important Points -->
 
@@ -50,6 +48,6 @@ id#https://www.youtube.com/watch?v=4W8yV85HuHI
 
 <!-- ### Dan Grade Changes -->
 
-## Bunkai
+<!-- ## Bunkai
 
-See [Tensho (Bunkai)](/bunkai/tensho)
+See [Tensho (Bunkai)](/bunkai/tensho) -->

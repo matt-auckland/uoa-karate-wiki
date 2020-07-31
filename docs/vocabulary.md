@@ -8,17 +8,17 @@ category:
 
 ## General
 
-| Romaji            | Kanji      | Meaning                                | Notes                                                                                    | Pronunciation                                  |
-| ----------------- | ---------- | -------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [Kata](/kata)     | 方・型・形 | Form/pattern, a way of doing something | See [Kata](/kata)                                                                        | [Listen here](https://forvo.com/word/方/#ja)   |
-| [Bunkai](/bunkai) | 分解       | Analysis/disassembly, Application      | Can refer to applications or analysing something for applications. See [Bunkai](/bunkai) | [Listen here](https://forvo.com/word/分解/#ja) |
-| Oyo               | 応用       | Application                            |                                                                                          | [Listen here](https://forvo.com/word/応用/#ja) |
-| Rei               | 礼         | Bow                                    |                                                                                          | [Listen here](https://forvo.com/word/礼/#ja)   |
-| [Seiza](/seiza)   | 正座       | Sitting (in seiza style)               | See [Seiza](/seiza) for a how to                                                         | [Listen here](https://forvo.com/word/正座/#ja) |
-| [Kamae](/kamae)   | 構え       | Guard                                  | There are a number of different kamae, see [Kamae](/kamae) for info                      | [Listen here](https://forvo.com/word/構え/#ja) |
-| Mokuso            | 黙想       | Meditation                             | For tips see [Meditation](/meditation)                                                   | [Listen here](https://forvo.com/word/黙想/#ja) |
-| Zanshin           | 残心       | Remaining mind/Being aware             |                                                                                          | [Listen here](https://forvo.com/word/残心/#ja) |
-| Mushin            | 無心       | No mind/not thinking                   |                                                                                          | [Listen here](https://forvo.com/word/無心/#ja) |
+| Romaji             | Kanji      | Meaning                                | Notes                                                                                     | Pronunciation                                  |
+| ------------------ | ---------- | -------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [Kata](/kata/)     | 方・型・形 | Form/pattern, a way of doing something | See [Kata](/kata/)                                                                        | [Listen here](https://forvo.com/word/方/#ja)   |
+| [Bunkai](/bunkai/) | 分解       | Analysis/disassembly, Application      | Can refer to applications or analysing something for applications. See [Bunkai](/bunkai/) | [Listen here](https://forvo.com/word/分解/#ja) |
+| Oyo                | 応用       | Application                            |                                                                                           | [Listen here](https://forvo.com/word/応用/#ja) |
+| Rei                | 礼         | Bow                                    |                                                                                           | [Listen here](https://forvo.com/word/礼/#ja)   |
+| [Seiza](/seiza)    | 正座       | Sitting (in seiza style)               | See [Seiza](/seiza) for a how to                                                          | [Listen here](https://forvo.com/word/正座/#ja) |
+| [Kamae](/kamae)    | 構え       | Guard                                  | There are a number of different kamae, see [Kamae](/kamae) for info                       | [Listen here](https://forvo.com/word/構え/#ja) |
+| Mokuso             | 黙想       | Meditation                             | For tips see [Meditation](/meditation)                                                    | [Listen here](https://forvo.com/word/黙想/#ja) |
+| Zanshin            | 残心       | Remaining mind/Being aware             |                                                                                           | [Listen here](https://forvo.com/word/残心/#ja) |
+| Mushin             | 無心       | No mind/not thinking                   |                                                                                           | [Listen here](https://forvo.com/word/無心/#ja) |
 
 ### Directions
 

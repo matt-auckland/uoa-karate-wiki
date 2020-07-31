@@ -25,6 +25,6 @@ categories:
 
 <!-- ### Important Points -->
 
-## Bunkai
+<!-- ## Bunkai -->
 
-See [Kururunfa (Bunkai)](/bunkai/kururunfa)
+<!-- See [Kururunfa (Bunkai)](/bunkai/kururunfa.md) -->

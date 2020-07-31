@@ -7,7 +7,7 @@ Foremost in Karate is respect. Respect your partners, your teachers, your dojo, 
 
 ## Ceremonies
 
-For information on the ceremonies see [Ceremonies](/ceremonies).
+For information on the ceremonies see [Ceremonies](/ceremonies.md).
 
 ## Entering and leaving the Dojo
 
@@ -23,9 +23,9 @@ Bowing is a common custom in Japan (and some other Asian cultures) and can be li
 - When walking onto/off a training mat (like at a tournament)
 - Before using training equipment such as a chiishi
 - At the start and end of training
-- During the [[ceremonies]]
+- During the [ceremonies](/ceremonies.md)
 - Before beginning partner work with someone or after ending partner work with someone
-- At the beginning and end of [[kata]]
+- At the beginning and end of [kata](/kata/)
 
 ### How to bow
 
@@ -93,5 +93,5 @@ If you choose to train, caution is advised though as it can be easy to turn a mi
 - Walk between the middle of two lines, it can be dangerous. Always go around the back
 - Lean on the walls
 - Talk while the instructors are explaining
-- Be overly loud in training ([Kiai](/kiai)s are an exception!)
+- Be overly loud in training ([Kiai](/kiai.md)s are an exception!)
 - Hurt your training partners on purpose. We have no tolerance for those who abuse the trust of our members

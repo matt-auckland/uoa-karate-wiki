@@ -33,4 +33,4 @@ The characters making up Sanseiru are: Three （三）, Ten （十）, Six （�
 
 ## Bunkai
 
-See [Sanseiru (Bunkai)](/bunkai/sanseiru)
+See [Sanseiru (Bunkai)](/bunkai/sanseiru.md)

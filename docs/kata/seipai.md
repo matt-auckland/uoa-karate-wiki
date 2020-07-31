@@ -29,4 +29,4 @@ Seipai means "Eighteen Hands" and is formed from the characters "ten"（十）, 
 
 ## Bunkai
 
-See [Seipai (Bunkai)](/bunkai/seipai)
+See [Seipai (Bunkai)](/bunkai/seipai.md)

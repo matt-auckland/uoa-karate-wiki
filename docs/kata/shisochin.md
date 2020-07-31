@@ -15,7 +15,7 @@ categories:
 
 # Shisochin
 
-<Infobox/>
+<Infobox />
 
 ## Name Meaning
 
@@ -67,4 +67,4 @@ The alternative 'spelling' of the kata uses a different character at the end, å›
 
 ## Bunkai
 
-See [Shisochin (Bunkai)](/bunkai/shisochin)
+See [Shisochin (Bunkai)](/bunkai/shisochin.md)

@@ -6,24 +6,24 @@
       class="categories"
     >
       <div class="category-title">
-        <a
+        <router-link
           v-if="footerCategoriesObj[cat] && footerCategoriesObj[cat].path"
-          :href="footerCategoriesObj[cat].path"
+          :to="footerCategoriesObj[cat].path"
         >
           {{cat | categoryName}}
-        </a>
+        </router-link>
         <span v-else>
           {{cat | categoryName}}
         </span>
       </div>
       <div class="pages">
-        <a
+        <router-link
           v-for="page in footerCategoriesObj[cat].pages"
           class="page-link"
-          :href="page.path"
+          :to="page.path"
         >
           {{page.title}}
-        </a>
+        </router-link>
       </div>
     </div>
   </div>

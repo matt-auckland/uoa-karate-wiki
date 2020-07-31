@@ -6,7 +6,7 @@ categories:
   - Bunkai
 ---
 
-For the [kata](/kata), see [Sanseiru](/kata/sanseiru)
+For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 
 ## Standard Bunkai
 

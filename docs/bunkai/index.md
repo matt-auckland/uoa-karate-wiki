@@ -9,18 +9,18 @@ Bunkai also refers to an application found by analysing such things.
 
 ## Kata Bunkai
 
-- [Gekisai Dai Ichi|](/bunkai/gekisai-dai-ichi)
-- [Gekisai Dai Ni](/bunkai/gekisai-dai-ni)
-- [Saifa](/bunkai/saifa)
-- [Seiyunchin](/bunkai/seiyunchin)
-- [Shisochin](/bunkai/shisochin)
-  <!-- - [Sanseiru](/bunkai/sanseiru) -->
-  <!-- - [Seipai](/bunkai/seipai) -->
-  <!-- - [Kururunfa](/bunkai/kururunfa) -->
-  <!-- - [Seisan](/bunkai/seisan) -->
-  <!-- - [Suparinpei](/bunkai/suupaarinpei) -->
-  <!-- - [Sanchin](/bunkai/sanchin) -->
-  <!-- - [Tensho](/bunkai/tensho) -->
+- [Gekisai Dai Ichi](/bunkai/gekisai-dai-ichi.md)
+- [Gekisai Dai Ni](/bunkai/gekisai-dai-ni.md)
+- [Saifa](/bunkai/saifa.md)
+- [Seiyunchin](/bunkai/seiyunchin.md)
+- [Shisochin](/bunkai/shisochin.md)
+  <!-- - [Sanseiru](/bunkai/sanseiru.md) -->
+  <!-- - [Seipai](/bunkai/seipai.md) -->
+  <!-- - [Kururunfa](/bunkai/kururunfa.md) -->
+  <!-- - [Seisan](/bunkai/seisan.md) -->
+  <!-- - [Suparinpei](/bunkai/suupaarinpei.md) -->
+  <!-- - [Sanchin](/bunkai/sanchin.md) -->
+  <!-- - [Tensho](/bunkai/tensho.md) -->
 
 ## Omote and Ura
 

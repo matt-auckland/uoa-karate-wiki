@@ -7,7 +7,7 @@ While not necessary at all to learn, enjoy, or even get good at Karate, knowing 
 
 ## Karate Words
 
-See [Vocabulary](/vocabulary)
+See [Vocabulary](/vocabulary.md)
 
 ## Pronunciation
 

@@ -57,4 +57,4 @@ The name is generally translated as "smash and tear". [砕](https://jisho.org/se
 
 ## Bunkai
 
-See [Saifa (Bunkai)](/bunkai/saifa)
+See [Saifa (Bunkai)](/bunkai/saifa.md)

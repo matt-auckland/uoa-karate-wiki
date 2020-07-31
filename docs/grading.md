@@ -11,12 +11,12 @@ A grading is more or a less an extended training session, about 2.5 - 3 hours lo
 - [Junbi Undo (Warm Ups)](/)
 - [Kihon (Basics)](/)
 - [Moving basics](/)
-- [Kata](/kata)
-- [Bunkai](/bunkai)
-- [Kumite (Sparring)](/sparring)
+- [Kata](/kata/)
+- [Bunkai](/bunkai/)
+- [Kumite (Sparring)](/sparring.md)
 - [Spirit Test](/)
 
-There may also be a "theory" test, asking questions about the History of Goju-Ryu (including people involved), Terminology/Vocabulary, a technical details (such as about the [Kata](/kata)). Two databases of potential questions are available for practice, [one is hosted by Sensei Ewan](http://qualitas.cs.auckland.ac.nz/mcq), [the other by Mat](https://www.uoa-karate.club/#/tester).
+There may also be a "theory" test, asking questions about the History of Goju-Ryu (including people involved), Terminology/Vocabulary, a technical details (such as about the [Kata](/kata/). Two databases of potential questions are available for practice, [one is hosted by Sensei Ewan](http://qualitas.cs.auckland.ac.nz/mcq), [the other by Mat](https://www.uoa-karate.club/#/tester).
 
 ## Kyu Grades - Coloured Belts
 
@@ -25,33 +25,33 @@ These form the basis of the grading requirements for the next rank.
 
 - Ungraded (White Belt)
   - Learns:
-    - [Gekisai Dai Ichi](/kata/gekisai-dai-ichi)
+    - [Gekisai Dai Ichi](/kata/gekisai-dai-ichi.md)
 - 9th Kyu (Blue Belt)
   - Learns:
-    - [Gekisai Dai Ichi (Bunkai)](/bunkai/gekisai-dai-ichi)
-    - [Sanchin](/kata/sanchin)
+    - [Gekisai Dai Ichi (Bunkai)](/bunkai/gekisai-dai-ichi.md)
+    - [Sanchin](/kata/sanchin.md)
 - 8th Kyu (Blue Belt, one black tab)
   - Learns:
-    - [Gekisai Dai Ni](/kata/gekisai-dai-ni)
-    - [Gekisai Dai Ni (Bunkai)](/bunkai/gekisai-dai-ni)
+    - [Gekisai Dai Ni](/kata/gekisai-dai-ni.md)
+    - [Gekisai Dai Ni (Bunkai)](/bunkai/gekisai-dai-ni.md)
 - 7th Kyu (Yellow Belt)
   - Learns:
-    - [Saifa](/kata/saifa)
+    - [Saifa](/kata/saifa.md)
 - 6th Kyu (Yellow Belt, one black tab)
   - Learns:
-    - [Saifa (Bunkai)](/bunkai/saifa)
+    - [Saifa (Bunkai.md)](/bunkai/saifa.md)
 - 5th Kyu (Green Belt)
   - Learns:
-    - [Seiyunchin](/kata/seiyunchin)
+    - [Seiyunchin](/kata/seiyunchin.md)
 - 4th Kyu (Green Belt, one black tab)
   - Learns:
-    - [Seiyunchin (Bunkai)](/bunkai/seiyunchin)
+    - [Seiyunchin (Bunkai)](/bunkai/seiyunchin.md)
 - 3rd Kyu (Brown Belt)
   - Learns:
-    - [Shisochin](/kata/shisochin)
+    - [Shisochin](/kata/shisochin.md)
 - 2nd Kyu (Brown Belt, one black tab)
   - Learns:
-    - [Shisochin (Bunkai)](/bunkai/shisochin)
+    - [Shisochin (Bunkai)](/bunkai/shisochin.md)
 - 1st Kyu (Brown Belt, two black tabs)
   - Learns:
     - ?
@@ -62,16 +62,16 @@ Uses one belt colour, black. Follows a more open syllabus than the kyu grades, a
 
 - Shodan (1st Dan)
   - Learns:
-    - [Sanseiru](/kata/sanseiru)
-    - [Tensho](/kata/tensho)
+    - [Sanseiru](/kata/sanseiru.md)
+    - [Tensho](/kata/tensho.md)
 - Nidan (2nd Dan)
   - Learns:
-    - [Seipai](/kata/seipai)
+    - [Seipai](/kata/seipai.md)
 - Sandan (3rd Dan)
   - Learns:
-    - [Kururunfa](/kata/kururunfa)
-    - [Seisan](/kata/seisan)
-    - [Suupaarinpei](/kata/suupaarinpei)
+    - [Kururunfa](/kata/kururunfa.md)
+    - [Seisan](/kata/seisan.md)
+    - [Suupaarinpei](/kata/suparinpei.md)
   -
 - Yondan (4th Dan)
   - Learns:
