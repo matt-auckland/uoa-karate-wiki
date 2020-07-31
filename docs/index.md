@@ -17,7 +17,7 @@ This is intended to be a reference resource for the study of Goju Ryu Karate and
 
 - [Goju Ryu Karate 剛柔流空手](/goju-ryu.md)
 - [Kata](/kata/)
-- [Bunkai](/bunkai.md)
+- [Bunkai](/bunkai/)
 - [Vocabulary](/vocabulary.md)
 - [Renzoku Bunkai](/bunkai/renzoku-bunkai.md)
 - [Yakusoku Kumite](/bunkai/yakusoku-kumite.md)
