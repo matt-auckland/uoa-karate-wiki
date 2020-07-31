@@ -4,19 +4,18 @@
 
 Wiki for the Auckland University Gōjū Ryū Karate Club, written in Vue.
 
-Not currently hosted as it is still under development. However, you can visit
-the current wiki [here](https://wiki.uoa-karate.club)
+Currently hosted at https://uoa-karate-wiki.netlify.app/ while under development. The original wiki can be found here at https://wiki.uoa-karate.club.
 
 ## Running the site
 
-#### Install
+### Install dependancies
 
 `yarn install`
 
-#### Serve
+### Run local version for development
 
 `yarn serve`
 
-#### Build
+### Build site for deployment
 
 `yarn build`
