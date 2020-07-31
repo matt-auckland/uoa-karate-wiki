@@ -40,3 +40,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+iframe {
+  max-width: 100%;
+}
+</style>
