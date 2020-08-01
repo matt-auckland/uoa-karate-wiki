@@ -10,17 +10,17 @@ For the [kata](/kata/), see [Saifa](/kata/saifa.md)
 
 ### 1. Wrist grab breakout
 
-**Attack**: Stepping forward with left foot from heiko dachi, grab the defender’s left wrist (their right, your left) with your left hand. After they break the grip follow with a migi chudan gyakuzuki.
+**Attack**: Stepping forward with right foot from heiko dachi, grab the defender’s left wrist (their left, your right) with your right hand. After they break the grip follow with a hidari chudan gyakuzuki.
 
-**Defense**: Make a fist with your right hand, step forward 45 degrees to the right with the right foot, pull your right fist almost into chamber (it should be turned so the knuckles are facing the outside of your body, and sticking out of chamber). Grab your right fist with your left hand, bend your right wrist way from your body, then finish stepping, as you pull in your left leg into heiko dachi turn to face the attacker (you should have turned 90 degrees and be perpendicular to your attacker).
-Then pull/push your right hand across your body bringing your left arm into chamber, this should break the grab.
-Counter the incoming punch with a left handed shotae uke while shifting into a shikodachi, followed by a right handed uraken to the attacker’s face.
+**Defense**: Make a fist with your left hand, step forward 45 degrees to the left with the left foot, pull your left fist almost into chamber (it should be turned so the knuckles are facing the outside of your body, and sticking out of chamber). Grab your left fist with your right hand, bend your left wrist way from your body, then finish stepping, as you pull in your right leg into heiko dachi turn to face the attacker (you should have turned 90 degrees and be perpendicular to your attacker).
+Then pull/push your left hand across your body bringing your right arm into chamber, this should break the grab.
+Counter the incoming punch with a right handed shotei uke while shifting into a shikodachi, followed by a left handed uraken to the attacker’s face.
 
 ### 2. Scooping double block
 
-**Attack**: From hidari zenkutsu-dachi, punch migi chudan oizuki, followed by hidari chudan maegeri.
+**Attack**: From hidari zenkutsu-dachi, punch high migi chudan oizuki, followed by hidari chudan maegeri.
 
-**Defense**: Hidari sukui uke to catch the elbow of the punching arm. Follow with a migi sukui uke to catch the kick (arm goes under the thigh, elbow joint should end up underneath the knee joint). Follow by kneeing the attacker’s thigh with your right knee and pushing them away, retain a grip on their arm, perform a migi chudan maegeri, and then pull them towards you at the same time for extra power.
+**Defense**: Hidari sukui uke to catch the elbow of the punching arm. Follow with a migi sukui uke to catch the kick (arm goes under the thigh, elbow joint should end up underneath the knee joint). Follow by kneeing the attacker’s thigh with your right knee and pushing them away (keeping the knee in the air), retain a grip on their arm, perform a migi chudan maegeri, and then pull them towards you at the same time for extra power.
 
 ### 3. Double block and push
 
@@ -30,7 +30,7 @@ Counter the incoming punch with a left handed shotae uke while shifting into a s
 
 ### 4. Leg grab defense
 
-**Attack**: Stepping forward and kneeling down, grabbing defender’s left knee.
+**Attack**: Stepping forward and kneeling down, grabbing defender’s right knee.
 
 **Defense**: Bring your hands down in an circular fashion, striking the attacker’s head on either side of it. The right hand should be a hammer fist, with your knuckles facing downwards. The left hand should be an open palm strike to the ear. After striking the head, swap the hands onto the (respective) other side of the head and grab the ears; the left hand should move underneath the chin and the right over the top of the head. While gripping the ears, turn while shifting into shikodachi, at the same time turn the hands so the right hand moves to the right and left to the left. This will force the attacker to flip over as you turn. After turning around about 180 degrees, slam the attacker’s head onto the ground, follow by digging your thumbs into their eyes.
 
