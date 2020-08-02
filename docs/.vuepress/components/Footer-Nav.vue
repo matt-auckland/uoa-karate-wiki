@@ -144,7 +144,4 @@ export default {
   gap: 12px;
   padding: 10px;
 }
-
-.page-link {
-}
 </style>
