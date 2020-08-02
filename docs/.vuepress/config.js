@@ -1,5 +1,5 @@
 module.exports = {
-  title: "UoA Karate Wiki",
+  title: "UoA Karate Club Wiki",
   description:
     "A reference for University of Auckland Karate Club members. Contains information on things like techniques, Kata, history, vocabularly and more.",
 
