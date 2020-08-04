@@ -16,29 +16,29 @@ The following are 10 sets of prearranged attacks and defences. The defences appl
 
 ## Yakusoku Kumite set #1
 
-1. **Attack**: Jodan oi-zuki
+1. **Attack**: Migi jodan oi-zuki
 
    **Defense**: Migi jodan hiki-uke, shuto-uchi, ashi-bari
 
-1. **Attack**: Migi chudan oi-zuki
+2. **Attack**: Migi chudan oi-zuki
 
-   **Defense**: Migi chudan yoko-uke, gedan-zuki, shuto-uchi together, (kakato fumi-geri after takedown)
+   **Defense**: Migi chudan yoko-uke, hidari gedan-zuki, hidari jodan shuto-uchi to takedown, kakato fumi-geri after takedown.
 
-1. **Attack**: Migi chudan oi-zuki & ashi-bari
+3. **Attack**: Migi chudan oi-zuki & ashi-bari
 
-   **Defense**: Morote hiki-uke (catching wrist & shoulder) ashi-bari & pull down then kick or punch after takedown.
+   **Defense**: Morote hiki-uke (catching wrist & shoulder), ashi-bari & pull down then kick or punch after takedown.
 
-1. **Attack**: Migi jodan oi-zuki
+4. **Attack**: Migi jodan oi-zuki
 
-   **Defense**: Hidari jodan age-uke (zenkutsu-dachi), jodan gyaku-zuki, step forward 45 degrees into shiko-dachi, left blocking arm catching opponents wrist, dropping down into koshi-dachi (feet in musubi-dachi position), pull arm down, migi hari-uke to sweep leg, push knee into opponents hip & punch jodan.
+   **Defense**: Hidari jodan age-uke (step back into zenkutsu-dachi), migi jodan gyaku-zuki. Grab opponent's wrist (with your blocking left hand) and step forward 45 degrees into shiko-dachi, then drop down into koshi-dachi (feet in musubi-dachi position), pull arm down, migi hari-uke to sweep leg, push knee into opponents hip & punch jodan.
 
-1. **Attack**: Migi chudan mae-geri
+5. **Attack**: Migi chudan mae-geri
 
    **Defense**: Migi shuto-uke, hidari shuto-uchi, ashi-bari, takedown opponent.
 
 ## Yakusoku Kumite set #2
 
-1. **Attack**: Jodan oi-zuki
+1. **Attack**: Migi Jodan oi-zuki
 
    **Defense**: In an instant drop down & forward into koshi-dachi, leg at heel (outside) and knee (inside), with a pull action takedown & finish fumi komi-geri.
 
