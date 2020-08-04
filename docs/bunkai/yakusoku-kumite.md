@@ -44,19 +44,19 @@ The following are 10 sets of prearranged attacks and defences. The defences appl
 
 1. **Attack**: Shoulder charge to solar plexus catch & push
 
-   **Defense**: Left-arm slide under opponents right arm, simultaneously, right and catch & press behind neck, throw using opponents forward motion with tai-sabaki in a spiral action & release.
+   **Defense**: Left-arm slides under the opponent's right arm, while simultaneously, your right hand catches & press behind neck. Throw the opponent using their own forward momentum by using tai-sabaki in a spiral action & releasing them.
 
 1. **Attack**: Chudan oi-zuki, gyaku-zuki combination
 
-   **Defense**: Morote shotei-uke, then strike with both hands morote shotei-zuki to shoulders.
+   **Defense**: Morote hiki-uke, (like saifa bunkai) then strike with morote shotei-zuki to the shoulder/collarbone and shove.
 
 1. **Attack**: Migi chudan oi-zuki
 
-   **Defense**: Hidari shotei yoko-uke, migi haito-uchi, grip the right collar tightly & strike sokuto-geri with your right thigh to opponents right thigh taking them to ground, finish off with a punch.
+   **Defense**: Hidari shotei yoko-uke, migi jodan haito-uchi, grip the right collar tightly & strike sokuto-geri with your right thigh to opponents right thigh taking them to ground, finish off with a punch.
 
 1. **Attack**: Chudan mae-geri
 
-   **Defense**: Gedan uchi-bari, haito-uchi.
+   **Defense**: Hidari gedan uchi-bari, follow quickly with migi jodan haito-uchi to knock opponent down.
 
 ## Yakusoku Kumite set #3
 
