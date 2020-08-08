@@ -31,6 +31,29 @@ The characters making up Sanseiru are: Three （三）, Ten （十）, Six （�
 
 <!-- ### Important Points -->
 
+### Kata Techniques
+
+- Morote Chudan Uke
+- Gyakuzuki
+- Kake Uke ? (Needs to be double checked)
+- Shutou
+- Mae Geri
+- Hiji Ate
+- Kansetsu Geri
+- Chudan Uke
+- Juji Uke
+- Hari Uke ? (Needs to be double checked)
+- Tora Guchi
+- Morote Zuki
+- Koken Uke
+
+### Kata Stances
+
+- Musubi Dachi
+- Sanchin Dachi
+- Zenkutsu Dachi
+- Shiko Dachi
+
 ## Bunkai
 
 See [Sanseiru (Bunkai)](/bunkai/sanseiru.md)
