@@ -4,9 +4,12 @@ categories:
   - Important
 ---
 
-Gradings are generally held twice a year, near the end of each semester a week or two before exams begin. Students are tested on what they know, and should know. If requirements are met to the grading Sensei's satisfaction, then the students will go up in rank. A certificate is also presented to those who successfully grade, and (if they have one) the grading is recorded in their grading booklet.
+A grading is an examination for karate to determine if a student can progress to a higher rank.
+They are generally held twice a year, near the end of each semester a week or two before exams begin.
 
-A grading is more or a less an extended training session, about 2.5 - 3 hours long, and is generally composed of the following:
+Students of different rank are often graded together, and with certain exceptions, they all are required to do the same things. However, there will be different expectations as to how well they perform various activities.
+
+A grading is about 2.5 - 3 hours long, and is generally composed of the following:
 
 - [Junbi Undo (Warm Ups)](/)
 - [Kihon (Basics)](/)
@@ -15,10 +18,30 @@ A grading is more or a less an extended training session, about 2.5 - 3 hours lo
 - [Bunkai](/bunkai/)
 - [Kumite (Sparring)](/sparring.md)
 - [Spirit Test](/)
+- [Theory Test](/grading.md#theory-test) (sometimes)
 
-There may also be a "theory" test, asking questions about the History of Goju-Ryu (including people involved), Terminology/Vocabulary, a technical details (such as about the [Kata](/kata/). Two databases of potential questions are available for practice, [one is hosted by Sensei Ewan](http://qualitas.cs.auckland.ac.nz/mcq), [the other by Mat](https://www.uoa-karate.club/#/tester).
+To some degree a grading is “just another training session”, but given the nature of the event everyone tries that little bit harder and so it does tend to be more intense.
 
-## Kyu Grades - Coloured Belts
+The examiner will look at each of the above categories, as well as speed, power, focus, stamina and spirit. A poor level in one or two categories may be offset by very good or excellent levels in other categories. Generally, students who have trained regularly need not fear being unsuccessful. Students are usually not put forward for grading by their instructor unless the instructor is confident that the student has reached the required level.
+
+After a grading, passing students are awarded certificates, and (if they have one) the grading is recorded in their grading booklet (which can be purchased at cost price from the club exec).
+
+## Theory Test
+
+Grading sometimes involves a theory test, especially at 1st dan (black belt) and above. High dan grades (San dan and above) may even be asked to submit an essay before their grading.
+
+Theory tests generally ask questions about the History of Goju-Ryu (including the people involved), karate terminology, and technical details about things like [Kata](/kata/).
+
+### Study material
+
+1. Read this wiki!
+2. Two databases of potential questions are available for practice, [one is hosted by Sensei Ewan](http://qualitas.cs.auckland.ac.nz/mcq), [the other by Mat](https://www.uoa-karate.club/#/tester).
+3. You can also ask your Sensei or Senpai for advice on where to find information.
+4. Eventually, a reference section for books/videos and other study materials will be added to this wiki as well
+
+## Grading ranks and requirements
+
+### Kyu Grades - Coloured Belts
 
 Each rank has a different belt and generally learns a specific Kata or set of Bunkai.
 These form the basis of the grading requirements for the next rank.
@@ -56,9 +79,9 @@ These form the basis of the grading requirements for the next rank.
   - Learns:
     - ?
 
-## Dan Grades - Black Belts
+### Dan Grades - Black Belts
 
-Uses one belt colour, black. Follows a more open syllabus than the kyu grades, as most Karateka begin to learn the remaining kata in the system when they reach Sandan.
+Uses one belt colour, black. Follows a more open syllabus than the kyu grades, as most students have learned or begun to learn all the remaining kata in the system by the time they reach Sandan.
 
 - Shodan (1st Dan)
   - Learns:
