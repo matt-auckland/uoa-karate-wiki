@@ -3,7 +3,11 @@ title: Etiquitte
 categories:
 ---
 
-Foremost in Karate is respect. Respect your partners, your teachers, your dojo, your training equipment, and yourself.
+Foremost in Karate is respect. It is also important to respect your dojo, your partners, your teachers, your training equipment, and yourself.
+
+This includes bowing on entry and exit (of the dojo), not wearing shoes on the dojo floor, wearing clean clothing and being personally clean, having short nails (to avoid injuring a partner), and being on time for training.
+
+Students should avoid reasons for leaving the Dojo during training by going to the toilet beforehand, and having all equipment readily available. If you must leave the dojo or stop training due to any reason (especially if you are not feeling well), please speak to the instructor or a senior member before you leave so your absence is known. Part of this is for health and safety reasons.
 
 ## Ceremonies
 
@@ -20,12 +24,12 @@ Bowing is a common custom in Japan (and some other Asian cultures) and can be li
 ### When to bow
 
 - When entering/leaving the dojo
+- Before beginning partner work with someone or after ending partner work with someone
 - When walking onto/off a training mat (like at a tournament)
 - Before using training equipment such as a chiishi
 - At the start and end of training
 - During the [ceremonies](/ceremonies.md)
-- Before beginning partner work with someone or after ending partner work with someone
-- At the beginning and end of [kata](/kata/)
+- At the beginning and end of a [kata](/kata/)
 
 ### How to bow
 
