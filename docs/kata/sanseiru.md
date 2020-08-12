@@ -35,17 +35,17 @@ The characters making up Sanseiru are: Three （三）, Ten （十）, Six （�
 
 - Morote Chudan Uke
 - Gyakuzuki
-- Kake Uke ? (Needs to be double checked)
+- Kake Uke
 - Shutou
 - Hasami Uke
 - Mae Geri
 - Hiji Ate
 - Kansetsu Geri
-- Chudan Uke
+- Chudan Yoko Uke
 - Juji Uke
-- Hari Uke ? (Needs to be double checked)
+- Kaishu Jodan Uke
 - Tora Guchi
-- Morote Zuki
+- Awase Zuki
 - Koken Uke
 
 ### Kata Stances

@@ -40,15 +40,16 @@ Two versions of 'Sanchin' exist in [Goju Ryu], "Higaonna", and "Miyagi". "Higaon
 ### Kata Techniques
 
 - Morote uke
-- [Chudan Gyakuzuki](/)
-- [Chudan Chokuzuki](/)
-- Chudan Nukite
+- Gyakuzuki
+- Kake Uke
+- Chokuzuki
+- Nukite
 - Toraguchi
 
 ### Kata Stances
 
-- [Musubi Dachi](/)
-- [Sanchin Dachi](/)
+- Musubi Dachi
+- Sanchin Dachi
 
 <!-- ### Dan Grade Changes -->
 
@@ -63,18 +64,19 @@ This is also know as "Sanchin Dai Ni" (三戦第二) or "Turning Sanchin".
 
 ### Kata Techniques
 
-- Morote uke
-- [Chudan Gyakuzuki](/)
-- [Chudan Chokuzuki](/)
-- Chudan Uke
-- Chudan Nukite
+- Morote Chudan Uke
+- Gyakuzuki
+- Kake Uke
+- Chokuzuki
+- Chudan Yoko Uke
+- Nukite
 - Toraguchi
 
 ### Kata Stances
 
-- [Musubi Dachi](/)
-- [Sanchin Dachi](/)
-- [Bensoku Dachi](/)
+- Musubi Dachi
+- Sanchin Dachi
+- Bensoku Dachi
 
 <!-- ### Dan Grade Changes -->
 
