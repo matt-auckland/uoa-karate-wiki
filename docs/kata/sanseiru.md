@@ -37,6 +37,7 @@ The characters making up Sanseiru are: Three （三）, Ten （十）, Six （�
 - Gyakuzuki
 - Kake Uke ? (Needs to be double checked)
 - Shutou
+- Hasami Uke
 - Mae Geri
 - Hiji Ate
 - Kansetsu Geri
