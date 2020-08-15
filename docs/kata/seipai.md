@@ -19,6 +19,8 @@ categories:
 
 Seipai means "Eighteen Hands" and is formed from the characters "ten"（十）, "eight"（八）and "hand"（手）.
 
+Morio Higaonna Sensei has said that the "hand" character represents native Okinawan martial arts, known as "te" or "ti"（手）.
+
 ## Kata History
 
 ## How To

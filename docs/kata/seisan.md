@@ -19,6 +19,8 @@ categories:
 
 The meaning of Seisan is "Thirteen hands". Ten (十), three (三) and hand (手) all add up to mean "Thirteen hands".
 
+Morio Higaonna Sensei has said that the "hand" character represents native Okinawan martial arts, known as "te" or "ti"（手）.
+
 <!-- ## Kata History -->
 
 ## How To

@@ -23,6 +23,8 @@ categories:
 
 The characters making up Sanseiru are: Three （三）, Ten （十）, Six （六）, and Hand （手）; together they mean "Thirty Six Hands".
 
+Morio Higaonna Sensei has said that the "hand" character represents native Okinawan martial arts, known as "te" or "ti"（手）.
+
 ## Kata History
 
 ## How To

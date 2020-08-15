@@ -24,10 +24,12 @@ The penultimate [kata](/kata/) of [Goju Ryu](/goju-ryu.md).
 
 The name Suparinpei means "108 Hands" and is composed of the characters "One"（壱）, "Hundred"（百）, "Zero"（零）, "Eight"（八）, and "Hand"（手）. This number has significance in Buddhism, some of the details of which can be read [here](<https://en.wikipedia.org/wiki/108_(number)#Buddhism>).
 
+Morio Higaonna Sensei has said that the "hand" character represents native Okinawan martial arts, known as "te" or "ti"（手）.
+
 ## Kata History
 
-Originally this kata had 3 versions, ko, chu and jo （小・中・上）, however [Chojun Miyagi] decided to only teach the jo version, which is the most difficult.
-This kata is also know by a few other names, such as Peichurin and Becchurin.
+Originally this kata had 3 versions, ko, chu and jo （小・中・上）, however [Chojun Miyagi](/people/chojun-miyagi.md) decided to only teach the jo version, which is the most difficult/advanced version.
+This kata is also known by a few other names, such as Peichurin and Becchurin.
 
 ## How To
 
