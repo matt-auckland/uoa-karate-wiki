@@ -20,20 +20,20 @@ This is intended to be a reference resource for the study of Goju Ryu Karate and
 - [Bunkai](/bunkai/)
 - [Vocabulary](/vocabulary.md)
 - [Renzoku Bunkai](/bunkai/renzoku-bunkai.md)
-- [Yakusoku Kumite](/bunkai/yakusoku-kumite.md)
-- [Junbi Undo (Warm Up Exercises)](/hojo-undo/)
+- [Yakusoku Kumite](/yakusoku-kumite/)
+  <!-- - [Junbi Undo (Warm Up Exercises)](/hojo-undo/) -->
 - [Hojo Undo (Supplementary Exercises)](/hojo-undo/)
-- [Kiai](/kiai) (**Incomplete**)
+- [Kiai](/kiai.md) (**Incomplete**)
 - [Kakie](/kakie.md) (**Incomplete**)
-- [Footwork and Stances](/footwork-and-stances.md) (**Incomplete**)
-- [Kumite (Sparring.md)](/) (**Incomplete**)
-- [Conditioning](/conditioning) (**Incomplete**)
+- [Footwork and Stances](/stances-and-footwork.md) (**Incomplete**)
+  <!-- - [Kumite (Sparring.md)](/) (**Incomplete**) -->
+  <!-- - [Conditioning](/conditioning) (**Incomplete**) -->
 
 ### Etiquette
 
-- [Bowing, sitting, etiquette and misc gestures](/etiquette.md)
-- [Opening/Closing Ceremony](/ceremonies.md)
-- [Dojo Kun](/ceremonies/dojo-kun.md)
+- [Bowing, sitting, etiquette and misc gestures](etiquette.md)
+- [Opening/Closing Ceremony](ceremonies.md/#opening-ceremony)
+- [Dojo Kun](ceremonies.md/#dojo-kun)
 
 ### Misc
 
