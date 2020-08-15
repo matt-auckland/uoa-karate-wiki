@@ -8,7 +8,7 @@ Currently hosted at https://uoa-karate-wiki.netlify.app/ while under development
 
 ## Running the site
 
-### Install dependancies
+### Install dependencies
 
 `yarn install`
 
@@ -19,3 +19,7 @@ Currently hosted at https://uoa-karate-wiki.netlify.app/ while under development
 ### Build site for deployment
 
 `yarn build`
+
+### Check for broken links
+
+`yarn check-links`
