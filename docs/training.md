@@ -1,10 +1,12 @@
 ---
 title: Training
+categories:
+  - Important
 ---
 
 # Training
 
-A training session will usually follow a standard pattern. Generally, students line up in order of rank facing shomen with the most senior student at the right end of the front row and most junior student at the left end of the back row. The instructor (Sensei) is at the centre front facing the students.
+A training session will usually follow a standard pattern. Generally, students line up in order of rank facing shomen with the most senior student at the right end of the front row and most junior student at the left end of the back row. The instructor (Sensei) is at the center front facing the students.
 
 There may be variations at different Dojos depending on the preferences of the instructor (e.g., if there is more than one instructor).
 

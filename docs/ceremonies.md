@@ -1,9 +1,17 @@
 ---
 title: Ceremonies
+
 categories:
+  - Important
 ---
 
-In training we begin with a ceremony and close with one. These are performed mostly in Japanese and there are set phrases used. For help with pronouncing and reading the Japanese, [click here](/japanese.md).
+We start and end most of our training sessions with opening and closing ceremonies. These are performed mostly in Japanese and there are set phrases used. For help with pronouncing and reading the Japanese, [click here](/japanese.md).
+
+## Meditation
+
+Known in Japanese as Mokuso (<ruby><rb>目</rb><rb>測</rb><rt>もく</rt><rt>そう</rt></ruby>), meditation is a regular part of our Karate training.
+
+We do it during our opening and closing ceremonies, and it should be taken as an opportunity to clear your mind and center yourself.
 
 ## Opening Ceremony
 

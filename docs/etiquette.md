@@ -1,6 +1,8 @@
 ---
-title: Etiquitte
+title: Etiquette
+
 categories:
+  - Important
 ---
 
 Foremost in Karate is respect. It is also important to respect your dojo, your partners, your teachers, your training equipment, and yourself.
