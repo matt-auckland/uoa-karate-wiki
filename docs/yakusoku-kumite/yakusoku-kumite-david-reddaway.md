@@ -4,6 +4,8 @@ noFooter: true
 
 # David Reddaway Sensei's Yakusoku Kumite notes
 
+These seem to be based both on the [IOGKFNZ notes](yakusoku-kumite-iogkfnz.md) and on a longer version of the video that's on the [yakusoku kumite](index.md) page.
+
 ## Yakusoku Kumite – Series One
 
 Semete: Migi Jodan Oi-Zuki.
