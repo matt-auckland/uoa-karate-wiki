@@ -51,7 +51,7 @@ export default {
             categories: page.frontmatter && page.frontmatter.categories,
             title: page.title,
             path: page.path,
-            indexPage: page.relativePath.includes("index.md"),
+            categoryParent: page.frontmatter.isCategoryParent,
           };
         });
 
@@ -61,9 +61,7 @@ export default {
       // we add Important here so it's the first category to show in the footer
       const footerCategoriesObj = { important: {} };
       const miscPages = { pages: [] };
-      const ignoredCategories = ["hojo undo", "kobudo"];
-      // categories that we don't want to have links from their titles
-      const unlinkedCategories = ["important", "misc"];
+      const ignoredCategories = ["hojo undo", "kobudo", "yakusoku kumite"];
 
       this.trimmedPageObjs.forEach((page) => {
         if (page.categories && page.categories.length) {
@@ -75,7 +73,7 @@ export default {
               // Put the page in misc if we don't want to display the category
               miscPages.pages.push(page);
             } else {
-              if (!page.indexPage) {
+              if (!page.categoryParent) {
                 if (
                   footerCategoriesObj[cat] &&
                   footerCategoriesObj[cat].pages
@@ -85,10 +83,8 @@ export default {
                   footerCategoriesObj[cat] = { pages: [page] };
                 }
               }
-              // If page is an index page (aka index.md), use it as the category link
-              // But we also skip categories we don't want to be links
 
-              if (page.indexPage && !unlinkedCategories.includes(cat)) {
+              if (page.categoryParent) {
                 if (!footerCategoriesObj[cat]) {
                   footerCategoriesObj[cat] = { pages: [] };
                 }

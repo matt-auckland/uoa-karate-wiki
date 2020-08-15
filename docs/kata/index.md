@@ -2,6 +2,8 @@
 title: Kata
 categories:
   - Kata
+
+isCategoryParent: true
 ---
 
 # Kata
@@ -14,21 +16,27 @@ In Japanese, 'Kata' generally refers to a method of doing something or a sequenc
 
 ## Goju Ryu Kata List
 
-| Name                                 | Kanji          | Grade             | Type                                 |
-| ------------------------------------ | -------------- | ----------------- | ------------------------------------ |
-| [Gekisai Dai Ichi](gekisai-dai-ichi) | 撃砕第一       | Ungraded/10th Kyu | [Kaishugata](/vocabulary#kaishugata) |
-| [Gekisai Dai Ni](gekisai-dai-ni)     | 撃砕第二       | 9th Kyu           | [Kaishugata](/vocabulary#kaishugata) |
-| [Saifa](saifa)                       | 砕破           | 7th Kyu           | [Kaishugata](/vocabulary#kaishugata) |
-| [Seiyunchin](seiyunchin)             | 制引戦         | 5th Kyu           | [Kaishugata](/vocabulary#kaishugata) |
-| [Shisochin](shisochin)               | 四向戦         | 3rd Kyu           | [Kaishugata](/vocabulary#kaishugata) |
-| [Sanseiru](sanseiru)                 | 三十六手       | 1st Dan           | [Kaishugata](/vocabulary#kaishugata) |
-| [Seipai](seipai)                     | 十八手         | 2nd Dan           | [Kaishugata](/vocabulary#kaishugata) |
-| [Kururunfa](kururunfa)               | 久留頓破       | 3rd Dan           | [Kaishugata](/vocabulary#kaishugata) |
-| [Seisan](seisan)                     | 十三手         | 4th Dan           | [Kaishugata](/vocabulary#kaishugata) |
-| [Suupaarinpei](suparinpei)           | 壱百零八手     | 5th Dan           | [Kaishugata](/vocabulary#kaishugata) |
-| [Sanchin (Higashionna)](sanchin)     | 三戦（東恩納） | 9th Kyu           | [Heishugata](/vocabulary#heishugata) |
-| [Sanchin (Miyagi)](sanchin)          | 三戦（宮城）   | 9th Kyu           | [Heishugata](/vocabulary#heishugata) |
-| [Tensho](tensho)                     | 転掌           | 1st Dan           | [Heishugata](/vocabulary#heishugata) |
+| Name                                                                       | Kanji          | Grade             | Type                      |
+| -------------------------------------------------------------------------- | -------------- | ----------------- | ------------------------- |
+| [Gekisai Dai Ichi](gekisai-dai-ichi.md)                                    | 撃砕第一       | Ungraded/10th Kyu | [Kaishugata](#kaishugata) |
+| [Gekisai Dai Ni](gekisai-dai-ni.md)                                        | 撃砕第二       | 9th Kyu           | [Kaishugata](#kaishugata) |
+| [Saifa](saifa.md)                                                          | 砕破           | 7th Kyu           | [Kaishugata](#kaishugata) |
+| [Seiyunchin](seiyunchin.md)                                                | 制引戦         | 5th Kyu           | [Kaishugata](#kaishugata) |
+| [Shisochin](shisochin.md)                                                  | 四向戦         | 3rd Kyu           | [Kaishugata](#kaishugata) |
+| [Sanseiru](sanseiru.md)                                                    | 三十六手       | 1st Dan           | [Kaishugata](#kaishugata) |
+| [Seipai](seipai.md)                                                        | 十八手         | 2nd Dan           | [Kaishugata](#kaishugata) |
+| [Kururunfa](kururunfa.md)                                                  | 久留頓破       | 3rd Dan           | [Kaishugata](#kaishugata) |
+| [Seisan](seisan.md)                                                        | 十三手         | 4th Dan           | [Kaishugata](#kaishugata) |
+| [Suupaarinpei](suparinpei.md)                                              | 壱百零八手     | 5th Dan           | [Kaishugata](#kaishugata) |
+| [Sanchin (Higashionna)](sanchin.md#how-to-higaonna-style-東ひが恩おん納な) | 三戦（東恩納） | 9th Kyu           | [Heishugata](#heishugata) |
+| [Sanchin (Miyagi)](sanchin.md#how-to-miyagi-style-宮みや城ぎ)              | 三戦（宮城）   | 9th Kyu           | [Heishugata](#heishugata) |
+| [Tensho](tensho.md)                                                        | 転掌           | 1st Dan           | [Heishugata](#heishugata) |
+
+## Kata Types
+
+### Heishugata
+
+### Kaishugata
 
 ## Tips
 

@@ -2,6 +2,8 @@
 title: Bunkai
 categories:
   - Bunkai
+
+isCategoryParent: true
 ---
 
 The word 'Bunkai' refers to taking something apart, or analysing something, in the case of Karate, it can be a technique, stance or a kata.
@@ -18,7 +20,7 @@ Bunkai also refers to an application found by analysing such things.
   <!-- - [Seipai](/bunkai/seipai.md) -->
   <!-- - [Kururunfa](/bunkai/kururunfa.md) -->
   <!-- - [Seisan](/bunkai/seisan.md) -->
-  <!-- - [Suparinpei](/bunkai/suupaarinpei.md) -->
+  <!-- - [Suparinpei](/bunkai/suparinpei.md) -->
   <!-- - [Sanchin](/bunkai/sanchin.md) -->
   <!-- - [Tensho](/bunkai/tensho.md) -->
 
