@@ -71,4 +71,5 @@ module.exports = {
 
     sidebar: "auto",
   },
+  plugins: ["check-md"],
 };
