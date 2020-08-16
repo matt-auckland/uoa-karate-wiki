@@ -4,9 +4,13 @@ title: Kakie
 categories:
 ---
 
+# Kakie
+
 > Kakie is a conversation, not an argument
 
 "Kakie" refers to a partner drill exercise used to develop sensitivity and awareness of an opponent through touch. There are several variations on the type of hand movements used and you can perform and practise a variety of techniques using these drills.
+
+<Wiki-Video url="https://www.youtube.com/watch?v=QrfEuwc8OwU" />
 
 ## Tips
 
