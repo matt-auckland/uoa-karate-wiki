@@ -33,30 +33,19 @@ Bowing is a common custom in Japan (and some other Asian cultures) and can be li
 - During the [ceremonies](/ceremonies.md)
 - At the beginning and end of a [kata](/kata/)
 
-### How to bow
-
-#### Standing
-
-#### Seated
+<Wiki-Video url="https://www.youtube.com/watch?v=YKppnTTyu3Q" />
 
 ## Seiza
 
-Seiza means to sit, specifically on your knees. See the picture for reference. (Coming soon)
+Seiza means to sit, specifically on your knees. See this video for a how to get in and out of Seiza and how to bow when sitting in seiza.
 
-- How to sit into seiza from standing
-- How to turn while in seiza
-- How to stand from seiza
-
-## Standing at attention
-
-We do this when a senior calls "Ki o tsuke" 「<ruby><rb>気</rb><rt>き</rt><rb>をつけ</rb><rt></rt></ruby>」.
-The proper way to do this is ..
+<Wiki-Video url="https://www.youtube.com/watch?v=lKzvZJhNGrk" />
 
 ## How to tie your belt
 
-As long as it's not falling off it's probably tied okay, but if you want to know some 'proper' methods then watch this video.
+This video shows two methods of tying the belt, either is fine to use. A correctly tied belt should be symmetric, both in the length of the ends and the shape of the knot.
 
-Insert video here.
+<Wiki-Video url="https://www.youtube.com/watch?v=TfLb2Y_X-8Y" />
 
 ## Punctuality
 
@@ -68,10 +57,13 @@ In the unlikely event that you are late, at the back of the dojo, warm up and do
 
 ## Water/Rest Breaks and Feeling Unwell
 
-The general rule is: If the instructor hasn't told you that you can have a rest or a drink of water, you shouldn't. <br/>
+The general rule is: If the instructor hasn't told you that you can have a rest or a drink of water, you shouldn't.
 
-However if you are feeling faint, unwell or are unable to continue for any other reason, let an instructor or senior member know and you can take a rest. We have members who are certified in First Aid so we'll keep an eye on you just to be safe. <br/>
-'''Never leave the dojo when you are feeling unwell without letting someone know.''' If you wander out and collapse somewhere and we don't know where you've gone that is obviously bad.
+However if you are feeling faint, unwell or are unable to continue for any other reason, let an instructor or senior member know and you can take a rest. We have members who are certified in First Aid so we'll keep an eye on you just to be safe.
+
+> Never leave the dojo/training floor when you are feeling unwell without letting someone know.
+
+If you wander out and collapse somewhere and we don't know where you've gone that is obviously bad.
 And remember, we're here to challenge ourselves and push our limits, but not to the point of collapse, train hard but train smart.
 
 ## Should I go to training or not?

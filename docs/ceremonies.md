@@ -61,6 +61,8 @@ We do it during our opening and closing ceremonies, and it should be taken as an
 
 ## Dojo-Kun
 
+The Dojo Kun (道場訓) is a Japanese martial arts term literally meaning “Training hall rules”. The dojo kun indicates the behaviour expected by those practicing at the dojo. Many styles, including Goju Ryu, recite their respective dojo kun at the end of training.
+
 ### English
 
 (Speak phrase, other members will repeat after you)

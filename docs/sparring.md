@@ -5,7 +5,17 @@ categories:
 
 # Sparring/Kumite
 
-Sparring is when you practise techniques with a partner in a free form fashion. The type of sparring dictates the overall goal and intensity of the exercise.
+Kumite is a controlled form of fighting. There are different forms, corresponding to the degree of control over the movements.
+
+A simple form is ippon kumite, or one-step sparring which consists of a single attack and corresponding defence. Other forms include san dan gi, involving 3 steps, 3 attacks at 3 different levels, and the corresponding defences.
+
+Randori is continuous attack and defence, emphasising technique and combinations, but with minimal contact.
+
+Jiyu kumite is at full speed with some hard contact particularly to the body.
+
+Go kumite is full contact.
+
+In all cases, emphasis is on safety and control. Safety equipment is often used, particularly for Go kumite. Even with the lighter forms, a mouth guard should be considered the absolute minimum.
 
 ## Types of sparring
 

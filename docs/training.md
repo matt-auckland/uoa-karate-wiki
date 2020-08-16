@@ -41,8 +41,10 @@ Kata are sequences of pre-arranged movements and techniques. The true meaning an
 
 ### Bunkai (Self-defence applications)
 
-Bunkai are the application of the movements of the Kata against an opponent. The Kata do not exist just as a form of exercise for demonstration purposes. They embody a large number of self-defence applications.
+The word 'Bunkai' (分解) refers to taking something apart, or analysing something.
+In the case of Karate, 'bunkai' refers to the application of the movements of the Kata against an opponent, these applications are created by taking apart and analysing the kata.
 
+The Kata do not exist just as a form of exercise for demonstration purposes. They embody a large number of self-defence applications.
 Without understanding how the self-defence applications are developed from the Kata, the Kata is just a form of dance. Students are taught basic bunkai but many variations exist, and students can even develop their own once they have acquired an understanding of the movements of the kata.
 
 ### Partner work
