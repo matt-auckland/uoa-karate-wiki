@@ -13,7 +13,7 @@
         :alt="caption"
       >
     </a>
-    <figcaption>{{caption}}</figcaption>
+    <figcaption v-if="caption">{{caption}}</figcaption>
   </figure>
 </template>
 
