@@ -29,31 +29,29 @@ The name is generally translated as "smash and tear". [砕](https://jisho.org/se
 
 ### Kata Techniques
 
-- Wrist grab break out
-- [Shotei Uke](/)
-- [Ura Ken Uchi](/)
-- [Morote Sukui Uke](/)
-- [Hiji Ate](/)
-- [Gedan Mae Geri](/)
-- [Heiko Zuki](/)
-- [Gedan Tettsui Uchi](/)
-- [Hiki Uke](/)
-- [Jodan Tettsui Uchi](/)
-- [Ashi Barai](/)
-- [Ura Zuki](/)
-- [Gyaku Zuki](/)
-- [Haito Uchi](/)
-- [Tora Guchi](/)
+- Shotei Uke
+- Ura Ken Uchi
+- Morote Sukui Uke
+- Hiji Ate
+- Mae Geri
+- Heiko Zuki
+- Tettsui Uchi
+- Hiki Uke
+- Ashi Barai
+- Ura Zuki
+- Gyaku Zuki
+- Haito Uchi
+- Tora Guchi
 
 ### Kata Stances
 
-- [Musubi Dachi](/)
-- [Shiko Dachi](/)
-- [Sagiashi Dachi](/)
-- [Zenkutsu Dachi](/)
-- [Hachiji Dachi](/)
-- [Han Zenkutsu Dachi](/)
-- [Neko Ashi Dachi](/)
+- Musubi Dachi
+- Shiko Dachi
+- Sagiashi Dachi
+- Zenkutsu Dachi
+- Hachiji Dachi
+- Han Zenkutsu Dachi
+- Neko Ashi Dachi
 
 ## Bunkai
 
