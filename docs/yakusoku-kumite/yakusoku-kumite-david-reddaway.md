@@ -85,8 +85,6 @@ Kata: Drop down and grab opponents’ legs and throw by rolling them over should
 Semete: Shoulder tackle or choke attack (2 hands).
 Kata: As your opponent tackles Hiza-Geri to chest, your opponent will catch your knee, grab their belt and fall backward and throw (Tomo-Nage) (Choke), as the attack comes in fast throw hand in air as a decoy, simultaneously drop your body into Koshi-Dachi, as your opponent loses balance take weight on shoulders and throw backwards.
 
-(NOTE: THIS SHOULD PROBABLY BE TWO SEPERATE ATTACKS/DEFENCES ^^^)
-
 ## Yakusoku Kumite – Series Six _6:30_
 
 Semete: Chudan Mae-Geri.
@@ -119,8 +117,6 @@ Kata: Jodan Morote Hiki-Uke, catch wrist and elbow, lock arm (figure four), thro
 
 Semete: Chudan Oi-Zuki.
 Kata: HIdari Chudan Shotei-Uke, Migi Jodan Gyaku-Zuki, catch wrist with right hand and roll left arm down to partners elbow, tae sebaki and throw, apply arm lock.
-
-(NOT IN IOGKFNZ NOTES ^^^)
 
 Semete: Jodan Oi-Zuki.
 Kata: Jodan Hiki-Uke (inside), Jodan Gyaku Shotei-Zuki, grasp opponents’ wrist, step outside front foot and Ashi-Waza (sweeping the leg), simultaneously drawing your inside elbow down your opponent’s arm to throw.
