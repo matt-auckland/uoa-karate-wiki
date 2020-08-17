@@ -22,9 +22,15 @@ Another basic tool, the Makiage 「<ruby><rb>巻</rb><rt>ま</rt><rb>き</rb><rt
 
 The Makiage is sometimes referred to as a "Makiage kigu" 「<ruby><rb>巻</rb><rt>ま</rt><rb>き</rb><rt></rt><rb>上</rb><rt>あ</rt><rb>げ</rb><rt></rt><rb>器</rb><rt>き</rt><rb>具</rb><rt>ぐ</rt></ruby>」, which means "rolling/hoisting tool". "Maki" 「<ruby><rb>巻</rb><rt>ま</rt><rb>き</rb><rt></rt></ruby>」 comes from the word "maku" 「<ruby><rb>巻</rb><rt>ま</rt><rb>く</rb><rt></rt></ruby>」, which means to wind/roll/coil, and "age" 「<ruby><rb>上</rb><rt>あ</rt><rb>げ</rb><rt></rt></ruby>」 comes from the word "ageru" 「<ruby><rb>上</rb><rt>あ</rt><rb>げる</rb><rt></rt></ruby>」 which means "to raise". "Kigu" 「<ruby>器<rt>き</rt>具<rt>ぐ</rt></ruby>」 means "tool".
 
-### Nigiri game
+### Nigiri Game
 
 <Wiki-Img caption="Nigiri game at the Higaonna Dojo in Okinawa" src="/hojo-undo/hojo-undo-higaonna-dojo-nigiri-game.jpg"/>
+
+Nigiri Game (握甕 - ニギリガメ）translates roughly as "gripping jars", they are also sometimes referred to as "Sanchin Jars". These are used to train grip strength as well as arm and back strength. These are simply jars which are gripped on the lip of the jar. The jars may simply be held while the user steps (Sanchin stepping, or Shikodachi stepping) or they may be raised and lowered as well.
+
+The weight and size of the jars differs but, if a jar is too light or becomes to easy to use, it is common to fill it with things like water/sand/rocks to increase it's weight.
+
+<Wiki-Video url="https://www.youtube.com/watch?v=p5gf4ntcweY" />
 
 <!-- ### Tan -->
 
@@ -32,9 +38,13 @@ The Makiage is sometimes referred to as a "Makiage kigu" 「<ruby><rb>巻</rb><r
 
 <Wiki-Img caption="Ishi Sashi at the Higaonna Dojo in Okinawa" src="/hojo-undo/hojo-undo-higaonna-dojo-ishi-sashi.jpg"/>
 
+Ishi Sashi or Saashii (石錠 or サーシー), are literally translated as Stone Padlocks.
+
 ### Kongoken
 
-A creation of [[Chojun Miyagi]], the Kongoken is based off of large, man sized iron circles he saw being used by Hawaiian wrestlers to train when he visited Hawaii in the mid 1930s. He was apparently so impressed with the tool he brought one or more home when he returned to Okinawa around 1935. Miyagi modified the design to make it closer to the human body, flatting the sides so it now resembles more of a rectangle with circular ends. A Kongoken is normally around 150-165cm tall and around 20-25kg heavy, it can be used as a weight for regular strength exercises or it can be lifted, rotated and manipulated in various ways to simulate and train methods and techniques for things such as throwing, controlling and otherwise moving an opponents body.
+A creation of [Chojun Miyagi](/people/chojun-miyagi.md), the Kongoken (金剛圏 - コンゴウケン) is based off of large, man sized iron circles he saw being used by Hawaiian wrestlers to train when he visited Hawaii in the mid 1930s. He was apparently so impressed with the tool he brought one or more home when he returned to Okinawa around 1935. Miyagi modified the design to make it closer to the human body, flatting the sides so it now resembles more of a rectangle with circular ends. A Kongoken is normally around 150-165cm tall and around 20-25kg heavy, it can be used as a weight for regular strength exercises or it can be lifted, rotated and manipulated in various ways to simulate and train methods and techniques for things such as throwing, controlling and otherwise moving an opponents body.
+
+<Wiki-Video url="https://www.youtube.com/watch?v=DHdwHiSJTm4" />
 
 ### Tetsu Geta
 
@@ -68,7 +78,7 @@ to be added:
 
 ### Tou
 
-The Tou (とう) is a bundle of dried bamboo tied together. This bundle is used to train one's striking abilities or to condition one's extremities. It can be struck with the arms, kicked, gripped or even stabbed with a thrust of one's fingers. A Tou maybe be vertical or horizontal, different configurations lend themselves better to different training techniques. Very useful for training nukite, but not recommenced until you have conditioned your hands somewhat.
+The Tou (とう) is a bundle of dried bamboo tied together. This bundle is used to train one's striking abilities or to condition one's extremities. It can be struck with the arms, kicked, gripped or even stabbed with a thrust of one's fingers. A Tou may be vertical or horizontal, different configurations lend themselves better to different training techniques. Very useful for training nukite, but not recommenced until you have conditioned your hands somewhat.
 
 ### Jari Bako
 
