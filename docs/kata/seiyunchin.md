@@ -31,31 +31,31 @@ categories:
 
 ### Kata Techniques
 
-- [Sukui Uke](/)
-- [Nukite|Nukite Zuki](/)
-- Fist on palm?
-- [Hojo Oshi](/)
-- palm strike wrist grab breakout
-- [Hiji Ate](/)
-- [Hojo Uke|Hojo Chudan Uke](/)
-- [Gedan Barai](/)
-- [Hari Uke](/)
-- [Ura Ken Uchi](/)
-- Double block
-- [Age Zuki](/)
+- Sukui Uke
+- Nukite
+- Hojo Oshi
+- Shuto
+- Hiji Ate
+- Hojo Uke
+- Gedan Barai
+- Hari Uke
+- Uchi Uke
+- Ura Ken Uchi
+- Chudan Yoko Uke
+- Age Zuki
 - Elbow bear hug breakout move ?
-- [Shotei Uke](/)
-- [Kuri Uke](/)
+- Shotei Uke
+- Kuri Uke
 
 ### Kata Stances
 
-- [Musubi Dachi](/)
-- [Shiko Dachi](/)
-- [Sanchin Dachi](/)
-- [Han Zenkutsu Dachi](/)
-- [Renoji Dachi](/)
-- [Bensoku Dachi](/)
-- [Neko Ashi Dachi](/)
+- Musubi Dachi
+- Shiko Dachi
+- Sanchin Dachi
+- Han Zenkutsu Dachi
+- Renoji Dachi
+- Bensoku Dachi
+- Neko Ashi Dachi
 
 <!-- ### Dan Grade Changes -->
 
