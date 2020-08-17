@@ -1,6 +1,6 @@
 ---
 categories:
-  - Technqiues
+  - Techniques
 ---
 
 # Throws and Takedowns
