@@ -17,6 +17,8 @@ focusing on good technique, and two or more sets fast and strong. You should
 do your own count (initially the language of your choice, but eventually in
 Japanese), and don't forget to count **before** you do the technique.
 
+## Sections
+
 ### Basics
 
 The basics you do come from the kata. Take the techniques in order from the
