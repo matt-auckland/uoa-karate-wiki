@@ -2,7 +2,9 @@ module.exports = {
   title: "UoA Karate Club Wiki",
   description:
     "A reference for University of Auckland Karate Club members. Contains information on things like techniques, Kata, history, vocabularly and more.",
-
+  head: [
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+  ],
   themeConfig: {
     docsDir: "docs",
     editLinks: true,

@@ -5,7 +5,7 @@ categories:
 
 # Throws and Takedowns
 
-Karate has many grappling technqiues, this page aims to showcase some of them.
+Karate has many grappling techniques, this page aims to showcase some of them.
 
 ## Throws
 
@@ -43,6 +43,14 @@ Found in:
 Found in:
 
 - Yakusoku Kumite set 10, technique 3.
+
+### Sukui Nage
+
+<Wiki-Video url="https://youtu.be/sn13Bu3bxHE" />
+
+Found in:
+
+- Seiyunchin
 
 ### Takedowns
 

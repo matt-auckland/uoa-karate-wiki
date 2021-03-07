@@ -34,6 +34,8 @@ The weight and size of the jars differs but, if a jar is too light or becomes to
 
 <!-- ### Tan -->
 
+<!-- 担（タン） -->
+
 ### Ishi Sashi
 
 <Wiki-Img caption="Ishi Sashi at the Higaonna Dojo in Okinawa" src="/hojo-undo/hojo-undo-higaonna-dojo-ishi-sashi.jpg"/>
@@ -70,7 +72,7 @@ Other variations include:
 - Wall attached Makiwara, usually composed of a block of wood with one or more slits cut one after the other in middle of the wood to allow for give
 - Wooden plank Makiwara with slits cut into them
 
-to be added:
+To be added:
 (picture of a traditional rope post)
 (picture of a modern rope post)
 (picture of a modern leather post)
@@ -81,6 +83,8 @@ to be added:
 The Tou (とう) is a bundle of dried bamboo tied together. This bundle is used to train one's striking abilities or to condition one's extremities. It can be struck with the arms, kicked, gripped or even stabbed with a thrust of one's fingers. A Tou may be vertical or horizontal, different configurations lend themselves better to different training techniques. Very useful for training nukite, but not recommenced until you have conditioned your hands somewhat.
 
 ### Jari Bako
+
+<!-- 砂 箱（スナバコ） -->
 
 Literally "Gravel/Pebble Box", the Jari Bako （<ruby><rb>砂利</rb><rt>じゃり</rt><rb>箱</rb><rt>ばこ</rt></ruby>）is exactly what it sounds like, a box of small rocks. This can be used for a variety of exercises such as stabbing into the stones with ones fingers, or reaching in and gripping the stones. Also known as "Suna bako" （<ruby><rb>砂</rb><rt>すな</rt><rb>箱</rb><rt>ばこ</rt></ruby>） which means "Sand Box" or "Kan shu" （カンシュ）, I believe the latter is an Okinawan word, I'm unsure as to it's exact meaning.
 
