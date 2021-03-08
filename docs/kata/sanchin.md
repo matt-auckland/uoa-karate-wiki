@@ -21,13 +21,14 @@ The name "Sanchin" is composed of the characters "Three" (<ruby><rb>三</rb><rt>
 
 ## Kata History
 
-[Chojun Miyagi] learned this kata from [Kanryo Higaonna] and made several changes to it, including:
+It is said that [Kanryo Higashionna] was the one who changed Sanchin's open hands into closed fists. This is supported by the fact that all the karate styles that spawned from Higashionna (Goju Ryu, Shito Ryu, Tōon-ryū) have close fisted Sanchin.
 
-- Using closed fists instead of open hands
-- The method of breathing
-- The foot work involved
+[Chojun Miyagi] learned this kata from [Kanryo Higaonna] and made several changes to it:
 
-Two versions of 'Sanchin' exist in [Goju Ryu], "Higaonna", and "Miyagi". "Higaonna" retains the turns of Higaonna's original version. "Higaonna Sanchin" is also known as "Sanchin Dai Ni"
+- The method of breathing became harder, it's said the orginal was softer.
+- The footwork was simplified, the turns that existed in the kata were removed, and the stepping was changed so as to perform fewer steps.
+
+Two main versions of 'Sanchin' now exist in [Goju Ryu], "Higashionna", and "Miyagi". "Higashionna" retains the turns of Higashionna's original version. "Higashionna Sanchin" is also known as "Sanchin Dai Ni"
 
 ## How To - Miyagi Style (<ruby><rb>宮</rb><rt>みや</rt><rb>城</rb><rt>ぎ</rt></ruby>)
 
