@@ -22,43 +22,43 @@ The number of applications shown in the video also differs from what is written 
 
 1. **Attack**: Migi Jodan Oi-Zuki
 
-   **Defense**: Migi Jodan Hiki-Uke, hidaro Shuto-Uchi, hidari Ashi-Bari and takedown
+   **Defense**: Migi Jodan Hiki-Uke, strike Hidari Shuto-Uchi, use Hidari Ashi-Bari to takedown
 
 1. **Attack**: Migi Chudan Oi-Zuki
 
-   **Defense**: Migi Chudan Yoko-Uke, hidari Gedan-Zuki, hidari Jodan Shuto-Uchi to takedown, kakato Fumi-Geri after takedown.
+   **Defense**: Migi Chudan Yoko-Uke, Hidari Gedan-Zuki, Hidari Jodan Shuto-Uchi to takedown, kakato Fumi-Geri after takedown.
 
 1. **Attack**: Migi Chudan Oi-Zuki
 
-   **Defense**: Morote Hiki-Uke (catching wrist and shoulder), Ashi-Bari and pull down then kick or punch after takedown.
+   **Defense**: Morote Hiki-Uke (catching wrist and shoulder), Ashi-Bari and pull down (dropping body weight). Follow up with kick or punch after takedown.
 
 1. **Attack**: Migi Jodan Oi-Zuki
 
-   **Defense**: Hidari Jodan Age-Uke (step back into zenkutsu-Dachi), Migi Jodan Gyaku-Zuki. Grab opponent's wrist (with your blocking left hand) and shift your left foot forward 45 degrees so you're shiko-Dachi, then drop down into koshi-Dachi (feet in musubi-Dachi position, pull the right foot to your left foot), pull their arm down to take them down. Push knee into opponent's hip and punch Jodan. Note: You can use your right hand to block the back of their right leg and prevent them from stepping if you need to.
+   **Defense**: Step back into Hidari Zenkutsu-Dachi, blocking with Hidari Jodan Age-Uke, strike with Migi Jodan Gyaku-Zuki. Grab opponent's wrist (with your left hand) and shift your left foot forward on a 45° angle so you're in Shiko-Dachi, then drop down into Koshi-Dachi (move your right foot next to your left foot), pull their arm down to take them down (Note: You can use your right hand to block the back of their right leg and prevent them from stepping if you need to). After the takedown, push knee into opponent's hip and punch Jodan.
 
-1. **Attack**: Migi Chudan Mae-Geri
+2. **Attack**: Migi Chudan Mae-Geri
 
-   **Defense**: Migi Shuto-Uke, hidari Shuto-Uchi, Ashi-Bari, takedown opponent.
+   **Defense**: Migi Shuto-Uke, strike Hidari Shuto-Uchi, takedown opponent with Ashi-Bari.
 
 ## Yakusoku Kumite set #2
 
 1. **Attack**: Migi Jodan Oi-Zuki
 
-   **Defense**: In an instant drop down and forward into koshi-Dachi, catch leg at heel (left hand, on the outside) and knee (right hand on the inside), then takedown with a pull (ankle) and push (knee) action and finish with Fumi Komi-Geri to groin.
+   **Defense**: In an instant, drop down and forward into Koshi-Dachi, catch opponent's right leg at the heel and knee (left hand on the outside of the heel, right hand on the inside of the knee), then takedown by pulling the ankle and pushing the knee as you stand up. Finish with Fumi Komi-Geri to groin.
 
-1. **Attack**: Shoulder charge to solar plexus
+2. **Attack**: Shoulder charge to solar plexus
 
-   **Defense**: Simultaneously slide your left-arm under the opponent's right arm, while your right hand catches and presses the back of the head. Throw the opponent using their forward momentum by using tai-Sabaki (swing your right leg back) in a spiral action and releasing them.
+   **Defense**: Simultaneously slide your left-arm under the opponent's right arm (underhook), while your right hand catches and presses the back of the head. Throw the opponent in a spiral action, using their forward momentum by using Tai-Sabaki (swing your right leg back) while you lift their right arm and you press on their head, before releasing them.
 
-1. **Attack**: Migi Chudan Oi-Zuki, hidari Chudan Gyaku-Zuki combination
+3. **Attack**: Migi Chudan Oi-Zuki, Hidari Chudan Gyaku-Zuki combination
 
-   **Defense**: Morote Shotei-Uke, then strike with both hands Morote Shotei-Zuki to collar bones.
+   **Defense**: Morote Shotei-Uke, then strike with Morote Shotei-Zuki to collar bones, follow by shoving the opponent.
 
-1. **Attack**: Migi Chudan Oi-Zuki
+4. **Attack**: Migi Chudan Oi-Zuki
 
    **Defense**: Hidari Shotei Yoko-Uke, Migi Jodan Haito-Uchi, grip the right collar tightly and strike sokuto-Geri with your right thigh to opponent's right thigh to reap them and take them to ground, finish off with a Migi punch to the head.
 
-1. **Attack**: Migi Chudan Mae-Geri
+5. **Attack**: Migi Chudan Mae-Geri
 
    **Defense**: Hidari Gedan Uchi-Bari, follow quickly (while they are standing on one leg and/or off-balance) with Migi Jodan Haito-Uchi to knock opponent down.
 
@@ -66,7 +66,7 @@ The number of applications shown in the video also differs from what is written 
 
 1. **Attack**: Migi Jodan Oi-Zuki
 
-   **Defense**: Migi Jodan Age-Uke (step forward into shiko-Dachi), Kinteki-Uchi, hook your front foot around your opponent's foot and throw (press your knee into their knee), Fumi Komi-Geri.
+   **Defense**: Migi Jodan Age-Uke (step forward into Shiko-Dachi), Kinteki-Uchi, hook your front foot around your opponent's foot and throw (press your knee into their knee), Fumi Komi-Geri.
 
    Note: the video shows an abridged version of this technique ^
 
@@ -120,7 +120,7 @@ The number of applications shown in the video also differs from what is written 
 
 1. **Attack**: Choke attack (2 hands)
 
-   **Defense**: As attack comes in fast, throw a hand in the air as a decoy, simultaneously drop your body into koshi-Dachi and as your opponent loses balance take weight on shoulders and throw backward.
+   **Defense**: As attack comes in fast, throw a hand in the air as a decoy, simultaneously drop your body into Koshi-Dachi and as your opponent loses balance take weight on shoulders and throw backward.
 
    Note: The last two items in this set are recorded as one attack/defence in the IOGKFNZ notes and Reddaway Sensei's notes but I believe this is an erorr and have split them apart.
 

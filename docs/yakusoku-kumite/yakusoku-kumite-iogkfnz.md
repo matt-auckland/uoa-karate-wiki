@@ -4,7 +4,7 @@ noFooter: true
 
 # IOGKFNZ Yakusoku Kumite notes
 
-This is essentially a copy-paste from the IOGKFNZ Instructor's manual. It's here purely for citation purposes. There may be some errors in spelling bu
+This is essentially a copy-paste from the IOGKFNZ Instructor's manual. It's here purely for citation purposes. Any errors in spelling are due to the orignal.
 
 ## Yakusoku Kumite no 1
 
