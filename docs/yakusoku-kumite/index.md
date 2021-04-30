@@ -20,27 +20,31 @@ The number of applications shown in the video also differs from what is written 
 
 ## Yakusoku Kumite set #1
 
+<Wiki-Video url="https://youtu.be/o1BDIqLDcfI" />
+
 1. **Attack**: Migi Jodan Oi-Zuki
 
    **Defense**: Migi Jodan Hiki-Uke, strike Hidari Shuto-Uchi, use Hidari Ashi-Bari to takedown
 
-1. **Attack**: Migi Chudan Oi-Zuki
+2. **Attack**: Migi Chudan Oi-Zuki
 
    **Defense**: Migi Chudan Yoko-Uke, Hidari Gedan-Zuki, Hidari Jodan Shuto-Uchi to takedown, kakato Fumi-Geri after takedown.
 
-1. **Attack**: Migi Chudan Oi-Zuki
+3. **Attack**: Migi Chudan Oi-Zuki
 
    **Defense**: Morote Hiki-Uke (catching wrist and shoulder), Ashi-Bari and pull down (dropping body weight). Follow up with kick or punch after takedown.
 
-1. **Attack**: Migi Jodan Oi-Zuki
+4. **Attack**: Migi Jodan Oi-Zuki
 
    **Defense**: Step back into Hidari Zenkutsu-Dachi, blocking with Hidari Jodan Age-Uke, strike with Migi Jodan Gyaku-Zuki. Grab opponent's wrist (with your left hand) and shift your left foot forward on a 45° angle so you're in Shiko-Dachi, then drop down into Koshi-Dachi (move your right foot next to your left foot), pull their arm down to take them down (Note: You can use your right hand to block the back of their right leg and prevent them from stepping if you need to). After the takedown, push knee into opponent's hip and punch Jodan.
 
-2. **Attack**: Migi Chudan Mae-Geri
+5. **Attack**: Migi Chudan Mae-Geri
 
    **Defense**: Migi Shuto-Uke, strike Hidari Shuto-Uchi, takedown opponent with Ashi-Bari.
 
 ## Yakusoku Kumite set #2
+
+<Wiki-Video url="https://youtu.be/ZjpZ7WF-klc" />
 
 1. **Attack**: Migi Jodan Oi-Zuki
 
@@ -64,6 +68,8 @@ The number of applications shown in the video also differs from what is written 
 
 ## Yakusoku Kumite set #3
 
+<Wiki-Video url="https://youtu.be/enFVohGpBIQ" />
+
 1. **Attack**: Migi Jodan Oi-Zuki
 
    **Defense**: Migi Jodan Age-Uke (step forward into Shiko-Dachi), Kinteki-Uchi, hook your front foot around your opponent's foot and throw (press your knee into their knee), Fumi Komi-Geri.
@@ -80,27 +86,31 @@ The number of applications shown in the video also differs from what is written 
 
 1. **Attack**: Throat grab (with two hands)
 
-   **Defense**: Step back before opponent grips, Morote Age-Uke, step in and attack with a shoulder charge to stomach and quickly pull up and back on opponent's knee to throw. Finish with Fumi Komi-Geri.
+   **Defense**: Step back before opponent grips, Morote Age-Uke, step in and attack with a shoulder charge to stomach and quickly pull up and back on opponent's knees while standing up to throw (double leg takedown). Finish with Fumi Komi-Geri.
 
 ## Yakusoku Kumite set #4
 
+<Wiki-Video url="https://youtu.be/EPYaBRLSfBc" />
+
 1. **Attack**: Migi Jodan Oi-Zuki
 
-   **Defense**: Move to the left while performing Morote Hiki-Uke. Perform Shisochin elbow lock, but step into it (and roll the arm?) to perform a throw. Either the attacker will be driven into the ground or they will have to roll out of the lock.
+   **Defense**: Move to the left while performing Morote Hiki-Uke. Perform Shisochin elbow lock but target the bicep, and step in front of the attacker's right leg while pressing and rolling the arm to perform a throw. Either the attacker will be driven into the ground or they will have to roll out of the lock.
 
-1. **Attack**: Migi Chudan Mae-Geri
+2. **Attack**: Migi Chudan Mae-Geri
 
    **Defense**: Hidari Gedan Harai-Uke and scoop leg, then use Migi Jodan Shotei-Oshi to push opponent back. Grab their gi with your right hand for safety, then use Migi Ashi-Barai to throw. Punch Jodan to finish.
 
-1. **Attack**: Migi Chudan Mae-Geri
+3. **Attack**: Migi Chudan Mae-Geri
 
    **Defense**: Hasami-Uke to catch leg (as in Sanseiru), Migi kick to point behind groin, insert your foot between their legs, foot pressing on their right leg while your knee is on top of their left leg. Lever downwards on their leg with your knee to throw (retain hold of their leg), Migi Kansetsu-Geri to groin, throw their leg across their body to turn them away from you.
 
-1. **Attack**: Migi Jodan Mawashi-Geri
+4. **Attack**: Migi Jodan Mawashi-Geri
 
    **Defense**: Jodan Juji-Uke, to catch leg, then use right-hand to push against opponent's right arm to trap it. Grab their collar for safety, then hook your right leg behind their supporting leg, sweep the leg, lift, and throw them. Finish Fumi Komi-Geri.
 
 ## Yakusoku Kumite set #5
+
+<Wiki-Video url="https://youtu.be/spJHORnJgwg" />
 
 1. **Attack**: Chudan Oi-Zuki (Kizami or Mae Ken-Zuki)
 
@@ -126,6 +136,8 @@ The number of applications shown in the video also differs from what is written 
 
 ## Yakusoku Kumite set #6
 
+<Wiki-Video url="https://youtu.be/Gi7DInF_fmo" />
+
 1. **Attack**: Migi Chudan Mae-Geri
 
    **Defense**: Move to the outside while using Migi Gedan Sukui-Uke to catch under the leg. Use left arm to strike throat/face, grab their collar with left hand for safety, and then use left knee under their butt to bump and lift them off their feet while pressing back and down with your left hand to throw them. Finish with punch/arm lock.
@@ -141,6 +153,8 @@ The number of applications shown in the video also differs from what is written 
    **Defense**: Migi Yoko Juji-Uke (aim to spin the opponent away from you), step behind, with each hand get a grip on their clothing/hair, kick or Ashi-Barai the back of their leg and pull them down. Punch Jodan to finish.
 
 ## Yakusoku Kumite set #7
+
+<Wiki-Video url="https://youtu.be/iBp39Rrs_Vs" />
 
 1. **Attack**: Migi Chudan Oi-Zuki
 
@@ -160,6 +174,8 @@ The number of applications shown in the video also differs from what is written 
 
 ## Yakusoku Kumite set #8
 
+<Wiki-Video url="https://youtu.be/q3W2AFTED-Q" />
+
 1. **Attack**: Migi Jodan Oi-Zuki
 
    **Defense**: Jodan Morote Hiki-Uke, catch wrist and elbow, lock arm (figure four), throw backwards, apply figure four wrist lock.
@@ -168,21 +184,23 @@ The number of applications shown in the video also differs from what is written 
 
    **Defence**: Hidari Chudan Shotei-Uke, Migi Jodan Gyaku-Zuki, catch wrist with right hand and roll left arm down to partners elbow, Tai-Sabaki and throw (this will cause them to flip, or roll), finish with arm lock.
 
-   (Note: This isn't in the IOGKFNZ notes ^^^)
+   (Note: This is taken from Sensei Davie's notes and isn't present in the IOGKFNZ notes)
 
-1. **Attack**: Migi Jodan Oi-Zuki
+2. **Attack**: Migi Jodan Oi-Zuki
 
    **Defense**: Hidari Jodan Hiki-Uke (inside) and grasp opponent's wrist with your left hand, Migi Jodan Gyaku Shotei-Zuki, the move your right forearm down their arm to press against their elbow joint (on the inside of their arm). Step outside thier front foot and Tai-Sabaki (turn counter-clockwise) + Ashi-Waza (sweeping the leg), simultaneously pressing your forearm against their elbow joint to throw.
 
-1. **Attack**: Migi Chudan Oi-Zuki
+3. **Attack**: Migi Chudan Oi-Zuki
 
    **Defense**: Migi Hiki-Uke (outside), strike Hidari Jodan Shuto-Uchi and press to break their balance (similar to Gekisai Dai ichi), fall backwards to take your opponent to ground, then (while on the ground) kick to their head and finish with Ne-Waza, (apply ground techniques for example, choke, wrist, elbow locks aka Gekisai Dai Ichi).
 
-1. **Attack**: Migi Chudan Oi-Zuki, Hidari Jodan Gyaku-Zuki
+4. **Attack**: Migi Chudan Oi-Zuki, Hidari Jodan Gyaku-Zuki
 
    **Defense**: Hidari Chudan Hiki-Uke and catch, Migi Jodan Hiki-Uke and catch (Toraguchi/Mawashi Uke), press right-hand down, lift left hand and simultaneously turn your body (clockwise) to lock the joints and throw (as in Seipai).
 
 ## Yakusoku Kumite set #9
+
+<Wiki-Video url="https://youtu.be/Xag_3QbA-lQ" />
 
 1. **Attack**: Migi Jodan Oi-Zuki
 
@@ -201,6 +219,8 @@ The number of applications shown in the video also differs from what is written 
    **Defense**: Use Morote Age-Uke before grip established, grip fingers of one hand and push forward then back in a circular motion to take down, (if the opponent has secured a grip, strike to eyes with Nukite-Zuki then Age-Uke).
 
 ## Yakusoku Kumite set #10
+
+<Wiki-Video url="https://youtu.be/LSmgionO5Ug" />
 
 1. **Attack**: Using two hands, grip a wrist or arm
 
