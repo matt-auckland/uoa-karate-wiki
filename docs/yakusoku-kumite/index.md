@@ -82,7 +82,7 @@ The number of applications shown in the video also differs from what is written 
 
 1. **Attack**: Migi Jodan Oi-Zuki
 
-   **Defense**: Hidari Jodan Shotei-Uke (pushing blocking arm across the face), while stepping left leg forward into Shiko-Dachi, then strike Migi Gedan Nikite-Zuki. Then use your left arm to attack opponent’s throat, shift your front leg behind attackers’ knee and turn your body clockwise, while your left arm presses back counter-clockwise, to throw with a scissor action. Finish with Migi Ushiro-Geri (aim for the attacker's head, which will be behind you at this point).
+   **Defense**: Hidari Jodan Shotei-Uke (pushing blocking arm across the face), while stepping left leg forward into Shiko-Dachi, then strike Migi Gedan Nukite-Zuki. Then use your left arm to attack opponent’s throat, shift your front leg behind attackers’ knee and turn your body clockwise, while your left arm presses back counter-clockwise, to throw with a scissor action. Finish with Migi Ushiro-Geri (aim for the attacker's head, which will be behind you at this point).
 
 1. **Attack**: Throat grab (with two hands)
 
@@ -98,41 +98,41 @@ The number of applications shown in the video also differs from what is written 
 
 2. **Attack**: Migi Chudan Mae-Geri
 
-   **Defense**: Hidari Gedan Harai-Uke and scoop leg, then use Migi Jodan Shotei-Oshi to push opponent back. Grab their gi with your right hand for safety, then use Migi Ashi-Barai to throw. Punch Jodan to finish.
+   **Defense**: Hidari Gedan Barai-Uke and scoop leg, then use Migi Jodan Shotei-Oshi to push opponent back. Grab their gi with your right hand for safety, then use Migi Ashi-Barai to throw. Punch Jodan to finish.
 
 3. **Attack**: Migi Chudan Mae-Geri
 
-   **Defense**: Hasami-Uke to catch leg (as in Sanseiru), Migi kick to point behind groin, insert your foot between their legs, foot pressing on their right leg while your knee is on top of their left leg. Lever downwards on their leg with your knee to throw (retain hold of their leg), Migi Kansetsu-Geri to groin, throw their leg across their body to turn them away from you.
+   **Defense**: Hasami-Uke to catch leg (as in Sanseiru), Migi Tsumasaki-Geri (toe kick) to point behind groin, insert your leg between their legs, with your right foot pressing on their right leg, while your right knee is on top of their left leg. Lever downwards on their leg with your knee to throw (retain hold of their leg), Migi Kansetsu-Geri to groin, throw their leg to the right, across their body to turn them away from you.
 
 4. **Attack**: Migi Jodan Mawashi-Geri
 
-   **Defense**: Jodan Juji-Uke, to catch leg, then use right-hand to push against opponent's right arm to trap it. Grab their collar for safety, then hook your right leg behind their supporting leg, sweep the leg, lift, and throw them. Finish Fumi Komi-Geri.
+   **Defense**: Guard with Hidari Jodan Juji-Uke, scoop up and catch their leg with your left hand, then use right-hand to push against opponent's right arm to trap it/strike Jodan. Grab their collar for safety, then sweep their supporting leg with your right leg, at the same time lift and throw them. Finish Fumi Komi-Geri.
 
 ## Yakusoku Kumite set #5
 
 <Wiki-Video url="https://youtu.be/spJHORnJgwg" />
 
-1. **Attack**: Chudan Oi-Zuki (Kizami or Mae Ken-Zuki)
+1. **Attack**: Chudan Oi-Zuki
 
-   **Defense**: Hidari Yoko Shotei-Uke, Migi Shotei-Zuki, move quickly forward and down keeping your body close to your opponent. With your left hand catch their left heel, and pull it up and back. Simultaneously push down with your right arm by their hip joint (hip/groin area) to take them down. Finish Nukite-Zuki or Shotei-Otoshi.
+   **Defense**: Hidari Yoko Shotei-Uke, Migi Shotei-Zuki (as in Shisochin), move quickly forward and down, keeping your body close to your opponent. With your left hand catch their left heel, and stand up as you pull it upward and backward. Simultaneously push down with your right arm by their hip joint (hip/groin area) to take them down. Finish Nukite-Zuki or Shotei-Otoshi.
 
-1. **Attack**: Migi Jodan Furi-Zuki
+2. **Attack**: Migi Jodan Furi-Zuki
 
    **Defense**: Hidari Jodan Yoko-Uke, Migi palm slap/strike to the ear (as in Seiyunchin kata bunkai). Then with your left hand catch the opponent's wrist, wrap your right-arm round the back of their neck, turn your hips into your opponent's hips, support attacker's weight over hips and throw Kubi-Nage (neck throw). Finish with arm bar.
 
-1. **Attack**: Migi Jodan Oi-Zuki
+3. **Attack**: Migi Jodan Oi-Zuki
 
-   **Defense**: Hidari Jodan Age-Uke, Migi Gedan Niku-Zuki (Kinteki-Uchi), twist your hips into your opponent's, grasping your left hand onto opponent's right wrist, right-hand grasping under their left shoulder, support attacker's weight over your hips and throw Ippon-Seoi-Nage (full-point shoulder throw). Finish with arm lock.
+   **Defense**: Hidari Jodan Age-Uke, Migi Gedan Nukite (Kinteki-Uchi), twist your hips into your opponent's, grasping your left hand onto opponent's right wrist, right-hand grasping under their left shoulder, support attacker's weight over your hips and throw Ippon-Seoi-Nage (full-point shoulder throw). Finish with arm lock.
 
-1. **Attack**: Shoulder tackle
+4. **Attack**: Shoulder tackle
 
    **Defense**: As opponent tackles, Migi Hiza Geri to their chest. Your opponent will catch your knee, reach forward grab their belt and fall back and throw (Tomoe-Nage)
 
-1. **Attack**: Choke attack (2 hands)
+5. **Attack**: Choke attack (2 hands)
 
    **Defense**: As attack comes in fast, throw a hand in the air as a decoy, simultaneously drop your body into Koshi-Dachi and as your opponent loses balance take weight on shoulders and throw backward.
 
-   Note: The last two items in this set are recorded as one attack/defence in the IOGKFNZ notes and Reddaway Sensei's notes but I believe this is an erorr and have split them apart.
+   Note: The last two items in this set are recorded as one attack/defence in the IOGKFNZ notes and Reddaway Sensei's notes but I believe this is an error and have split them apart.
 
 ## Yakusoku Kumite set #6
 
@@ -146,7 +146,7 @@ The number of applications shown in the video also differs from what is written 
 
 1. **Attack**: Migi Jodan Mawashi-Geri
 
-   **Defense**: Soto Yoko Juji-Uke, use right hand to grip behind their neck, Migi Hiza-Geri, push down on the neck (pushing their head between their legs), pivot backwards on your left foot (counterclockwise) to throw them in a spiral motion. This will cause them to flip, or drive thier head into the floor. Boshi-ken to the eyes to finish.
+   **Defense**: Soto Yoko Juji-Uke, use right hand to grip behind their neck, Migi Hiza-Geri, push down on the neck (pushing their head between their legs), pivot backwards on your left foot (counterclockwise) to throw them in a spiral motion. This will cause them to flip, or drive their head into the floor. Boshi-ken to the eyes to finish.
 
 1. **Attack**: Migi Chudan Yoko-Geri
 
@@ -184,11 +184,11 @@ The number of applications shown in the video also differs from what is written 
 
    **Defence**: Hidari Chudan Shotei-Uke, Migi Jodan Gyaku-Zuki, catch wrist with right hand and roll left arm down to partners elbow, Tai-Sabaki and throw (this will cause them to flip, or roll), finish with arm lock.
 
-   (Note: This is taken from Sensei Davie's notes and isn't present in the IOGKFNZ notes)
+   (Note: This is taken from Reddaway Sensei's notes and isn't present in the IOGKFNZ notes)
 
 2. **Attack**: Migi Jodan Oi-Zuki
 
-   **Defense**: Hidari Jodan Hiki-Uke (inside) and grasp opponent's wrist with your left hand, Migi Jodan Gyaku Shotei-Zuki, the move your right forearm down their arm to press against their elbow joint (on the inside of their arm). Step outside thier front foot and Tai-Sabaki (turn counter-clockwise) + Ashi-Waza (sweeping the leg), simultaneously pressing your forearm against their elbow joint to throw.
+   **Defense**: Hidari Jodan Hiki-Uke (inside) and grasp opponent's wrist with your left hand, Migi Jodan Gyaku Shotei-Zuki, the move your right forearm down their arm to press against their elbow joint (on the inside of their arm). Step outside their front foot and Tai-Sabaki (turn counter-clockwise) + Ashi-Waza (sweeping the leg), simultaneously pressing your forearm against their elbow joint to throw.
 
 3. **Attack**: Migi Chudan Oi-Zuki
 
@@ -214,9 +214,9 @@ The number of applications shown in the video also differs from what is written 
 
    **Defense**: Hidari catch wrist against your chest, Migi Palm strike to the ear, Hidari insert fingers between partners fingers (grip fingers or wrist) and bend back, simultaneously turn and move backwards to drag (throw).
 
-1. **Attack**: Attempt to Grip lapel or (two hands have grabbed the lapel).
+1. **Attack**: Attempt to Grab lapel with two hands / Grip lapel with two hands
 
-   **Defense**: Use Morote Age-Uke before grip established, grip fingers of one hand and push forward then back in a circular motion to take down, (if the opponent has secured a grip, strike to eyes with Nukite-Zuki then Age-Uke).
+   **Defense**: Use Morote Age-Uke before grip established, grab fingers of one hand and push forward then back in a circular motion to take down. If the opponent has secured a grip, strike to eyes with Nukite-Zuki then Age-Uke.
 
 ## Yakusoku Kumite set #10
 
@@ -224,16 +224,16 @@ The number of applications shown in the video also differs from what is written 
 
 1. **Attack**: Using two hands, grip a wrist or arm
 
-   **Defense**: Migi Kin-Geri (groin or leg strike) turn forearm close to body, turn your body left or right, and at the same time lock the right or left arm (turn left = lock right arm, vise-versa) and fall backwards and drop to the ground, finish with Ne-Waza (ground techniques).
+   **Defense**: Migi Kin-Geri (groin or leg strike) turn forearm close to body, turn your body left or right, and at the same time lock the right or left arm (turn left = lock right arm, and vise-versa) and fall backwards, dropping to the ground. Finish with Ne-Waza (ground techniques).
 
-1. **Attack**: Push with one hand
+2. **Attack**: Push with one hand
 
    **Defense**: Catch in a scissors action (Juji-Uke), twist your body around, interlock your fingers over attacker's wrist, place the elbow on your shoulder, heel on attacker's foot and pull arm down to lock/break it.
 
-1. **Attack**: Grip body from behind
+3. **Attack**: Grip body from behind
 
    **Defense**: Turn forearms upwards to break the grip, Ushiro Hiji-Ate, catch elbow and shoulder, lower hips, pull and throw Seoi-Nage (over the shoulder throw).
 
-1. **Attack**: Ashi-tori (leg catch)
+4. **Attack**: Ashi-tori (leg catch)
 
    **Defense**: Pull front foot back, strike ears with palms, twist and throw then Ura-Uchi to the face. This is similar to the Saifa bunkai.
