@@ -42,13 +42,13 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 
 ### 5. Close-fisted juji-Uke
 
-**Attack**: (From hidari zenkutsu dachi), migi gedan maegeri
+**Attack**: (From hidari zenkutsu dachi), migi chudan maegeri
 
 **Defence**: Drop into shikodachi, block kick using juji uke (right arm over left).
 
 ### 5a. Open handed juji uke
 
-**Attack**: (From hidari zenkutsu dachi), migi gedan maegeri
+**Attack**: (From hidari zenkutsu dachi), migi chudan maegeri
 
 **Defence**: Drop into shikodachi, block kick using open handed juji uke (right arm over left). Quickly rotate your arms clockwise to trap the leg, this should turn over the opponent so they are now facing away from you.
 
@@ -56,7 +56,7 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 
 **Attack**: (From hidari zenkutsu dachi), migi jodan oizuki. Follow with hidari gedan maegeri.
 
-**Defence**:
+**Defence**: Step back with your left foot, block punch with migi jodan uke then grip the arm. Catch the kick with your left hands as you pull your left foot to the side so you are perpendicular to the attacker (tai sabaki). Twist your arms and retract to chamber (while retaining your grip on the arm and leg), as you pull your right leg back into migi sanchin danchi (facing opponent). Move forward while shoving them to send them falling.
 
 ### 7. Koken uke chudan, Koken uke jodan and drop to shikodachi, jodan nukite
 
