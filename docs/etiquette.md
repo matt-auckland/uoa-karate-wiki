@@ -17,19 +17,18 @@ For information on the ceremonies see [Ceremonies](/ceremonies.md).
 
 ## Entering and leaving the Dojo
 
-You should bow on entry or exit of the dojo. You should also not wear shoes inside the dojo, please take them off at the door.
+You should bow on entry or exit of the dojo entrance and training floor. You should also not wear shoes on the training floor, please take them off before stepping onto the floor/mat.
 
 ## Bowing
 
-Bowing is a common custom in Japan (and some other Asian cultures) and can be likened to a handshake in some contexts. Different bows convey different levels of respect, with deeper bows offering more than shallow bows.
+Bowing is a common custom in Japan (and some other Asian cultures), it's used to show respect, and can be considered as roughly similar to a handshake. Different bows convey different levels of respect, the deeper the bow, the more respectful (as a rule of thumb).
 
 ### When to bow
 
 - When entering/leaving the dojo
+- When walking onto/off a training mat/floor (like at a tournament)
 - Before beginning partner work with someone or after ending partner work with someone
-- When walking onto/off a training mat (like at a tournament)
 - Before using training equipment such as a chiishi
-- At the start and end of training
 - During the [ceremonies](/ceremonies.md)
 - At the beginning and end of a [kata](/kata/)
 
@@ -37,7 +36,7 @@ Bowing is a common custom in Japan (and some other Asian cultures) and can be li
 
 ## Seiza
 
-Seiza means to sit, specifically on your knees. See this video for a how to get in and out of Seiza and how to bow when sitting in seiza.
+Seiza means to sit, specifically on your knees. See this video for a how to get in and out of seiza and how to bow when sitting in seiza.
 
 <Wiki-Video url="https://www.youtube.com/watch?v=lKzvZJhNGrk" />
 
@@ -49,11 +48,11 @@ This video shows two methods of tying the belt, either is fine to use. A correct
 
 ## Punctuality
 
-Make your best efforts to show up on time, if you have a class or work it's understandable if you're late on a weeknight training, however there is little reason to show up late to the Sunday training session. Showing up late messes with the instructor's training plan and shows a lack of respect and courtesy towards the instructor and your fellow students.
+Make your best efforts to show up on time, if you have a commitment (such as work/class) which prevents you from being punctual that's okay, but let the instructors know so they can account for this when planning training sessions. Consistently showing up late without warning messes with the instructor's training plans, and shows a lack of respect and courtesy towards the instructor and your fellow students.
 
 ### If you're late
 
-In the unlikely event that you are late, at the back of the dojo, warm up and do burpees at the back of the room until an instructor asks you to join in.
+In the (unlikely) event that you are late, at the back of the dojo, warm up with some burpees and follow with your own stretches and exercises until an instructor asks you to join in.
 
 ## Water/Rest Breaks and Feeling Unwell
 
@@ -91,5 +90,5 @@ If you choose to train, caution is advised though as it can be easy to turn a mi
 - Walk between the middle of two lines, it can be dangerous. Always go around the back
 - Lean on the walls
 - Talk while the instructors are explaining
-- Be overly loud in training ([Kiai](/kiai.md)s are an exception!)
+- Be overly loud in training ([Kiai](/kiai.md) are an exception!)
 - Hurt your training partners on purpose. We have no tolerance for those who abuse the trust of our members
