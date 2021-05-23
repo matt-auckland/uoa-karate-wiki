@@ -107,7 +107,7 @@ export default {
         // },
         {
           url: "/etiquette",
-          title: "Bowing, sitting, etiquette and misc gestures",
+          title: "Bowing, sitting, and etiquette",
           icon: "礼",
         },
         {
