@@ -189,8 +189,6 @@ export default {
 .page-link .icon {
   text-decoration: none;
   font-size: 2em;
-  /* height: 2em; */
-  /* flex: 1; */
   display: block;
   width: 3em;
   margin: 0 auto;
@@ -198,5 +196,18 @@ export default {
 }
 .page-link .icon.two-wide {
   width: 2em;
+}
+
+@media (max-width: 768px) {
+  .grid-cont {
+    --size: 150px;
+    gap: 15px;
+    font-size: 14px;
+    justify-content: space-between;
+  }
+
+  .page-link .icon {
+    font-size: 1.8em;
+  }
 }
 </style>
