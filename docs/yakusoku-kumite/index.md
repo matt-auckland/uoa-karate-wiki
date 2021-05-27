@@ -124,9 +124,10 @@ The number of applications shown in the video also differs from what is written 
 
    **Defense**: Hidari Jodan Age-Uke, Migi Gedan Nukite (Kinteki-Uchi), twist your hips into your opponent's, grasping your left hand onto opponent's right wrist, right-hand grasping under their left shoulder, support attacker's weight over your hips and throw Ippon-Seoi-Nage (full-point shoulder throw). Finish with arm lock.
 
-4. **Attack**: Shoulder tackle
+4. **Attack**: Shoulder tackle, following by catching defender's knee.
 
-   **Defense**: As opponent tackles, Migi Hiza Geri to their chest. Your opponent will catch your knee, reach forward grab their belt and fall back and throw (Tomoe-Nage)
+   **Defense**: As opponent tackles, Migi Hiza Geri to their chest. The opponent will catch your knee. Reach forward grab their belt, drive your foot to the ground breaking out of the knee grab and sit down throwing the attacker over your shoulder (Tomoe-Nage). Alternatively you could leave your knee in their chest and drop and throw, levering them by straightening the captured leg.
+
 
 5. **Attack**: Choke attack (2 hands)
 
