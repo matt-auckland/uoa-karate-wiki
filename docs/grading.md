@@ -11,13 +11,16 @@ Students of different rank are often graded together, and with certain exception
 
 A grading is about 2.5 - 3 hours long, and is generally composed of the following:
 
-- [Junbi Undo (Warm Ups)](/)
-- [Kihon (Basics)](/)
-- [Moving basics](/)
+<!-- - [Junbi Undo (Warm Ups)](/)
+- [Kihon (Basics)](/) -->
+<!-- - [Moving basics](/) -->
+- Junbi Undo (Warm Ups)
+- Kihon (Basics)
+- Moving basics
 - [Kata](/kata/)
 - [Bunkai](/bunkai/)
 - [Kumite (Sparring)](/sparring.md)
-- [Spirit Test](/)
+- Spirit Test
 - [Theory Test](/grading.md#theory-test) (sometimes)
 
 To some degree a grading is “just another training session”, but given the nature of the event everyone tries that little bit harder and so it does tend to be more intense.
@@ -52,32 +55,31 @@ These form the basis of the grading requirements for the next rank.
 - 9th Kyu (Blue Belt)
   - Learns:
     - [Gekisai Dai Ichi (Bunkai)](/bunkai/gekisai-dai-ichi.md)
+    - [Gekisai Dai Ni](/kata/gekisai-dai-ni.md)
     - [Sanchin](/kata/sanchin.md)
 - 8th Kyu (Blue Belt, one black tab)
   - Learns:
-    - [Gekisai Dai Ni](/kata/gekisai-dai-ni.md)
     - [Gekisai Dai Ni (Bunkai)](/bunkai/gekisai-dai-ni.md)
+    - [Saifa](/kata/saifa.md)
 - 7th Kyu (Yellow Belt)
   - Learns:
-    - [Saifa](/kata/saifa.md)
+    - [Saifa (Bunkai.md)](/bunkai/saifa.md)
 - 6th Kyu (Yellow Belt, one black tab)
   - Learns:
-    - [Saifa (Bunkai.md)](/bunkai/saifa.md)
+    - [Seiyunchin](/kata/seiyunchin.md)
 - 5th Kyu (Green Belt)
   - Learns:
-    - [Seiyunchin](/kata/seiyunchin.md)
+    - [Seiyunchin (Bunkai)](/bunkai/seiyunchin.md)
 - 4th Kyu (Green Belt, one black tab)
   - Learns:
-    - [Seiyunchin (Bunkai)](/bunkai/seiyunchin.md)
+    - [Shisochin](/kata/shisochin.md)
 - 3rd Kyu (Brown Belt)
   - Learns:
-    - [Shisochin](/kata/shisochin.md)
+    - [Shisochin (Bunkai)](/bunkai/shisochin.md)
 - 2nd Kyu (Brown Belt, one black tab)
   - Learns:
-    - [Shisochin (Bunkai)](/bunkai/shisochin.md)
 - 1st Kyu (Brown Belt, two black tabs)
   - Learns:
-    - ?
 
 ### Dan Grades - Black Belts
 
