@@ -204,6 +204,7 @@ export default {
     gap: 15px;
     font-size: 14px;
     justify-content: space-between;
+    line-height: 1.2;
   }
 
   .page-link .icon {
