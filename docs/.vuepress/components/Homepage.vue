@@ -163,6 +163,7 @@ export default {
 }
 
 .page-link {
+  line-height: 1.3;
   box-sizing: border-box;
   border: 4px solid grey;
   border-radius: 10px;
