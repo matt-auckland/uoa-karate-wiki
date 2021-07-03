@@ -50,34 +50,34 @@ It was created to help popularise Karate in the 1940s by Chojun Miyagi with the 
 
 ### Kata Techniques
 
-- [Jodan Uke](/)
-- [Oi Zuki|Jodan Oi Zuki](/)
-- [Gedan Barai](/)
-- [Chudan Uke](/)
-- [Mae Geri|Gedan Mae Geri](/)
-- [Fumikomi Geri](/)
-- [Hiji Ate](/)
-- [Ura Ken Uchi](/)
-- [Gyaku Zuki|Chudan Gyaku Zuki](/)
-- [Ashi Barai](/)
-- [Shuto Uchi](/)
-- [Morote Zuki](/)
+- Jodan Uke
+- Jodan Oi Zuki
+- Gedan Barai
+- Chudan Yoko Uke
+- Gedan Mae Geri
+- Fumikomi Geri
+- Hiji Ate
+- Ura Ken Uchi
+- Gedan Gyaku Zuki
+- Ashi Barai
+- Shuto Uchi
+- Morote Zuki
 
 ### Kata Stances
 
-- [Musubi Dachi](/)
-- [Sanchin Dachi](/)
-- [Han Zenkutsu Dachi](/)
-- [Shiko Dachi](/)
-- [Zenkutsu Dachi](/)
-- [Hachiji Dachi](/)
-- [Heiko Dachi](/)
+- [Musubi Dachi](/stances#musubi_dachi)
+- [Sanchin Dachi](/stances#sanchin_dachi)
+- [Han Zenkutsu Dachi](/stances#hanzenkutsu_dachi)
+- [Shiko Dachi](/stances#shiko_dachi)
+- [Zenkutsu Dachi](/stances#zenkutsu_dachi)
+- [Hachiji Dachi](/stances#hachiji_dachi)
+- [Heiko Dachi](/stances#heiko_dachi)
 
 ### Dan Grade Changes
 
-- The chudan yoko uke are muchimi.
-- The age uke are more circular in their movements.
-- The block between the morote zuki is a otoshi uke instead of chudan yoko uke.
+- The Chudan Yoko Uke are muchimi.
+- The Jodan Age Uke are more circular in their movements.
+- The Chudan Yoko Uke used between the two Morote Zuki is changed to an Otoshi Uke.
 
 ## Bunkai
 
