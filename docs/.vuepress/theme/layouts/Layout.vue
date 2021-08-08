@@ -115,7 +115,11 @@ export default {
 
   mounted () {
     this.$router.afterEach(() => {
-      this.isSidebarOpen = false
+      this.isSidebarOpen = false;
+      
+      window.goatcounter.count({
+            path: location.pathname + location.search + location.hash,
+        });
     })
   },
 
@@ -124,7 +128,6 @@ export default {
       this.isSidebarOpen = typeof to === 'boolean' ? to : !this.isSidebarOpen
       this.$emit('toggle-sidebar', this.isSidebarOpen)
     },
-
   }
 }
 </script>

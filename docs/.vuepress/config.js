@@ -7,6 +7,15 @@ module.exports = {
       'meta',
       { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
     ],
+    [
+      'script',
+      { }, 
+      "window.goatcounter = {no_onload: true}"
+    ],
+    [
+      'script',
+      { src: "//gc.zgo.at/count.js", 'data-goatcounter': "https://karate-wiki.goatcounter.com/count", async: "async" },
+    ],
   ],
   themeConfig: {
     docsDir: 'docs',
