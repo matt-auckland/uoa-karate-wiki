@@ -9,11 +9,6 @@ module.exports = {
     ],
     [
       'script',
-      { }, 
-      "window.goatcounter = {no_onload: true}"
-    ],
-    [
-      'script',
       { src: "//gc.zgo.at/count.js", 'data-goatcounter': "https://karate-wiki.goatcounter.com/count", async: "async" },
     ],
   ],
