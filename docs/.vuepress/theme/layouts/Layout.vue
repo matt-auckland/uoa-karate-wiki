@@ -114,12 +114,14 @@ export default {
   },
 
   mounted () {
-    this.$router.afterEach(() => {
+    this.$router.afterEach((to, from) => {
       this.isSidebarOpen = false;
       
-      window.goatcounter.count({
-            path: location.pathname + location.search + location.hash,
+      if (from.path != to.path) {
+        window.goatcounter.count({
+          path: location.pathname + location.search + location.hash,
         });
+      }
     })
   },
 
