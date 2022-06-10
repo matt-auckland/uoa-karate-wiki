@@ -19,11 +19,11 @@ Note: Some of the techniques in the video differ from what is written on this pa
 
 The number of applications shown in the video also differs from what is written here. IOGKNZ's notes feature 41 techniques, Reddaway Sensei's notes feature 43 techniques, while the video features only 35 by my count.
 
-## Yakusoku Kumite set #1
+## Set 1 - Gekisai Theme
 
 <Wiki-Video url="https://youtu.be/o1BDIqLDcfI" />
 
-<Attack-Defense-Container label="Technique One">
+<Attack-Defense-Container label="1.1: Jodan Block into Gekisai Takedown">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while blocking with Migi Jodan Hiki-Uke.</p>
@@ -31,7 +31,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two">
+<Attack-Defense-Container label="1.2: Simultaneous Block and Strike into Gekisai Takedown">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left and block with Migi Chudan Yoko-Uke, while simultaneously striking with Hidari Gedan-Zuki.</p>
@@ -40,7 +40,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three">
+<Attack-Defense-Container label="1.3: Pulldown from Behind Takedown">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Morote Hiki-Uke (catching wrist and shoulder), Ashi-Bari and pull down (dropping body weight).</p>
@@ -48,7 +48,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four">
+<Attack-Defense-Container label="1.4: Pull Arm Behind Back to Takedown">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back into Hidari Zenkutsu-Dachi, blocking with Hidari Jodan Age-Uke, strike with Migi Jodan Gyaku-Zuki.</p>
@@ -58,7 +58,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique 5">
+<Attack-Defense-Container label="1.5: Kick Block into Gekisai Takedown">
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while blocking Migi Shuto-Uke</p>
@@ -66,20 +66,20 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #2
+## Set 2 - Saifa Theme
 
 <Wiki-Video url="https://youtu.be/ZjpZ7WF-klc" />
 
-<Attack-Defense-Container label="Technique One">
+<Attack-Defense-Container label="2.1">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>In an instant, drop down and forward into Koshi-Dachi, move forward and catch opponent's right leg with your left hand on the outside of the heel and right hand on the inside of the knee.
+   <p>In an instant, drop down and forward into Koshi-Dachi, move forward and catch opponent's right leg with your left hand on the outside of the heel and right hand on the inside of the knee.</p>
    <p>Takedown by pulling the ankle and pushing the knee at a 45° angle as you stand up.</p>
    <p>Finish with Fumikomi-Geri to groin.</p>
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two: Matador Defence">
+<Attack-Defense-Container label="2.2: Matador Defence">
    <Attack-Defense type="attack">Shoulder charge to solar plexus</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Simultaneously slide your left-arm under the opponent's right arm (underhook), while your right hand catches and presses the back of the head.</p>
@@ -88,7 +88,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three">
+<Attack-Defense-Container label="2.3">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki, Hidari Chudan Gyaku-Zuki combination</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Block with an Morote Shotei-Uke, then strike with Morote Shotei-Zuki to collar bones</p>
@@ -96,17 +96,17 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four">
+<Attack-Defense-Container label="2.4">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while blocking Hidari Shotei Yoko-Uke</p>
-   <p>Strike with Migi Jodan Haito-Uchi, and using the same hand grip their collar tightly.
+   <p>Strike with Migi Jodan Haito-Uchi, and using the same hand grip their collar tightly.</p>
    <p>Strike Sokuto-Geri with your right thigh to opponent's right thigh to reap them, while pushing down with your right arm to take them to ground.</p>
    <p>Finish off with a Migi punch to the head.</p>
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique 5">
+<Attack-Defense-Container label="2.5">
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left, blocking Hidari Gedan Uchi-Bari</p>
@@ -114,22 +114,22 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #3
+## Set 3 - Defence Against Jodan Attacks
 
 <Wiki-Video url="https://youtu.be/enFVohGpBIQ" loop />
 
-<Attack-Defense-Container label="Technique One">
+<Attack-Defense-Container label="3.1: Foot hooking takedown">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back into Migi-Zenkutsu-Dachi, blocking Migi Jodan Age-Uke</p>
-   <p>Strike Hidari Kinteki-Uchi, and Suriashi forward, hooking your right foot around your opponent's right foot.
+   <p>Strike Hidari Kinteki-Uchi, and Suriashi forward, hooking your right foot around your opponent's right foot.</p>
    <p>Press your knee into their knee at a 45° angle to straighten their leg and take them off balance, while pressing with your right arm to help knock them over.</p>
    <p>Finish with Fumikomi-Geri.</p>
    <p><i>Note: the video above is missing the Kinteki Uchi.</i></p>
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two: Kata Guruma/Shoulder Wheel Throw">
+<Attack-Defense-Container label="3.2: Kata Guruma/Shoulder Wheel Throw">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back into Hidari Zenkutsu Dachi, blocking Hidari Jodan Age-Uke</p>
@@ -139,7 +139,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three">
+<Attack-Defense-Container label="3.3: Shutou hip throw into head kick ">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Jodan Shotei-Uke (pushing blocking arm across the face), while stepping left leg forward into Shiko-Dachi and striking Migi Gedan Nukite-Zuki.</p>
@@ -148,7 +148,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four: Double Leg Takedown">
+<Attack-Defense-Container label="3.4: Double Leg Takedown">
    <Attack-Defense type="attack">Throat grab (with two hands)</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back before opponent grips and block Morote Age-Uke</p>
@@ -157,11 +157,11 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #4
+## Set 4 - Shisochin/Sanseiru Theme
 
 <Wiki-Video url="https://youtu.be/EPYaBRLSfBc" />
 
-<Attack-Defense-Container label="Technique One">
+<Attack-Defense-Container label="4.1: Shisochin Rolling Bicep Takedown">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Move to the left while performing Morote Hiki-Uke.</p>
@@ -170,7 +170,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two">
+<Attack-Defense-Container label="4.2: Mae-Geri Catch into Sweep">
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Use Hidari Gedan-Barai Uke to receive the kick and scoop leg, then use Migi Jodan Shotei-Oshi to push opponent back.</p>
@@ -179,7 +179,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three">
+<Attack-Defense-Container label="4.3: Sanseiru kick catch, knee press takedown">
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hasami-Uke to catch leg (as in Sanseiru) and Migi Tsumasaki-Geri (toe kick) to point behind groin.</p>
@@ -189,7 +189,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four">
+<Attack-Defense-Container label="4.4: Mawashi-Geri Catch, into Sweep">
    <Attack-Defense type="attack">Migi Jodan Mawashi-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Guard with Hidari Jodan Juji-Uke, and scoop up with your left arm to catch their leg.</p>
@@ -200,11 +200,11 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #5
+## Set 5 - Throws & Takedowns
 
 <Wiki-Video url="https://youtu.be/spJHORnJgwg" />
 
-<Attack-Defense-Container label="Technique One">
+<Attack-Defense-Container label="5.1">
    <Attack-Defense type="attack">Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step forwards with the right leg as you parry with Hidari Yoko Shotei-Uke and strike Migi Jodan Shotei-Zuki (like in Shisochin).</p>
@@ -214,7 +214,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two: Kubi Nage">
+<Attack-Defense-Container label="5.2: Kubi Nage">
    <Attack-Defense type="attack">Migi Jodan Furi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Simultaneously block with Hidari Jodan Yoko-Uke and strike with Migi Shotei Uchi to the ear (like Seiyunchin kata bunkai).</p>
@@ -223,7 +223,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three: Ippon Seoi Nage">
+<Attack-Defense-Container label="5.3: Ippon Seoi Nage">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Block Hidari Jodan Age-Uke, and strike Migi Gedan Nukite (Kinteki-Uchi)</p>
@@ -233,7 +233,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four: Tomoe Nage">
+<Attack-Defense-Container label="5.4: Tomoe Nage">
    <Attack-Defense type="attack">Shoulder tackle.</Attack-Defense>
    <Attack-Defense type="defense">
    <p>As opponent tackles, block them and Migi Hiza Geri to their chest.</p>
@@ -245,7 +245,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique 5">
+<Attack-Defense-Container label="5.5: Choke Defense, Over Shoulder throw">
    <Attack-Defense type="attack">Choke attack (2 hands)</Attack-Defense>
    <Attack-Defense type="defense">
    <p>As attack comes in fast, throw a hand in the air as a decoy, simultaneously drop your body into Koshi-Dachi and as your opponent loses balance take weight on shoulders and throw backward.</p>
@@ -253,21 +253,21 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #6
+## Set 6 - Kick Defenses
 
 <Wiki-Video url="https://youtu.be/Gi7DInF_fmo" />
 
-<Attack-Defense-Container label="Technique One">
+<Attack-Defense-Container label="6.1: Outside Maegeri Catch into Sweep">
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Move to the outside while using Migi Gedan Sukui-Uke to catch under the leg.<p/>
+   <p>Move to the outside while using Migi Gedan Sukui-Uke to catch under the leg.</p>
    <p>Use left arm to strike throat/face, grab their collar with left hand for safety, and then use left knee under their butt to bump and lift them off their feet, while pressing backward and down with your left hand to throw them.</p>
    <p>Finish with punch/arm lock.</p>
    <p><i>Note: Careful with the pressing of the left hand/arm as it will rotate them so they land on their head if you push enough.</i></p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two">
+<Attack-Defense-Container label="6.2: Mawashigeri Catch into Flip">
    <Attack-Defense type="attack">Migi Jodan Mawashi-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Block with Soto Yoko Juji-Uke, use left hand to catch their leg.</p>
@@ -276,7 +276,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three">
+<Attack-Defense-Container label="6.3: Yoko-Geri Parry into Pull-takedown">
    <Attack-Defense type="attack">Migi Chudan Yoko-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Migi Yoko Juji-Uke (push to spin the opponent away from you) and step behind opponent.</p>
@@ -285,10 +285,10 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #7
+## Set 7 - No Theme
 
 <Wiki-Video url="https://youtu.be/iBp39Rrs_Vs" />
-<Attack-Defense-Container label="Technique One: Kote Gaeshi">
+<Attack-Defense-Container label="7.1: Kote Gaeshi">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Tai-Sabaki and pivot to the side, block with both arms in a scissor action (left arm parries the punch, while the right arm comes underneath and upward, both arms press on the punching arm to trap it. Ends up looking like Sanchin Kamae).</p>
@@ -297,21 +297,21 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two">
+<Attack-Defense-Container label="7.2: Shisochin Grab Defense">
    <Attack-Defense type="attack">Pushing or gripping lapels (both hands)</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Grip fingers, pull down and out on joints, Hiza-Geri or Hiji-Ate.(Similar to Shisochin Bunkai)</p>
+   <p>Grip fingers, pull down and out on joints, Hiza-Geri or Hiji-Ate. (Similar to Shisochin Bunkai)</p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three">
+<Attack-Defense-Container label="7.3: ">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Jodan Morote Hiki-Uke, Chudan Shotei-Zuki, throw arm in a circular motion to takedown.</p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four">
+<Attack-Defense-Container label="7.4: Hiza-Geri into Dropping Elbow">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Jodan Morote Hiki-Uke while moving outside to the left, reach with your right hand to grab back of their neck and then pull opponent down while you throw Migi Hiza-Geri while moving forward.</p>
@@ -319,11 +319,11 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #8
+## Set 8 - Joint Locks & Takedowns
 
 <Wiki-Video url="https://youtu.be/q3W2AFTED-Q" />
 
-<Attack-Defense-Container label="Technique One: Figure Four Lock">
+<Attack-Defense-Container label="8.1: Figure Four Lock">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Jodan Morote Hiki-Uke, catch wrist and elbow, lock arm (figure four), and throw backwards.</p>
@@ -331,7 +331,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two">
+<Attack-Defense-Container label="8.2: ">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Chudan Shotei-Uke, Migi Jodan Gyaku-Zuki.</p>
@@ -340,7 +340,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three">
+<Attack-Defense-Container label="8.3: Shisochin Inside Armbar Takedown">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Jodan Hiki-Uke (stay on the inside) and grasp opponent's wrist with your left hand, while striking Migi Jodan Gyaku Shotei-Zuki.</p>
@@ -349,7 +349,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four">
+<Attack-Defense-Container label="8.4: Falling Gekisai Takedown into Kick">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while using Migi Hiki-Uke and catching wrist.</p>
@@ -358,7 +358,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Five">
+<Attack-Defense-Container label="8.5: Toraguchi Double Arm Lock into Throw">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki, Hidari Jodan Gyaku-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Chudan Hiki-Uke and catch, Migi Jodan Hiki-Uke and catch (Toraguchi/Mawashi Uke).</p>
@@ -366,16 +366,16 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #9
+## Set 9 - Joint Lock Takedowns #2
 
 <Wiki-Video url="https://youtu.be/Xag_3QbA-lQ" />
-<Attack-Defense-Container label="Technique One">
+<Attack-Defense-Container label="9.1: Kururunfa Throw">
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">Morote Jodan Hiki-Uke (outside), combination shoulder and elbow lock, twist wrist and throw (aka Kururunfa).
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two">
+<Attack-Defense-Container label="9.2: Seisan Arm Wrap into Reap">
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Hiki-Uke, use left hand to reverse lock elbow from underneath (as in Seisan kata).</p>
@@ -383,7 +383,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three">
+<Attack-Defense-Container label="9.3: One Handed Grab Defense, Finger Joint Bend">
    <Attack-Defense type="attack">One handed lapel grab</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari catch wrist against your chest, Migi Palm strike to the ear.</p>
@@ -392,7 +392,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four">
+<Attack-Defense-Container label="9.4: Two Handed Grab Defense, Finger Joint Bend">
    <Attack-Defense type="attack">Attempt to Grab lapel with two hands / Grip lapel with two hands</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Use Morote Age-Uke before grip established, grab fingers of one hand and push forward then back in a circular motion to take down.</p>
@@ -400,18 +400,18 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-## Yakusoku Kumite set #10
+## Set 10 - No Theme #2
 
 <Wiki-Video url="https://youtu.be/LSmgionO5Ug" />
-<Attack-Defense-Container label="Technique One">
+<Attack-Defense-Container label="10.1">
    <Attack-Defense type="attack">Using two hands, grip left wrist</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Migi Kin-Geri, grab opponents wrist, roll their arms over as you body right, locking the right arm.</p>
+   <p>Migi Kin-Geri, grab opponents wrist and turn their arms over. Turn your body to the right pressing yourself against their elbow to lock their right arm.</p>
    <p>Fall backwards, and drop to the ground. Finish with Ne-Waza (ground techniques).</p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Two: Shoulder Arm Bar">
+<Attack-Defense-Container label="10.2: Shoulder Arm Bar">
    <Attack-Defense type="attack">Push with one hand</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Catch in a scissors action (Juji-Uke), twist your body around and interlock your fingers over attacker's wrist and place the elbow on your shoulder and stand on attacker's foot with your heel.</p>
@@ -419,7 +419,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Three: Seoi Nage">
+<Attack-Defense-Container label="10.3: Grab From Behind into Seoi Nage">
    <Attack-Defense type="attack">Grip body from behind</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Turn forearms upwards to break the grip, and strike Ushiro Hiji-Ate.</p>
@@ -427,9 +427,10 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="Technique Four">
+<Attack-Defense-Container label="10.4: Saifa Leg Attack Defense">
    <Attack-Defense type="attack">Ashi-tori (leg catch)</Attack-Defense>
-   <Attack-Defense type="defense">Pull front foot back and strike ears with palms.</p>
-   <p>Grab head, twist and throw, then strike Ura-Uchi to the face. (Similar to the Saifa bunkai.)</p>
-</Attack-Defense>
+   <Attack-Defense type="defense">
+      <p>Pull front foot back and strike ears with palms.</p>
+      <p>Grab head, twist and throw, then strike Ura-Uchi to the face. (Similar to the Saifa bunkai.)</p>
+   </Attack-Defense>
 </Attack-Defense-Container>
