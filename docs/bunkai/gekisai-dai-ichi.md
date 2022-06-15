@@ -31,9 +31,9 @@ There are 5 standard bunkai for Gekisai Dai Ichi, some with a few variations.
 <Attack-Defense-Container label="3. Block-kick-elbow-uraken">
   <Attack-Defense type="attack">From hidari zenkutsu-dachi, punch chudan. Follow with left handed chudan gyakuzuki after defender’s uraken</Attack-Defense>
   <Attack-Defense type="defense">
-  </Attack-Defense>
   <p>Block with a left handed chudan uke, suriashi to the right on a forward 45 degree angle standing in heiko dachi.</p> 
   <p>Gedan maegeri at the bladder/groin, land right foot forward in hanzenkutsu dachi or zenkutsu dachi. As you land perform a migi hiji-ate to the chest, follow with uraken to the face, then gedan barai to block the incoming punch. Follow with left handed chudan gyakuzuki</p>
+  </Attack-Defense>
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="4. Block and takedown">
