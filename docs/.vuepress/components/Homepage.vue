@@ -1,7 +1,9 @@
 <template>
-  <div>
+  <main
+    class="home"
+    aria-labelledby="main-title"
+  >
     <h1>Welcome to the UoA Karate Wiki</h1>
-
     <blockquote>
       Practise Daily and Protect Traditional Karate.
     </blockquote>
@@ -22,33 +24,28 @@
       >
         <span
           class="icon"
-          :class="shouldLimitWidth(link.icon) ? 'two-wide' : ''"
-        >{{link.icon}}</span>
+          v-html="link.icon"
+        ></span>
         <h2>{{link.title}}</h2>
       </router-link>
     </nav>
-  </div>
+  </main>
 </template>
 
 <script>
 export default {
-  methods: {
-    shouldLimitWidth(icon) {
-      return icon.length % 2 == 0 && icon.length % 3 != 0;
-    },
-  },
   data() {
     return {
       pageLinks: [
         {
           url: "/beginner-guide",
           title: "Beginner's Guide",
-          icon: "初心者ガイド",
+          icon: "初心者<wbr>ガイド",
         },
         {
           url: "/goju-ryu",
           title: "Goju Ryu Karate",
-          icon: "剛柔流空手道",
+          icon: "剛柔流<wbr>空手道",
         },
         {
           url: "/kata/",
@@ -68,21 +65,21 @@ export default {
         {
           url: "/bunkai/renzoku-bunkai",
           title: "Renzoku Bunkai",
-          icon: "連続分解",
+          icon: "連続<wbr>分解",
         },
         {
           url: "/yakusoku-kumite/",
           title: "Yakusoku Kumite",
-          icon: "約束組手",
+          icon: "約束<wbr>組手",
         },
         // {
         //     url: "/junbi-undo/", title: "Junbi Undo (Warm Up Exercises) "
-        // icon: '準備運動',
+        // icon: '準備<wbr>運動',
         // },
         {
           url: "/hojo-undo/",
           title: "Hojo Undo (Supplementary Exercises)",
-          icon: "幇助運動",
+          icon: "幇助<wbr>運動",
         },
         // {
         // url: "/kiai", title: "Kiai"
@@ -90,7 +87,7 @@ export default {
         // },
         // {
         //  url: "/kakie", title: "Kakie"
-        // icon: ''カキエ,
+        // icon: 'カキエ',
         // },
         // {
         // url: "/stances-and-footwork", title: "Footwork and Stances"
@@ -153,7 +150,7 @@ export default {
 
 <style scoped>
 .grid-cont {
-  --size: 175px;
+  --size: 160px;
   display: grid;
   justify-content: center;
   gap: 20px;
@@ -182,21 +179,18 @@ export default {
 
 .page-link h2 {
   margin: 0;
-  font-size: 1.2em;
+  font-size: 1em;
   border: none;
   text-decoration: underline;
 }
 
 .page-link .icon {
   text-decoration: none;
-  font-size: 2em;
+  font-size: 1.8em;
   display: block;
-  width: 3em;
   margin: 0 auto;
   text-align: center;
-}
-.page-link .icon.two-wide {
-  width: 2em;
+  word-break: keep-all;
 }
 
 @media (max-width: 768px) {
