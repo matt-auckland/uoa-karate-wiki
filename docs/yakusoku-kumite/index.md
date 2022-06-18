@@ -428,9 +428,9 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="10.4: Saifa Leg Attack Defense">
-   <Attack-Defense type="attack">Ashi-tori (leg catch)</Attack-Defense>
-   <Attack-Defense type="defense">
-      <p>Pull front foot back and strike ears with palms.</p>
-      <p>Grab head, twist and throw, then strike Ura-Uchi to the face. (Similar to the Saifa bunkai.)</p>
-   </Attack-Defense>
+<Attack-Defense type="attack">Ashi-tori (leg catch)</Attack-Defense>
+<Attack-Defense type="defense">
+   <p>Pull front foot back and strike ears with palms.</p>
+   <p>Grab head, twist and throw, then strike Ura-Uchi to the face. (Similar to the Saifa bunkai</p>
+</Attack-Defense>
 </Attack-Defense-Container>
