@@ -20,9 +20,9 @@ Not to be confused with the other [Gekisai Dai San](/docs/kata/gekisai-dai-san.m
 ## Name Meaning
 
 When you interpret the kanji characters for 'Gekisai' individually, you get something more like "Attack & Destroy".
-Taken as a single word, Gekisai（撃砕）means "Pulverising​". Dai Ichi（第一）means "Number Three".
+Taken as a single word, Gekisai（撃砕）means "Pulverising​". Dai San（第三）means "Number Three".
 So "Attack & Destory Number Three" or "Pulverising Number Three", the former is the more popular interpretation.
-The reason for the "number three" is because Gekisai Dai San is thr third in a series of kata.
+The reason for the "number three" is because Gekisai Dai San is the third in a series of kata.
 
 ## How To
 
