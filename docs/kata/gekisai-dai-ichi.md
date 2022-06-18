@@ -60,7 +60,7 @@ It was created to help popularise Karate in the 1940s by Chojun Miyagi with the 
 - Ura Ken Uchi
 - Gedan Gyaku Zuki
 - Ashi Barai
-- Shuto Uchi
+- Jodan Shuto Uchi
 - Morote Zuki
 
 ### Kata Stances

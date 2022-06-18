@@ -41,7 +41,7 @@ Created in the 1940s by Chojun Miyagi. It's a more advanced version of [Gekisai 
 - [Ura Ken Uchi](/)
 - [Gyaku Zuki|Chudan Gyaku Zuki](/)
 - [Ashi Barai](/)
-- [Haito Uchi](/)
+- [Shutou Uchi](/)
 - [Hiki Uke](/)
 - [Tora Guchi](/)
 
