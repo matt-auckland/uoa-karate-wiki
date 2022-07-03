@@ -21,7 +21,6 @@ The number of applications shown in the video also differs from what is written 
 
 ## Set 1 - Gekisai Theme
 
-
 <Attack-Defense-Container label="1.1: Jodan Block into Gekisai Takedown">
    <Wiki-Video slot="video" url="/videos/yakusoku 1.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
@@ -45,7 +44,7 @@ The number of applications shown in the video also differs from what is written 
    <Wiki-Video slot="video" url="/videos/yakusoku 3.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Morote Hiki-Uke (catching wrist and shoulder), Ashi-Bari and pull down (dropping body weight).</p>
+   <p>Morote Hiki-Uke (catching wrist and shoulder), Ashi-Bari and pull down (dropping body weight)</p>
    <p>Follow up with kick or punch after takedown.</p>
    </Attack-Defense>
 </Attack-Defense-Container>
@@ -158,7 +157,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="3.4: Double Leg Takedown">
-<!-- missing video -->
+   <Wiki-Video slot="video" ytUrl="https://www.youtu.be/JtVbwSfr2DM" />
    <Attack-Defense type="attack">Throat grab (with two hands)</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back before opponent grips and block Morote Age-Uke</p>
