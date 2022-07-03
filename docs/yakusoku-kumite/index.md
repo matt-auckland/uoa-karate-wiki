@@ -84,6 +84,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="2.2: Tackle matador Defence">
+<!-- missing video -->
    <Attack-Defense type="attack">Shoulder charge to solar plexus</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Simultaneously slide your left-arm under the opponent's right arm (underhook), while your right hand catches and presses the back of the head.</p>
@@ -103,7 +104,6 @@ The number of applications shown in the video also differs from what is written 
 
 <Attack-Defense-Container label="2.4: Osoto Gari - Greater Outer Reap">
    <Wiki-Video slot="video" url="/videos/yakusoku 9.mp4" />
-
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while blocking Hidari Shotei Yoko-Uke</p>
@@ -158,6 +158,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="3.4: Double Leg Takedown">
+<!-- missing video -->
    <Attack-Defense type="attack">Throat grab (with two hands)</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back before opponent grips and block Morote Age-Uke</p>
@@ -312,6 +313,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="7.2: Shisochin Grab Defense">
+<!-- missing video -->
    <Attack-Defense type="attack">Pushing or gripping lapels (both hands)</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Grip fingers, pull down and out on joints, Hiza-Geri or Hiji-Ate. (Similar to Shisochin Bunkai)</p>
@@ -322,7 +324,7 @@ The number of applications shown in the video also differs from what is written 
    <Wiki-Video slot="video" url="/videos/yakusoku 28.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Jodan Morote Hiki-Uke, Pull arm straight, press left palm against thier shoulder joint, throw arm in a circular motion to takedown.</p>
+   <p>Jodan Morote Hiki-Uke, pull arm straight, press left palm against thier shoulder joint, throw arm in a circular motion to takedown.</p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
@@ -357,6 +359,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="8.3: Falling Gekisai Takedown into Kick">
+   <Wiki-Video slot="video" url="/videos/yakusoku 32.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while using Migi Hiki-Uke and catching wrist.</p>
@@ -409,6 +412,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="9.4: Two Handed Grab Defense, Finger Joint Bend">
+<!-- missing video -->
    <Attack-Defense type="attack">Attempt to Grab lapel with two hands / Grip lapel with two hands</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Use Morote Age-Uke before grip established, grab fingers of one hand and push forward then back in a circular motion to take down.</p>
@@ -428,14 +432,16 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="10.2: Juji Uke into Shoulder Arm Break">
+<!-- missing video -->
    <Attack-Defense type="attack">Push with one hand</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Catch in a scissors action (Juji-Uke), twist your body around and interlock your fingers over attacker's wrist and place the elbow on your shoulder and stand on attacker's foot with your heel.</p>
+   <p>Catch with Juji-Uke, twist your body around and interlock your fingers over attacker's wrist and place the elbow on your shoulder and stand on attacker's foot with your heel.</p>
    <p>Pull arm down to lock/break it.</p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="10.3: Grab From Behind into Shoulder Throw">
+<!-- missing video -->
    <Attack-Defense type="attack">Grip body from behind</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Turn forearms upwards to break the grip, and strike Ushiro Hiji-Ate.</p>
