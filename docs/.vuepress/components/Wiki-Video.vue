@@ -1,19 +1,30 @@
-<template>
+<template> 
   <div class="video">
+    <video 
+      v-if="url"
+      :src="url"
+      class="local-vid"
+      controls
+      width="560"
+      height="315"
+      loading="lazy"
+      playsinline
+    />
     <iframe
+      v-else-if="ytUrl"
       width="560"
       height="315"
       loading="lazy"
       :src="processedUrl"
       frameborder="0"
-      allowfullscreen
-    ></iframe>
+      allowfullscreen 
+    />
   </div>
 </template>
 
 <script>
 export default {
-  props: ["url"],
+  props: ["url", "ytUrl"],
   computed: {
     processedUrl() {
       /**
@@ -30,9 +41,9 @@ export default {
       const partialYTUrl = /^(http|https):\/\/(www\.)?youtu(be.com|.be)\/(?!embed)(watch\?v=)?/i;
       const embedString = "https://youtube.com/embed/";
 
-      let processedUrl = this.url;
-      if (fullYTUrl.test(this.url)) {
-        processedUrl = this.url.replace(partialYTUrl, embedString);
+      let processedUrl = this.ytUrl;
+      if (fullYTUrl.test(this.ytUrl)) {
+        processedUrl = this.ytUrl.replace(partialYTUrl, embedString);
       }
 
       return processedUrl;
@@ -45,4 +56,7 @@ export default {
 iframe {
   max-width: 100%;
 }
+.local-vid {
+  max-width: 100%;
+  }
 </style>

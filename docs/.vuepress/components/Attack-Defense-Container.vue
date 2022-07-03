@@ -2,6 +2,9 @@
   <div class="attack-defense-container">
     <div v-if="label" class="label">{{label}}</div>
     <div class="container">
+      <div class="video-cont">
+        <slot name="video"></slot>
+      </div>
       <slot></slot>
     </div>
   </div>
@@ -27,6 +30,16 @@ export default {
   display: inline-block;
   border-radius: 8px 50px 0 0;
 }
+
+.video-cont {
+  width: 100%;
+  background: #000;
+  display: flex;
+  justify-content: center;
+}
+.video-cont > * {
+  margin: 10px 0;
+} 
 
 .container {
   line-height: 1.7;
