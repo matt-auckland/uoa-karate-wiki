@@ -73,7 +73,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 2 - Saifa Theme
 
 
-<Attack-Defense-Container label="2.1">
+<Attack-Defense-Container label="2.1: Sanseiru Single leg takedown">
    <Wiki-Video slot="video" url="/videos/yakusoku 6.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -83,7 +83,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="2.2: Matador Defence">
+<Attack-Defense-Container label="2.2: Tackle matador Defence">
    <Attack-Defense type="attack">Shoulder charge to solar plexus</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Simultaneously slide your left-arm under the opponent's right arm (underhook), while your right hand catches and presses the back of the head.</p>
@@ -92,7 +92,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="2.3">
+<Attack-Defense-Container label="2.3: Saifa double punch defense">
    <Wiki-Video slot="video" url="/videos/yakusoku 8.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki, Hidari Chudan Gyaku-Zuki combination</Attack-Defense>
    <Attack-Defense type="defense">
@@ -101,7 +101,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="2.4">
+<Attack-Defense-Container label="2.4: Osoto Gari - Greater Outer Reap">
    <Wiki-Video slot="video" url="/videos/yakusoku 9.mp4" />
 
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
@@ -113,7 +113,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="2.5">
+<Attack-Defense-Container label="2.5: Parry kick to outside, knockdown while unbalanced">
    <Wiki-Video slot="video" url="/videos/yakusoku 10.mp4" />
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
@@ -136,7 +136,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="3.2: Kata Guruma/Shoulder Wheel Throw">
+<Attack-Defense-Container label="3.2: Kata Guruma/Shoulder Throw">
    <Wiki-Video slot="video" url="/videos/yakusoku 12.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -147,7 +147,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="3.3: Shutou hip throw into head kick ">
+<Attack-Defense-Container label="3.3: Shutou hip throw into head kick">
    <Wiki-Video slot="video" url="/videos/yakusoku 13.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -213,7 +213,7 @@ The number of applications shown in the video also differs from what is written 
 
 ## Set 5 - Throws & Takedowns
 
-<Attack-Defense-Container label="5.1">
+<Attack-Defense-Container label="5.1: Hip joint press takedown">
    <Wiki-Video slot="video" url="/videos/yakusoku 18.mp4" />
    <Attack-Defense type="attack">Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -305,7 +305,7 @@ The number of applications shown in the video also differs from what is written 
    <Wiki-Video slot="video" url="/videos/yakusoku 26.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Tai-Sabaki and pivot to the side, block with both arms in a scissor action (left arm parries the punch, while the right arm comes underneath and upward, both arms press on the punching arm to trap it. Ends up looking like Sanchin Kamae).</p>
+   <p>Tai-Sabaki and pivot to the side, block with hasami uke (scissor block) and bring your right arm comes underneath and upward, both arms press on the either side of the punching arm to trap it (ends up looking like Sanchin Kamae).</p>
    <p>Next reach over with your left hand to grab the right wrist of the attacker, at the same time twist your body clockwise to apply pressure to the elbow and lock opponent's arm.</p>
    <p>Turn counter-clockwise (pivoting on your right leg), bend their wrist and swing their arm around as your twist to lock it (Kote-Gaeshi, wrist lock), this will cause them to fall.</p>
 </Attack-Defense>
@@ -322,7 +322,7 @@ The number of applications shown in the video also differs from what is written 
    <Wiki-Video slot="video" url="/videos/yakusoku 28.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Jodan Morote Hiki-Uke, Chudan Shotei-Zuki, throw arm in a circular motion to takedown.</p>
+   <p>Jodan Morote Hiki-Uke, Pull arm straight, press left palm against thier shoulder joint, throw arm in a circular motion to takedown.</p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
@@ -418,7 +418,7 @@ The number of applications shown in the video also differs from what is written 
 
 ## Set 10 - No Theme #2
 
-<Attack-Defense-Container label="10.1 - Wrist Grab Defense Armlock Into Takedown And Ne-Waza">
+<Attack-Defense-Container label="10.1: Wrist Grab Defense Armlock Into Takedown And Ne-Waza">
    <Wiki-Video slot="video" url="/videos/yakusoku 38.mp4" />
    <Attack-Defense type="attack">Using two hands, grip left wrist</Attack-Defense>
    <Attack-Defense type="defense">
