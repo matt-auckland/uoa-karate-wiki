@@ -100,6 +100,7 @@ category:
 
 | Romaji               | Kanji                                                                                                                           | Meaning                                        | Notes                                                                                | Pronunciation                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------- |
+| Uke                |                                                                                   | Receive                                   | Often translated as "block" but this is not really in terms of meaning or use of the techniques |        |
 | Tsuki                | <ruby><rb>突</rb><rt>つ</rt><rb>き</rb></ruby>                                                                                  | Thrust/Punch                                   | Often changes to "zuki" when attached to another word                                | [Listen here](https://forvo.com/word/突き/#ja)       |
 | Uchi                 | <ruby><rb>打</rb><rt>う</rt><rb>ち</rb></ruby>                                                                                  | Strike/hit/punch                               |                                                                                      | [Listen here](https://forvo.com/word/打ち/#ja)       |
 | Seiken zuki          | <ruby><rb>正</rb><rt>せい</rt><rb>拳</rb><rt>けん</rt><rb>突</rb><rt>づ</rt><rb>き</rb></ruby>                                  | Lit. Correct Fist Punch. Straight punch.       |                                                                                      | [Listen here](https://forvo.com/word/正拳突き/#ja)   |
@@ -132,6 +133,25 @@ category:
 | Hojo Oshi            | <ruby><rb>幇</rb><rt>ほう</rt><rb>助</rb><rt>じょ</rt><rb>押</rb><rt>お</rt><rb>し</rb><rt></rt></ruby>                         | Augmented Push                                 | Using one hand to reinforce the push of another                                      | [Listen here](https://forvo.com/word/幇助押し/#ja)   |
 | Nihon zuki           | <ruby><rb>二</rb><rt>に</rt><rb>本</rb><rt>ほん</rt><rb>突</rb><rt>づ</rt><rb>き</rb><rt></rt></ruby>                           | Double Punch                                   | A 1-2 combo of straight punches                                                      | [Listen here](https://forvo.com/word/二本突き/#ja)   |
 | Sanbon zuki          | <ruby><rb>三</rb><rt>さん</rt><rb>本</rb><rt>ぼん</rt><rb>突</rb><rt>づ</rt><rb>き</rb><rt></rt></ruby>                         | Triple punch                                   | A 1-2-3 punch combo of straight punches                                              | [Listen here](https://forvo.com/word/三本突き/#ja)   |
+| Jodan Uke          | | Upper Receive                                   |                                               |    |
+| Chudan Uke          | | Middle Receive                                  |                                               |    |
+| Gedan Uke          | | Lower Receive                                   |                                               |    |
+| Hiki Uke          | | Pulling Receive                                   |                                               |    |
+| Uchi Uke          | | Inner Receive                                   |                                               |    |
+| Shotei Uke          | | Palm Heel Receive                                   |                                               |    |
+| Koken Uke          | | Wrist-Fist Receive                                   |                                               |    |
+| Haishu Uke          | | Back-of-Hand Receive                                   |                                               |    |
+| Juu-ji Uke          | | "Character 10" Receive                                  |                                               |    |
+| Kosa Uke          | | Cross Receive                                   |                                               |    |
+| Otoshi Uke          | | Dropping Receive                                    |                                               |    |
+| Sukui Uke          | | Scooping Receive                                   |                                               |    |
+| Kake Uke          | | Hooking Receive                                   |                                               |    |
+| Ura Kake Uke          | | Reverse Hooking Receive                                   |                                               |    |
+| Hari Uke          | | Bow Receive                                   |                                               |    |
+| Morote Uke          | | Two Handed Receive                                   |                                               |    |
+| Kuri Uke          | | Scooping Receive                                   |                                               |    |
+| Mawashi Uke          | | Rotating Receive                                    |                                               |    |
+| Toraguchi          | | Tiger Mouth                                   |                                               |    |
 
 ### Leg Techniques
 
