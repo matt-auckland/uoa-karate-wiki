@@ -34,12 +34,18 @@ In Japanese, 'Kata' generally refers to a method of doing something or a sequenc
 
 ## Kata Types
 
+Kata are classed into two broad categories **Heishugata** and **Kaishugata**
+
 ### Heishugata
+
+Literally Closed Kata. These can be considered basic or fundamental kata, primarily focused on body mechanics such as breathing, stepping, and general muscular control. They also teach some basic striking and blocking mechanics. Sanchin and Tensho are the only heishugata.
 
 ### Kaishugata
 
+Literally "Open Kata". These can be considered to be more advanced kata where the practicioner is introduced to a variety of movements and attacking/defending techniques. This includes every kata other than Sanchin and Tensho.
 ## Tips
 
+Record a video of yourself doing the kata, you'll definitely find things you can improve by watching the video.
 ### Common mistakes in kata to watch out for
 
 - Short-cutting techniques. i.e. not fully completing a technique before starting the next
@@ -50,8 +56,7 @@ In Japanese, 'Kata' generally refers to a method of doing something or a sequenc
 ### Memorizing a kata
 
 - Practise it a lot
-- Train it in different places
+- Perform it slowly, pause after each technique for a second
 - Start facing in different directions than usual when practising
+- Train it in different places
 - Start from different points in the kata, e.g. 5 moves in, after a particular sequence of techniques finishes, be creative
-- Perform it slowly, pause after each technique
-- Perform it quickly, no pausing
