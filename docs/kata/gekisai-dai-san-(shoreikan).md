@@ -26,7 +26,7 @@ The reason for the "number three" is because Gekisai Dai San is the third in a s
 
 ## How To
 
-<Wiki-Video url="https://youtu.be/mrKvbfyvgEg" />
+<Wiki-Video ytUrl="https://youtu.be/mrKvbfyvgEg" />
 
 ### Kata Techniques
 

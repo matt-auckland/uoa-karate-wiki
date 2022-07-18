@@ -33,7 +33,7 @@ This kata is also known by a few other names, such as Peichurin and Becchurin.
 
 ## How To
 
-<Wiki-Video url="https://youtu.be/znVHgcPISKg" />
+<Wiki-Video ytUrl="https://youtu.be/znVHgcPISKg" />
 
 <!-- ### Important Points -->
 <!--

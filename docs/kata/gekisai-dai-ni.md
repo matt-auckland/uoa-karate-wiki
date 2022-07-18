@@ -25,7 +25,7 @@ Created in the 1940s by Chojun Miyagi. It's a more advanced version of [Gekisai 
 
 ## How To
 
-<Wiki-Video url="https://youtu.be/7ATBdHJcq-g" />
+<Wiki-Video ytUrl="https://youtu.be/7ATBdHJcq-g" />
 
 <!-- ### Important Points -->
 

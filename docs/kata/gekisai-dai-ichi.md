@@ -40,7 +40,7 @@ It was created to help popularise Karate in the 1940s by Chojun Miyagi with the 
 
 ## How To
 
-<Wiki-Video url="https://youtu.be/YtcRO7zceIg" />
+<Wiki-Video ytUrl="https://youtu.be/YtcRO7zceIg" />
 
 ### Important Points
 

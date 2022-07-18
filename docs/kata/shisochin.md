@@ -28,7 +28,7 @@ The alternative 'spelling' of the kata uses a different character at the end, å›
 
 ## How To
 
-<Wiki-Video url="https://youtu.be/GyRyR3pd7FI" />
+<Wiki-Video ytUrl="https://youtu.be/GyRyR3pd7FI" />
 
 ### Important Points
 

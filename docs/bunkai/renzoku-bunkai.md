@@ -14,7 +14,7 @@ Sandan gi is written in Japanese as 三段技, literally "Three level techniques
 
 ### Video
 
-<Wiki-Video url="https://youtu.be/bB2PVbEQtL8" />
+<Wiki-Video ytUrl="https://youtu.be/bB2PVbEQtL8" />
 
 ### Important Points
 
@@ -31,7 +31,7 @@ Sandan gi is written in Japanese as 三段技, literally "Three level techniques
 
 ### Club's Standard Renzoku Bunkai
 
-<Wiki-Video url="https://youtu.be/BHV5VTsmpsA" />
+<Wiki-Video ytUrl="https://youtu.be/BHV5VTsmpsA" />
 
 <!-- ### Important Points -->
 
@@ -40,7 +40,7 @@ Sandan gi is written in Japanese as 三段技, literally "Three level techniques
 
 ### name
 
-<Wiki-Video url="" />
+<Wiki-Video ytUrl="" />
 
 ### Important Points -->
 
@@ -48,14 +48,14 @@ Sandan gi is written in Japanese as 三段技, literally "Three level techniques
 
 ### Saifa Renzoku Bunkai #1
 
-<Wiki-Video url="https://www.youtube.com/watch?v=E52iFcSD1E0" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=E52iFcSD1E0" />
 
 <!-- ### Important Points -->
 
 ### Saifa Renzoku Bunkai #2
 
-<Wiki-Video url="https://www.youtube.com/watch?v=fB5R8iHMop8" />
-<Wiki-Video url="https://www.youtube.com/watch?v=e05WcOg6BBg" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=fB5R8iHMop8" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=e05WcOg6BBg" />
 
 <!-- ### Important Points -->
 
@@ -63,7 +63,7 @@ Sandan gi is written in Japanese as 三段技, literally "Three level techniques
 
 ### Seiyunchin Renzoku Bunkai
 
-<Wiki-Video url="https://www.youtube.com/watch?v=2m6L0IbPT-U" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=2m6L0IbPT-U" />
 
 <!-- ### Important Points -->
 
@@ -71,13 +71,13 @@ Sandan gi is written in Japanese as 三段技, literally "Three level techniques
 
 ### Shisochin Renzoku Bunkai
 
-<Wiki-Video url="" /> -->
+<Wiki-Video ytUrl="" /> -->
 
 ## Sanseiru
 
 ### Sanseiru Renzoku Bunkai
 
-<Wiki-Video url="https://www.youtube.com/watch?v=M1coA8RDBLQ" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=M1coA8RDBLQ" />
 
 <!-- ### Important Points -->
 
@@ -89,15 +89,15 @@ Created by Iain Abernathy Sensei, this shows some ways you can apply techniques 
 
 #### First Half:
 
-<Wiki-Video url="https://youtu.be/1v_huNxRyUQ" />
+<Wiki-Video ytUrl="https://youtu.be/1v_huNxRyUQ" />
 
 #### Second Half:
 
-<Wiki-Video url="https://youtu.be/2zETAsIiDkA" />
+<Wiki-Video ytUrl="https://youtu.be/2zETAsIiDkA" />
 
 #### A more detailed look at the first half:
 
-<Wiki-Video url="https://youtu.be/pfwBR7g0c6E" />
+<Wiki-Video ytUrl="https://youtu.be/pfwBR7g0c6E" />
 
 <!-- ### Important Points -->
 
@@ -105,6 +105,6 @@ Created by Iain Abernathy Sensei, this shows some ways you can apply techniques 
 
 ### Tensho Renzoku Bunkai
 
-<Wiki-Video url="https://www.youtube.com/watch?v=CJfB9qgDAPc" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=CJfB9qgDAPc" />
 
 <!-- ### Important Points -->

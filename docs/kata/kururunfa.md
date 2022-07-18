@@ -21,7 +21,7 @@ categories:
 
 ## How To
 
-<Wiki-Video url="https://youtu.be/3HGX7L6VIcU"/>
+<Wiki-Video ytUrl="https://youtu.be/3HGX7L6VIcU"/>
 
 <!-- ### Important Points -->
 

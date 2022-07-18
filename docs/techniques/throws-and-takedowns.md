@@ -11,7 +11,7 @@ Karate has many grappling techniques, this page aims to showcase some of them.
 
 ### Kubi-Nage
 
-<Wiki-Video url="https://www.youtube.com/watch?v=F-4fyNwx52w" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=F-4fyNwx52w" />
 
 Found in:
 
@@ -20,7 +20,7 @@ Found in:
 
 ### Kata Guruma
 
-<Wiki-Video url="https://www.youtube.com/watch?v=wRiFwMLCjPg" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=wRiFwMLCjPg" />
 
 Found in:
 
@@ -29,7 +29,7 @@ Found in:
 
 ### Ippon Seoi Nage
 
-<Wiki-Video url="https://www.youtube.com/watch?v=OmKfUXAAdZ0" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=OmKfUXAAdZ0" />
 
 Found in:
 
@@ -38,7 +38,7 @@ Found in:
 
 ### Seoi Nage
 
-<Wiki-Video url="https://www.youtube.com/watch?v=_-5Un6jLtRY" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=_-5Un6jLtRY" />
 
 Found in:
 
@@ -46,7 +46,7 @@ Found in:
 
 ### Sukui Nage
 
-<Wiki-Video url="https://youtu.be/sn13Bu3bxHE" />
+<Wiki-Video ytUrl="https://youtu.be/sn13Bu3bxHE" />
 
 Found in:
 

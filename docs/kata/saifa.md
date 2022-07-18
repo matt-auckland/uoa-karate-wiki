@@ -23,7 +23,7 @@ The name is generally translated as "smash and tear". [砕](https://jisho.org/se
 
 ## How To
 
-<Wiki-Video url="https://youtu.be/oKj5drvygec" />
+<Wiki-Video ytUrl="https://youtu.be/oKj5drvygec" />
 
 ### Important Points
 

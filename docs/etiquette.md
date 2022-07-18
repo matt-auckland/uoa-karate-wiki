@@ -32,19 +32,19 @@ Bowing is a common custom in Japan (and some other Asian cultures), it's used to
 - During the [ceremonies](/ceremonies.md)
 - At the beginning and end of a [kata](/kata/)
 
-<Wiki-Video url="https://www.youtube.com/watch?v=YKppnTTyu3Q" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=YKppnTTyu3Q" />
 
 ## Seiza
 
 Seiza means to sit, specifically on your knees. See this video for a how to get in and out of seiza and how to bow when sitting in seiza.
 
-<Wiki-Video url="https://www.youtube.com/watch?v=lKzvZJhNGrk" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=lKzvZJhNGrk" />
 
 ## How to tie your belt
 
 This video shows two methods of tying the belt, either is fine to use. A correctly tied belt should be symmetric, both in the length of the ends and the shape of the knot.
 
-<Wiki-Video url="https://www.youtube.com/watch?v=TfLb2Y_X-8Y" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=TfLb2Y_X-8Y" />
 
 ## Punctuality
 

@@ -26,7 +26,7 @@ This kata was created by Chojun Miyagi Sensei. It is supposed to be based off a 
 
 ## How To
 
-<Wiki-Video url="https://www.youtube.com/watch?v=4W8yV85HuHI" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=4W8yV85HuHI" />
 
 <!-- ### Important Points -->
 

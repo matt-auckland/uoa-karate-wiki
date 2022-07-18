@@ -129,4 +129,4 @@ Yoko version for the moving basics.
 Here is the [bunkai page for Gekisai Dai Ichi](/bunkai/gekisai-dai-ichi.md).
 
 Here's Sensei Higaona doing the kata and bunkai on YouTube:
-<Wiki-Video url="https://www.youtube.com/watch?v=wCppK8rHAzg" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=wCppK8rHAzg" />

@@ -25,7 +25,7 @@ Morio Higaonna Sensei has said that the "hand" character represents native Okina
 
 ## How To
 
-<Wiki-Video url="https://youtu.be/jXNjK_HuV1Y" />
+<Wiki-Video ytUrl="https://youtu.be/jXNjK_HuV1Y" />
 
 <!-- ### Important Points -->
 

@@ -32,7 +32,7 @@ Two main versions of 'Sanchin' now exist in [Goju Ryu], "Higashionna", and "Miya
 
 ## How To - Miyagi Style (<ruby><rb>宮</rb><rt>みや</rt><rb>城</rb><rt>ぎ</rt></ruby>)
 
-<Wiki-Video url="https://youtu.be/kybxNOlnl20" />
+<Wiki-Video ytUrl="https://youtu.be/kybxNOlnl20" />
 
 ### Important Points
 
@@ -59,7 +59,7 @@ Two main versions of 'Sanchin' now exist in [Goju Ryu], "Higashionna", and "Miya
 This version of the kata features turns that the modern version lacks.
 This is also know as "Sanchin Dai Ni" (三戦第二) or "Turning Sanchin".
 
-<!-- <Wiki-Video url="" /> -->
+<!-- <Wiki-Video ytUrl="" /> -->
 
 <!-- ### Important Points -->
 
