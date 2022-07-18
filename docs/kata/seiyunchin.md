@@ -43,7 +43,6 @@ categories:
 - Ura Ken Uchi
 - Chudan Yoko Uke
 - Age Zuki
-- Elbow bear hug breakout move ?
 - Shotei Uke
 - Kuri Uke
 
