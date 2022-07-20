@@ -1,7 +1,7 @@
 ---
 title: Footwork & Stances
 
-categories
+categories:
   - Techniques
 ---
 
