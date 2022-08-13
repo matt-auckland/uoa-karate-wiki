@@ -4,7 +4,6 @@ categories:
   - Bunkai
 ---
 
-
 # Yakusoku Kumite
 
 Yakusoku Kumite translates as pre-arranged sparring.
@@ -70,7 +69,6 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 ## Set 2 - Saifa Theme
-
 
 <Attack-Defense-Container label="2.1: Sanseiru Single leg takedown">
    <Wiki-Video slot="video" url="/videos/yakusoku 6.mp4" />
@@ -246,6 +244,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="5.4: Tomoe Nage">
+   <Wiki-Video slot="video" ytUrl="https://www.youtube.com/watch?v=-euJliq9XcY" />
    <Attack-Defense type="attack">Shoulder tackle.</Attack-Defense>
    <Attack-Defense type="defense">
    <p>As opponent tackles, block them and Migi Hiza Geri to their chest.</p>
@@ -266,7 +265,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-## Set 6 - Kick Defenses
+## Set 6 - Juuji Uke Kick Defenses
 
 <Attack-Defense-Container label="6.1: Outside Maegeri Catch into Sweep">
    <Wiki-Video slot="video" url="/videos/yakusoku 23.mp4" />
@@ -312,18 +311,18 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="7.2: Shisochin Grab Defense">
-<!-- missing video -->
+   <Wiki-Video slot="video" url="/videos/yakusoku 27.mp4" />
    <Attack-Defense type="attack">Pushing or gripping lapels (both hands)</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Grip fingers, pull down and out on joints, Hiza-Geri or Hiji-Ate. (Similar to Shisochin Bunkai)</p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="7.3: ">
+<Attack-Defense-Container label="7.3: Straighten arm, press shoulder to takedown">
    <Wiki-Video slot="video" url="/videos/yakusoku 28.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Jodan Morote Hiki-Uke, pull arm straight, press left palm against thier shoulder joint, throw arm in a circular motion to takedown.</p>
+   <p>Jodan Morote Hiki-Uke, pull arm straight, press left palm against thier shoulder joint. step forward as you push and 'throw' the arm in a circular motion to takedown.</p>
 </Attack-Defense>
 </Attack-Defense-Container>
 
@@ -376,7 +375,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense>
 </Attack-Defense-Container>
 
-## Set 9 - Joint Lock Takedowns #2
+## Set 9 - Kururunfa + Seisan Takedowns and Finger Locks
 
 <Attack-Defense-Container label="9.1: Kururunfa Throw">
    <Wiki-Video slot="video" url="/videos/yakusoku 34.mp4" />
@@ -431,7 +430,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="10.2: Juji Uke into Shoulder Arm Break">
-<!-- missing video -->
+   <Wiki-Video slot="video" url="/videos/yakusoku 34.mp4" />
    <Attack-Defense type="attack">Push with one hand</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Catch with Juji-Uke, twist your body around and interlock your fingers over attacker's wrist and place the elbow on your shoulder and stand on attacker's foot with your heel.</p>
