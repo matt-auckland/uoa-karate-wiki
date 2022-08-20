@@ -20,7 +20,7 @@ The number of applications shown in the video also differs from what is written 
 
 ## Set 1 - Gekisai Theme
 
-<Attack-Defense-Container label="1.1: Jodan Block into Gekisai Takedown">
+<Attack-Defense-Container label="1.1: Jodan Hiki Uke into Gekisai Takedown">
    <Wiki-Video slot="video" url="/videos/yakusoku 1.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -29,7 +29,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="1.2: Simultaneous Block and Strike into Gekisai Takedown">
+<Attack-Defense-Container label="1.2: Simultaneous Chudan Uke and Strike into Gekisai Takedown">
    <Wiki-Video slot="video" url="/videos/yakusoku 2.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -59,7 +59,7 @@ The number of applications shown in the video also differs from what is written 
    </Attack-Defense>
 </Attack-Defense-Container>
 
-<Attack-Defense-Container label="1.5: Kick Block into Gekisai Takedown">
+<Attack-Defense-Container label="1.5: Kick Parry into Gekisai Takedown">
    <Wiki-Video slot="video" url="/videos/yakusoku 5.mp4" />
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
@@ -81,7 +81,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="2.2: Tackle matador Defence">
-<!-- missing video -->
+   <!-- TODO: missing video -->
    <Attack-Defense type="attack">Shoulder charge to solar plexus</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Simultaneously slide your left-arm under the opponent's right arm (underhook), while your right hand catches and presses the back of the head.</p>
@@ -134,6 +134,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="3.2: Kata Guruma/Shoulder Throw">
+   <!-- TODO: new video -->
    <Wiki-Video slot="video" url="/videos/yakusoku 12.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -145,6 +146,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="3.3: Shutou hip throw into head kick">
+   <!-- TODO: new video -->
    <Wiki-Video slot="video" url="/videos/yakusoku 13.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -155,6 +157,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="3.4: Double Leg Takedown">
+   <!-- TODO: new video -->
    <Wiki-Video slot="video" ytUrl="https://www.youtu.be/JtVbwSfr2DM" />
    <Attack-Defense type="attack">Throat grab (with two hands)</Attack-Defense>
    <Attack-Defense type="defense">
@@ -357,6 +360,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="8.3: Falling Gekisai Takedown into Kick">
+   <!-- TODO: new video -->
    <Wiki-Video slot="video" url="/videos/yakusoku 32.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -367,6 +371,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="8.4: Juji Nage">
+   <!-- TODO: new video -->
    <Wiki-Video slot="video" url="/videos/yakusoku 33.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki, Hidari Jodan Gyaku-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -378,6 +383,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 9 - Kururunfa + Seisan Takedowns and Finger Locks
 
 <Attack-Defense-Container label="9.1: Kururunfa Throw">
+   <!-- TODO replace video -->
    <Wiki-Video slot="video" url="/videos/yakusoku 34.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
@@ -410,7 +416,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="9.4: Two Handed Grab Defense, Finger Joint Bend">
-<!-- missing video -->
+<!-- TODO: missing video -->
    <Attack-Defense type="attack">Attempt to Grab lapel with two hands / Grip lapel with two hands</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Use Morote Age-Uke before grip established, grab fingers of one hand and push forward then back in a circular motion to take down.</p>
