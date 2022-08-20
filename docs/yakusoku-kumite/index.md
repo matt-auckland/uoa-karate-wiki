@@ -430,7 +430,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="10.2: Juji Uke into Shoulder Arm Break">
-   <Wiki-Video slot="video" url="/videos/yakusoku 34.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku 39.mp4" />
    <Attack-Defense type="attack">Push with one hand</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Catch with Juji-Uke, twist your body around and interlock your fingers over attacker's wrist and place the elbow on your shoulder and stand on attacker's foot with your heel.</p>
@@ -439,7 +439,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="10.3: Grab From Behind into Shoulder Throw">
-<!-- missing video -->
+   <Wiki-Video slot="video" url="/videos/yakusoku 40.mp4" />
    <Attack-Defense type="attack">Grip body from behind</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Turn forearms upwards to break the grip, and strike Ushiro Hiji-Ate.</p>
