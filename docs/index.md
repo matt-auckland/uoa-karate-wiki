@@ -4,4 +4,4 @@ noFooter: true
 sidebar: false
 ---
 
-<Homepage></Homepage>
+<Homepage/>
