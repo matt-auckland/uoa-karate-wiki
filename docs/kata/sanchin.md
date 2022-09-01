@@ -21,7 +21,7 @@ The name "Sanchin" is composed of the characters "Three" (<ruby><rb>三</rb><rt>
 
 ## Kata History
 
-It is said that [Kanryo Higashionna] was the one who changed Sanchin's open hands into closed fists. This is supported by the fact that all the karate styles that spawned from Higashionna (Goju Ryu, Shito Ryu, Tōon-ryū) have close fisted Sanchin.
+It is said that [Kanryo Higashionna] was the one who changed Sanchin's open hands into closed fists. This is supported by the fact that all the karate styles that spawned from Higashionna (Goju Ryu, Shito Ryu, Tōon-ryū) have close fisted Sanchin. There is also some debate that [Chojun Miyagi] was the one who actually changed the hands to closed fists.
 
 [Chojun Miyagi] learned this kata from [Kanryo Higaonna] and made several changes to it:
 
