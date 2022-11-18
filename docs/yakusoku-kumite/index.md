@@ -174,8 +174,7 @@ The number of applications shown in the video also differs from what is written 
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Move to the left while performing Morote Hiki-Uke.</p>
-   <p>Step in front of the attacker's right leg while pressing and rolling the arm to perform a throw. This is similar to the Shisochin elbow lock but, target the upper bicep instead of the elbow, and pull their hand back to your hip.</p>
-   <p>Either the attacker will be driven into the ground or they will have to roll out of the lock.</p>
+   <p>Step in front of the attacker's right leg while pressing and rolling the arm to perform a throw. This is similar to the Shisochin elbow lock but, target the upper bicep instead of the elbow, and bend their arm at the elbow, this will force them to roll or go into the floor as you apply pressure.</p>
    </Attack-Defense>
 </Attack-Defense-Container>
 
@@ -410,7 +409,7 @@ The number of applications shown in the video also differs from what is written 
    <Attack-Defense type="attack">One handed lapel grab</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari catch wrist against your chest, Migi Palm strike to the ear.</p>
-   <p>Hidari insert fingers between partner's fingers, and grab wrist with right hand.</p>
+   <p>Hidari insert fingers <b>between</b> partner's fingers, and grab wrist with right hand.</p>
    <p>Bend fingers back, simultaneously turn and move backwards to drag opponent.</p>
 </Attack-Defense>
 </Attack-Defense-Container>
@@ -419,7 +418,7 @@ The number of applications shown in the video also differs from what is written 
 <!-- TODO: missing video -->
    <Attack-Defense type="attack">Attempt to Grab lapel with two hands / Grip lapel with two hands</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Use Morote Age-Uke before grip established, grab fingers of one hand and push forward then back in a circular motion to take down.</p>
+   <p>Use Morote Age-Uke before grip established, grab <b>around</b> fingers (instead of between the fingers) of one hand and push forward then back in a circular motion to take down.</p>
    <p>If the opponent has secured a grip, strike to eyes with Nukite-Zuki then Morote Age-Uke and grab fingers.</p>
 </Attack-Defense>
 </Attack-Defense-Container>

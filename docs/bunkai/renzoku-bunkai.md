@@ -48,11 +48,15 @@ Sandan gi is written in Japanese as 三段技, literally "Three level techniques
 
 ### Saifa Renzoku Bunkai #1
 
+Originally created by George Andrews Sensei (of the OTGKA).
+
 <Wiki-Video ytUrl="https://www.youtube.com/watch?v=E52iFcSD1E0" />
 
 <!-- ### Important Points -->
 
 ### Saifa Renzoku Bunkai #2
+
+Comes to us via David Reddaway Sensei who got it from Luis Nunes Sensei.
 
 <Wiki-Video ytUrl="https://www.youtube.com/watch?v=fB5R8iHMop8" />
 <Wiki-Video ytUrl="https://www.youtube.com/watch?v=e05WcOg6BBg" />
