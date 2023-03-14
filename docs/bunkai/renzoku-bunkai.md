@@ -56,7 +56,9 @@ Originally created by George Andrews Sensei (of the OTGKA).
 
 ### Saifa Renzoku Bunkai #2
 
-Comes to us via David Reddaway Sensei who got it from Luis Nunes Sensei.
+Comes to us via David Reddaway Sensei who got it from Luis Nunes Sensei. 
+It was originally craeted by Ryoichi Onaga Sensei (formerly of the IOGKF, but now in the OGKK) to present for a grading. 
+The renzoku content can vary as it has had different modifications applied for different demonstrations.
 
 <Wiki-Video ytUrl="https://www.youtube.com/watch?v=fB5R8iHMop8" />
 <Wiki-Video ytUrl="https://www.youtube.com/watch?v=e05WcOg6BBg" />
