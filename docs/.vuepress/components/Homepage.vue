@@ -127,6 +127,11 @@ export default {
           title: "Weapons (Kobudo)",
           icon: "古武道",
         },
+        {
+          url: "/judo",
+          title: "Judo",
+          icon: "柔道",
+        },
         // {
         //   url: "/training-tips",
         //   title: "Training Tips",
