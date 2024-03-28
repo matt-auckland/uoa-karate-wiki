@@ -10,7 +10,7 @@
     "check-links": "vuepress check-md docs"
   },
   "devDependencies": {
-    "vuepress": "^1.8.2",
+    "vuepress": "^1.9.10",
     "vuepress-plugin-check-md": "^0.0.2"
   }
 }
