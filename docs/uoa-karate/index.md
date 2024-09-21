@@ -1,8 +1,10 @@
 ---
 title: Auckland University Goju Ryu Karate Club
 categories:
-  - karate-club
+  - karate club
 ---
+
+# Auckland University Goju Ryu Karate Club
 
 Founded in 2003 by Sensei Ewan Tempero (5th degree Black Belt) and Sensei Tom Davies (4th degree Black Belt), the Auckland University Goju Ryu Karate Club has been running for over 20 years and counting.
 

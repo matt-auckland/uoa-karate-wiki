@@ -1,8 +1,10 @@
 ---
 title: Black Belt Register
 categories:
-  - karate-club
+  - karate club
 ---
+
+# Black Belt Register
 
 Over the years our club has produced several black belts, here is a semi-comprehensive list, including when/what rank they joined the club at.
 

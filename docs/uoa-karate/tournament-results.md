@@ -1,8 +1,10 @@
 ---
 title: Tournament Results
 categories:
-  - karate-club
+  - karate club
 ---
+
+# Tournament Results
 
 The club regularly participates in the biannual Pukekohe Tournament, and sometimes we participate in other tournaments.
 
