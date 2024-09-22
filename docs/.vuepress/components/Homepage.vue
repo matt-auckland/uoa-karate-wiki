@@ -1,32 +1,23 @@
 <template>
-  <main
-    class="home"
-    aria-labelledby="main-title"
-  >
+  <main class="home" aria-labelledby="main-title">
     <h1>Welcome to the UoA Karate Wiki</h1>
     <blockquote>
       Practise Daily and Protect Traditional Karate.
     </blockquote>
 
     <p>
-      This is intended to be a reference resource for the study of Goju Ryu Karate and Karate in general. It's not an authoritative source (though it does strive to be as accurate as possible) and as such everything should be taken with a grain of salt. When in doubt, consult an instructor or senior member.
+      This is intended to be a reference resource for the study of Goju Ryu Karate and Karate in general. It's not an
+      authoritative source (though it does strive to be as accurate as possible) and as such everything should be taken
+      with a grain of salt. When in doubt, consult an instructor or senior member.
     </p>
 
     <p>Click the boxes below to visit the various sections of the site, or use the search bar to explore.</p>
 
     <h2>Useful Pages</h2>
     <nav class="grid-cont">
-      <router-link
-        v-for="link in pageLinks"
-        :key="link.url"
-        class="page-link"
-        :to="link.url"
-      >
-        <span
-          class="icon"
-          v-html="link.icon"
-        ></span>
-        <h2>{{link.title}}</h2>
+      <router-link v-for="link in pageLinks" :key="link.url" class="page-link" :to="link.url">
+        <span class="icon" v-html="link.icon"></span>
+        <h2>{{ link.title }}</h2>
       </router-link>
     </nav>
   </main>
@@ -155,6 +146,7 @@ export default {
 
 <style scoped>
 .grid-cont {
+  margin-top: 2em;
   --size: 160px;
   display: grid;
   justify-content: center;
@@ -167,23 +159,26 @@ export default {
 .page-link {
   line-height: 1.3;
   box-sizing: border-box;
-  border: 4px solid grey;
+  border: 4px solid var(--vp-c-accent);
+  color: var(--vp-c-text);
   border-radius: 10px;
   padding: 8px;
   text-align: center;
   text-decoration: none !important;
-  color: var(--text-color) !important;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   display: flex;
 }
+
 .page-link:hover {
-  border-color: var(--accentColor);
+  border-color: var(--vp-c-accent-hover);
 }
 
 .page-link h2 {
+  color: var(--vp-c-accent) !important;
   margin: 0;
+  padding: 0;
   font-size: 1em;
   border: none;
   text-decoration: underline;

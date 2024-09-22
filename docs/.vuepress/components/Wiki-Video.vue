@@ -1,62 +1,33 @@
-<template> 
-  <div class="video">
-    <video 
-      v-if="url"
-      :src="url"
-      class="local-vid"
-      controls
-      width="560"
-      height="315"
-      loading="lazy"
-      playsinline
-    />
-    <iframe
-      v-else-if="ytUrl"
-      width="560"
-      height="315"
-      loading="lazy"
-      :src="processedUrl"
-      frameborder="0"
-      allowfullscreen 
-    />
-  </div>
+<template>
+  <video v-if="url" :src="url" class="local-vid" controls width="560" height="315" loading="lazy" playsinline />
+  <iframe v-else-if="ytUrl" width="560" height="315" loading="lazy" :src="processedUrl" frameborder="0"
+          allowfullscreen />
 </template>
 
-<script>
-export default {
-  props: ["url", "ytUrl"],
-  computed: {
-    processedUrl() {
-      /**
-       * https://regexr.com/594r0
-        Any of the following URL formats will be properly handled
-        https://www.youtu.be/3HGX7L6VIcU
-        https://youtube.com/3HGX7L6VIcU
-        https://youtu.be/YtcRO7zceIg
-        https://www.youtube.com/watch?v=bB2PVbEQtL8
-        http://youtube.com/embed/3HGX7L6VIcU
-       */
+<script setup>
+import { defineProps, computed } from 'vue'
 
-      const fullYTUrl = /^(http|https):\/\/(www\.)?youtu(be.com|.be)\/(?!embed)(watch\?v=|[a-z0-9]+)/i;
-      const partialYTUrl = /^(http|https):\/\/(www\.)?youtu(be.com|.be)\/(?!embed)(watch\?v=)?/i;
-      const embedString = "https://youtube.com/embed/";
+defineProps(["url", "ytUrl"])
+const processedUrl = computed(() => {
+  /**
+   * https://regexr.com/594r0
+    Any of the following URL formats will be properly handled
+    https://www.youtu.be/3HGX7L6VIcU
+    https://youtube.com/3HGX7L6VIcU
+    https://youtu.be/YtcRO7zceIg
+    https://www.youtube.com/watch?v=bB2PVbEQtL8
+    http://youtube.com/embed/3HGX7L6VIcU
+  */
 
-      let processedUrl = this.ytUrl;
-      if (fullYTUrl.test(this.ytUrl)) {
-        processedUrl = this.ytUrl.replace(partialYTUrl, embedString);
-      }
+  const fullYTUrl = /^(http|https):\/\/(www\.)?youtu(be.com|.be)\/(?!embed)(watch\?v=|[a-z0-9]+)/i;
+  const partialYTUrl = /^(http|https):\/\/(www\.)?youtu(be.com|.be)\/(?!embed)(watch\?v=)?/i;
+  const embedString = "https://youtube.com/embed/";
 
-      return processedUrl;
-    },
-  },
-};
-</script>
-
-<style scoped>
-iframe {
-  max-width: 100%;
-}
-.local-vid {
-  max-width: 100%;
+  let processedUrl = this.ytUrl;
+  if (fullYTUrl.test(this.ytUrl)) {
+    processedUrl = this.ytUrl.replace(partialYTUrl, embedString);
   }
-</style>
+
+  return processedUrl;
+})
+</script>

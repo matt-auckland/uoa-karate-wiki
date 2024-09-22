@@ -1,12 +1,9 @@
 <template>
-  <div
-    class="attack-defense-component"
-    :class="[type === 'attack' ? 'attack' : 'defense']"
-  >
-    <div class="type">{{type === 'attack' ? 'Attacker' : 'Defender'}}:</div>
+  <div class="attack-defense-component" :class="[type === 'attack' ? 'attack' : 'defense']">
+    <div class="type">{{ type === 'attack' ? 'Attacker' : 'Defender' }}:</div>
     <div class="content">
       <slot></slot>
-      <div v-if="note" class="note">{{note}}</div>
+      <div v-if="note" class="note">{{ note }}</div>
     </div>
   </div>
 </template>
@@ -24,34 +21,39 @@ export default {
 
 .content {
   padding-left: 8px;
-}
-.content p {
-  margin-top: 0;
-}
 
-.content p:last-child {
-  margin-bottom: 0;
+  p {
+    margin-top: 0;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .attack-defense-component {
+  --border-rad: 8px;
   padding: 8px;
+  border: 4px dashed;
+
+  &.attack {
+    border-color: var(--persian-red);
+  }
+
+  &.defense {
+    border-color: #538fcf;
+  }
+
+  :is(.attack, .defence):first-of-type {
+    border-radius: var(--border-rad) var(--border-rad) 0 0;
+  }
+
+  &:last-of-type {
+    border-radius: 0 0 var(--border-rad) var(--border-rad);
+  }
 }
 
-.attack-defense-component.attack {
-  background: #572222;
-}
-
-.attack-defense-component.defense {
-  background: #243f5b;
-}
-
-.attack-defense-component:first-of-type {
-  border-radius: 0;
-}
-
-.attack-defense-component:last-of-type {
-  border-radius: 0 0 8px 8px;
-}
+[data-theme='dark'] {}
 
 .note {
   margin-top: 10px;

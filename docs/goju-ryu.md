@@ -6,7 +6,7 @@ categories:
 
 # Goju Ryu Karate
 
-Goju Ryu 剛柔流 means "Hard Soft Way/Style" and refers to a style of karate systematized by [Chojun Miyagi](/).
+Goju Ryu 剛柔流 means "Hard Soft Way/Style" and refers to a style of karate systematized by [Chojun Miyagi](/people/chojun-miyagi.md).
 Goju Ryu is a close in fighting system and features a variety of throws, locks, takedowns, grappling techniques and of course, kicking, punching and striking techniques.
 
 ## The Naming of Goju-Ryu

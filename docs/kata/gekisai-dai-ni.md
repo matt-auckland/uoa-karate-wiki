@@ -21,7 +21,7 @@ Taken literally, Gekisai（撃砕）means "Pulverising​" and Dai Ni（第二�
 
 ## Kata History
 
-Created in the 1940s by Chojun Miyagi. It's a more advanced version of [Gekisai Dai Ichi](/kata/gekisai-dai-ichi.md), introducing open handed techniques.
+Created in the 1940s by Chojun Miyagi. It's a more advanced version of [Gekisai Dai Ichi](gekisai-dai-ichi.md), introducing open handed techniques.
 
 ## How To
 
