@@ -1,10 +1,10 @@
 <template>
   <div class="infobox">
     <div class="title">
-      {{$page.frontmatter.name}}
+      {{ $page.frontmatter.name }}
     </div>
     <div v-for="property in computedInfo">
-      <span class="prop-title">{{property.title}}: </span>
+      <span class="prop-title">{{ property.title }}: </span>
       <span v-html="property.data" />
     </div>
   </div>
@@ -21,6 +21,7 @@ export default {
         "noFooter",
         "categories",
         "name",
+        "head"
       ],
     };
   },
@@ -49,7 +50,7 @@ export default {
 };
 </script>
 
-<style >
+<style>
 .infobox {
   border: 1px solid #a2a9b1;
   border-spacing: 3px;
@@ -80,4 +81,3 @@ export default {
   font-size: 80%;
 }
 </style>
-
