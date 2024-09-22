@@ -7,7 +7,7 @@
 <script setup>
 import { defineProps, computed } from 'vue'
 
-defineProps(["url", "ytUrl"])
+const props = defineProps(["url", "ytUrl"])
 const processedUrl = computed(() => {
   /**
    * https://regexr.com/594r0
@@ -23,9 +23,9 @@ const processedUrl = computed(() => {
   const partialYTUrl = /^(http|https):\/\/(www\.)?youtu(be.com|.be)\/(?!embed)(watch\?v=)?/i;
   const embedString = "https://youtube.com/embed/";
 
-  let processedUrl = this.ytUrl;
-  if (fullYTUrl.test(this.ytUrl)) {
-    processedUrl = this.ytUrl.replace(partialYTUrl, embedString);
+  let processedUrl = props.ytUrl;
+  if (fullYTUrl.test(props.ytUrl)) {
+    processedUrl = props.ytUrl.replace(partialYTUrl, embedString);
   }
 
   return processedUrl;
