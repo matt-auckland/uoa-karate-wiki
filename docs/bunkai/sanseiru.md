@@ -21,7 +21,6 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 
 </Attack-Defense-Container>
 
-
 <Attack-Defense-Container label="2. Cross handed wrist grab escape"> 
 <Attack-Defense type="attack">
 <p>From hidari zenkutsu dachi, step forward and grab their right wrist with your right hand.</p>
@@ -35,7 +34,6 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 
 </Attack-Defense-Container>
 
-
 <Attack-Defense-Container label="3. Kick catch, groin kick"> 
 <Attack-Defense type="attack">
 <p>From hidari zenkutsu dachi, migi gedan maegeri</p>
@@ -45,7 +43,6 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 <p>With your right hand strike the knee joint and kick to the groin with migi gedan maegeri.</p>
 </Attack-Defense>
 </Attack-Defense-Container>
-
 
 <Attack-Defense-Container label=" 3a. Kick catch and takedown"> 
 <Attack-Defense type="attack">
@@ -59,7 +56,6 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 
 </Attack-Defense-Container>
 
-
 <Attack-Defense-Container label="4. Block to inside, kick and elbow, block their gyakuzuki, cover the hand, step across kansetsu geri, punch of back of head"> 
 <Attack-Defense type="attack">
 <p>From hidari zenkutsu dachi, migi chudan oizuki, hidari gedan gyakuzuki.</p>
@@ -72,7 +68,6 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 
 </Attack-Defense-Container>
 
-
 <Attack-Defense-Container label="5. Close-fisted juji-Uke"> 
 <Attack-Defense type="attack">
 <p>From hidari zenkutsu dachi, migi chudan maegeri</p>
@@ -82,7 +77,6 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 </Attack-Defense>
 
 </Attack-Defense-Container>
-
 
 <Attack-Defense-Container label="5a. Open handed juji uke"> 
 <Attack-Defense type="attack">
@@ -94,7 +88,6 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 </Attack-Defense>
 
 </Attack-Defense-Container>
-
 
 <Attack-Defense-Container label="6. Punch, catch, kick, catch, push takedown"> 
 <Attack-Defense type="attack">
@@ -109,26 +102,24 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 
 </Attack-Defense-Container>
 
-
 <Attack-Defense-Container label="7.a Koken uke rib strike, shove"> 
-<Attack-Defense type="attack">
-<p>From hidari zenkutsu dachi, migi chudan oizuki, follow with hidari jodan gyakuzuki.</p>
-</Attack-Defense>
-<Attack-Defense type="defense">
-<p>Step back with your left foot, block with hidari yoko koken uke.</p>
-<p>For the jodan strike, block migi jodan koken uke while dropping down into shikodachi.</p>
-<p>Then strike the ribs with both hands (shutou), and then shove your partner away</p>
-</Attack-Defense>
-
-<Attack-Defense-Container label="7.b Koken uke, drop to shikodachi, Jodan nukite"> 
-<Attack-Defense type="attack">
-<p>From hidari zenkutsu dachi, migi chudan oizuki, follow with hidari jodan gyakuzuki.</p>
-</Attack-Defense>
-<Attack-Defense type="defense">
-<p>Step back with your left foot, block with hidari yoko koken uke.</p>
-<p>For the jodan strike, block migi jodan koken uke while dropping down into shikodachi.</p>
-<p>Then strike migi jodan nukite to the eyes.</p>
-</Attack-Defense>
-
+  <Attack-Defense type="attack">
+    <p>From hidari zenkutsu dachi, migi chudan oizuki, follow with hidari jodan gyakuzuki.</p>
+  </Attack-Defense>
+  <Attack-Defense type="defense">
+    <p>Step back with your left foot, block with hidari yoko koken uke.</p>
+    <p>For the jodan strike, block migi jodan koken uke while dropping down into shikodachi.</p>
+    <p>Then strike the ribs with both hands (shutou), and then shove your partner away</p>
+  </Attack-Defense>
 </Attack-Defense-Container>
 
+<Attack-Defense-Container label="7.b Koken uke, drop to shikodachi, Jodan nukite"> 
+  <Attack-Defense type="attack">
+    <p>From hidari zenkutsu dachi, migi chudan oizuki, follow with hidari jodan gyakuzuki.</p>
+  </Attack-Defense>
+  <Attack-Defense type="defense">
+    <p>Step back with your left foot, block with hidari yoko koken uke.</p>
+    <p>For the jodan strike, block migi jodan koken uke while dropping down into shikodachi.</p>
+    <p>Then strike migi jodan nukite to the eyes.</p>
+  </Attack-Defense>
+</Attack-Defense-Container>

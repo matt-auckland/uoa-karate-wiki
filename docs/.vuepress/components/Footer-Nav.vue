@@ -23,7 +23,6 @@
 import { footerLinksContent } from '@temp/footerLinks.js'
 
 const footerCategories = Object.keys(footerLinksContent);
-console.log(footerLinksContent)
 </script>
 
 <style scoped>

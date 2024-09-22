@@ -38,7 +38,7 @@ export default {
           };
 
           if (computedData.title.indexOf(/\d/) > -1) {
-            console.log("test");
+            // console.log("test");
           }
 
           return computedData;
