@@ -3,6 +3,7 @@ title: Judo Techniques
 
 categories:
   - judo
+  - techniques
 ---
 
 # Judo Techniques
@@ -11,17 +12,18 @@ Judo is a martial art focused on grappling, throwing, and submission techniques,
 
 # Techniques categorised by grade
 
-
 ## White Belt
 
 ### Throws
+
 | Romaji        | Japanese | Chinese  | English            | Info                                                                              |
 | ------------- | -------- | -------- | ------------------ | --------------------------------------------------------------------------------- |
 | Uki Goshi     | 浮腰     | 漂浮的腰 | Floating Hip Throw | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/uki/)        |
-| Tai Otoshi    | 体落     | 身体落下  | Body Drop          | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/taiotosi/)     |
-| O Soto Otoshi | 大外落   | 大外落  | Large Outer Drop   | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotootosi/) |
+| Tai Otoshi    | 体落     | 身体落下 | Body Drop          | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/taiotosi/)     |
+| O Soto Otoshi | 大外落   | 大外落   | Large Outer Drop   | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotootosi/) |
 
 ### Holding Techniques
+
 | Romaji             | Japanese   | Chinese  | English             | Info                                                                                |
 | ------------------ | ---------- | -------- | ------------------- | ----------------------------------------------------------------------------------- |
 | Kesa Gatame        | 袈裟固め   | 袈裟固   | Scarf Hold          | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/kesa/)       |
@@ -32,6 +34,7 @@ Judo is a martial art focused on grappling, throwing, and submission techniques,
 None.
 
 ## Yellow Belt
+
 ### Throws
 
 | Romaji               | Japanese   | Chinese    | English                   | Info                                                                                |
@@ -41,6 +44,7 @@ None.
 | Sasae Tsurikomi Ashi | 支釣込足   | 支撑提拉腿 | Propping Drawing Ankle    | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/sasaeturikomi/) |
 | Morote Seoi Nage     | 諸手背負投 | 双手背负投 | Two-Hand Shoulder Throw   | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/seoi/)           |
 | O Uchi Gari          | 大内刈     | 大内割     | Major Inner Reaping Throw | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/ooutigari/)     |
+
 ### Holding Techniques
 
 | Romaji            | Japanese   | Chinese  | English                  | Info                                                                               |
@@ -50,10 +54,13 @@ None.
 | Kata Gatame       | 肩固め     | 肩固     | Shoulder Hold            | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/kata/)      |
 
 ### Joint locks and choking techniques
+
 None.
 
 ## Orange Belt
+
 ### Throws
+
 | Romaji          | Japanese   | Chinese    | English                | Info                                                                               |
 | --------------- | ---------- | ---------- | ---------------------- | ---------------------------------------------------------------------------------- |
 | Hiza Guruma     | 膝輪       | 膝轮       | Knee Wheel             | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/hizaguruma/)   |
@@ -68,16 +75,18 @@ None.
 
 ### Holding Techniques
 
-| Romaji                   | Japanese          | Chinese           | English                  | Info                                                                 |
-|--------------------------|-------------------|-------------------|--------------------------|----------------------------------------------------------------------|
-| Tate Shiho Gatame        | 縦四方固め       | 纵四方固          | Vertical Four-Corner Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/tatesihou/) |
-| Kuzure Yoko Shiho Gatame | 崩横四方固め     | 崩横四方固        | Modified Side Four-Corner Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/yokosihou/) |
-| Kuzure Kami Shiho Gatame | 崩上四方固め     | 崩上四方固        | Modified Upper Four-Corner Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/kamisihou/) |
+| Romaji                   | Japanese     | Chinese    | English                         | Info                                                                               |
+| ------------------------ | ------------ | ---------- | ------------------------------- | ---------------------------------------------------------------------------------- |
+| Tate Shiho Gatame        | 縦四方固め   | 纵四方固   | Vertical Four-Corner Hold       | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/tatesihou/) |
+| Kuzure Yoko Shiho Gatame | 崩横四方固め | 崩横四方固 | Modified Side Four-Corner Hold  | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/yokosihou/) |
+| Kuzure Kami Shiho Gatame | 崩上四方固め | 崩上四方固 | Modified Upper Four-Corner Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/kamisihou/) |
 
 ### Joint locks and choking techniques
+
 None.
 
 ## Green Belt
+
 ### Throwing techniques
 
 | Romaji             | Japanese | Chinese  | English                | Info                                                                               |
@@ -97,25 +106,25 @@ None.
 | Tani Otoshi        | 谷落     | 谷落     | Valley Drop            | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/yoko/taniotosi/)   |
 
 ### Holding Techniques
-| Romaji                    | Japanese            | Chinese             | English                    | Info                                                              |
-|---------------------------|---------------------|---------------------|----------------------------|-------------------------------------------------------------------|
-| Kuzure Tate Shiho Gatame  | 崩縦四方固め       | 崩纵四方固          | Modified Vertical Four-Corner Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/kuzurekami/) |
-| Ushiro Kesa Gatame        | 後袈裟固め         | 后袈裟固            | Rear Scarf Hold            | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ushirokesa/) |
 
+| Romaji                   | Japanese     | Chinese    | English                            | Info                                                                                |
+| ------------------------ | ------------ | ---------- | ---------------------------------- | ----------------------------------------------------------------------------------- |
+| Kuzure Tate Shiho Gatame | 崩縦四方固め | 崩纵四方固 | Modified Vertical Four-Corner Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/kuzurekami/) |
+| Ushiro Kesa Gatame       | 後袈裟固め   | 后袈裟固   | Rear Scarf Hold                    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ushirokesa/) |
 
 ### Joint locks and choking techniques
-| Romaji                     | Japanese           | Chinese             | English                   | Info                                                              |
-|----------------------------|--------------------|---------------------|---------------------------|-------------------------------------------------------------------|
-| Ude Hishigi Juji Gatame    | 腕挫十字固め       | 腕挫十字固          | Armlock Cross Hold        | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/udejyuji/) |
-| Ashi Gatame                | 足固め             | 腿固                | Leg Hold                  | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ashigatame/) |
-| Te Gatame                  | 手固め             | 手固                | Hand Hold                 | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/tegatame/) |
-| Nami Juji Jime             | 並十字絞           | 并十字绞            | Normal Cross Strangle     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/nami/) |
-| Kata Juji Jime             | 片十字絞           | 单十字绞            | Single Cross Strangle     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/kata/) |
-| Gyaku Juji Jime            | 逆十字絞           | 逆十字绞            | Reverse Cross Strangle    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/gyaku/) |
 
-
+| Romaji                  | Japanese     | Chinese    | English                | Info                                                                                 |
+| ----------------------- | ------------ | ---------- | ---------------------- | ------------------------------------------------------------------------------------ |
+| Ude Hishigi Juji Gatame | 腕挫十字固め | 腕挫十字固 | Armlock Cross Hold     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/udejyuji/) |
+| Ashi Gatame             | 足固め       | 腿固       | Leg Hold               | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ashigatame/)  |
+| Te Gatame               | 手固め       | 手固       | Hand Hold              | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/tegatame/)    |
+| Nami Juji Jime          | 並十字絞     | 并十字绞   | Normal Cross Strangle  | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/nami/)        |
+| Kata Juji Jime          | 片十字絞     | 单十字绞   | Single Cross Strangle  | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/kata/)        |
+| Gyaku Juji Jime         | 逆十字絞     | 逆十字绞   | Reverse Cross Strangle | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/gyaku/)       |
 
 ## Blue Belt
+
 ### Throwing techniques
 
 | Romaji                | Japanese   | Chinese  | English                    | Info                                                                                |
@@ -135,25 +144,26 @@ None.
 | Sukui Nage            | 掬投       | 掬投     | Scooping Throw             | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/sukui/)          |
 
 ### Holding Techniques
-| Romaji           | Japanese        | Chinese         | English          | Info                                                              |
-|------------------|-----------------|-----------------|------------------|-------------------------------------------------------------------|
-| Sankaku Gatame   | 三角固め       | 三角固          | Triangle Hold    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/sankaku/) |
 
+| Romaji         | Japanese | Chinese | English       | Info                                                                             |
+| -------------- | -------- | ------- | ------------- | -------------------------------------------------------------------------------- |
+| Sankaku Gatame | 三角固め | 三角固  | Triangle Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/sankaku/) |
 
 ### Joint locks and choking techniques
-| Romaji           | Japanese         | Chinese           | English             | Info                                                            |
-|------------------|------------------|-------------------|---------------------|-----------------------------------------------------------------|
-| Ude Garami       | 腕絡み           | 腕缠绕             | Arm Entanglement    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/udegarami/) |
-| Ude Gatame       | 腕固め           | 腕固               | Arm Lock            | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/udegatame/) |
-| Waki Gatame      | 脇固め           | 腋固               | Armpit Lock         | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/wakigatame/) |
-| Okuri Eri Jime   | 送り襟絞         | 送领绞             | Sliding Collar Strangle | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/okurieri/) |
-| Hadaka Jime      | 裸絞             | 裸绞               | Naked Strangle      | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/hadaka/) |
-| Sankaku Jime     | 三角絞           | 三角绞             | Triangle Strangle   | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/sankaku/) |
-| Kata Ha Jime     | 片羽絞           | 单翼绞             | Single Wing Strangle | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/kataha/) |
-| Koshi Jime       | 腰絞             | 腰绞               | Hip Strangle        | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/koshi/) |
 
+| Romaji         | Japanese | Chinese | English                 | Info                                                                                  |
+| -------------- | -------- | ------- | ----------------------- | ------------------------------------------------------------------------------------- |
+| Ude Garami     | 腕絡み   | 腕缠绕  | Arm Entanglement        | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/udegarami/) |
+| Ude Gatame     | 腕固め   | 腕固    | Arm Lock                | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/udegatame/)    |
+| Waki Gatame    | 脇固め   | 腋固    | Armpit Lock             | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/wakigatame/)   |
+| Okuri Eri Jime | 送り襟絞 | 送领绞  | Sliding Collar Strangle | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/okurieri/)     |
+| Hadaka Jime    | 裸絞     | 裸绞    | Naked Strangle          | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/hadaka/)       |
+| Sankaku Jime   | 三角絞   | 三角绞  | Triangle Strangle       | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/sankaku/)      |
+| Kata Ha Jime   | 片羽絞   | 单翼绞  | Single Wing Strangle    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/kataha/)       |
+| Koshi Jime     | 腰絞     | 腰绞    | Hip Strangle            | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/koshi/)        |
 
 ## Brown Belt
+
 ### Throwing techniques
 
 | Romaji                | Japanese | Chinese  | English                      | Info                                                                                |
@@ -174,25 +184,25 @@ None.
 | Harai Tsuri Komi Ashi | 払釣込足 | 扫提拉腿 | Sweeping Lifting Pulling Leg | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/haraiturikomi/) |
 
 ### Holding Techniques
-| Romaji       | Japanese     | Chinese       | English       | Info                                                            |
-|--------------|--------------|---------------|---------------|-----------------------------------------------------------------|
-| Ura Gatame   | 裏固め       | 背固          | Rear Hold     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ura/) |
-| Uki Gatame   | 浮固め       | 浮固          | Floating Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/uki/) |
 
+| Romaji     | Japanese | Chinese | English       | Info                                                                         |
+| ---------- | -------- | ------- | ------------- | ---------------------------------------------------------------------------- |
+| Ura Gatame | 裏固め   | 背固    | Rear Hold     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ura/) |
+| Uki Gatame | 浮固め   | 浮固    | Floating Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/uki/) |
 
 ### Joint locks and choking techniques
-| Romaji             | Japanese       | Chinese           | English              | Info                                                              |
-|--------------------|----------------|-------------------|----------------------|-------------------------------------------------------------------|
-| Hiza Gatame        | 膝固           | 膝关节固定        | Knee Lock            | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/udehiza/) |
-| Hara Gatame        | 腹固           | 腹部固定          | Stomach Lock         | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/udehara/) |
-| Sode Guruma Jime   | 袖車絞         | 袖轮绞            | Sleeve Wheel Strangle | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/sodeguruma/) |
-| Ryo Te Jime        | 両手絞         | 双手绞            | Two-Hand Strangle    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/ryoute/) |
-| Tsuki Komi Jime    | 突込絞         | 突进绞            | Thrusting Strangle   | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/tukkomi/) |
-| Kata Te Jime       | 片手絞         | 单手绞            | Single Hand Strangle | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/katate/) |
 
-
+| Romaji           | Japanese | Chinese    | English               | Info                                                                                |
+| ---------------- | -------- | ---------- | --------------------- | ----------------------------------------------------------------------------------- |
+| Hiza Gatame      | 膝固     | 膝关节固定 | Knee Lock             | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/udehiza/) |
+| Hara Gatame      | 腹固     | 腹部固定   | Stomach Lock          | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/udehara/) |
+| Sode Guruma Jime | 袖車絞   | 袖轮绞     | Sleeve Wheel Strangle | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/sodeguruma/) |
+| Ryo Te Jime      | 両手絞   | 双手绞     | Two-Hand Strangle     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/ryoute/)     |
+| Tsuki Komi Jime  | 突込絞   | 突进绞     | Thrusting Strangle    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/tukkomi/)    |
+| Kata Te Jime     | 片手絞   | 单手绞     | Single Hand Strangle  | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/katate/)     |
 
 ## Black Belt
+
 ### Throwing techniques
 
 | Romaji         | Japanese | Chinese | English              | Info                                                                                 |
@@ -212,14 +222,13 @@ None.
 | Sumi Otoshi    | 隅落     | 角落    | Corner Drop          | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/sumiotosi/)       |
 | Do Jime        | 胴絞     | 胴绞    | Trunk Strangle       | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/dou/)         |
 
-
 ### Holding Techniques
+
 None.
 
 ### Joint locks and choking techniques
-| Romaji         | Japanese     | Chinese         | English         | Info                                                              |
-|----------------|--------------|-----------------|-----------------|-------------------------------------------------------------------|
-| Ashi Garami    | 足絡         | 腿缠绕         | Leg Entanglement | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/asigarami/) |
-| Do Jime        | 胴絞         | 身体绞         | Trunk Strangle  | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/dou/) |
 
-
+| Romaji      | Japanese | Chinese | English          | Info                                                                                  |
+| ----------- | -------- | ------- | ---------------- | ------------------------------------------------------------------------------------- |
+| Ashi Garami | 足絡     | 腿缠绕  | Leg Entanglement | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/asigarami/) |
+| Do Jime     | 胴絞     | 身体绞  | Trunk Strangle   | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/dou/)          |

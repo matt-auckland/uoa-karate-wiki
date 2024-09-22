@@ -5,6 +5,8 @@ categories:
   - Important
 ---
 
+# Ceremonies
+
 We start and end most of our training sessions with opening and closing ceremonies. These are performed mostly in Japanese and there are set phrases used. For help with pronouncing and reading the Japanese, [click here](/japanese.md).
 
 ## Meditation

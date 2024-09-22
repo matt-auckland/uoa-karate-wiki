@@ -1,6 +1,7 @@
 ---
 title: Sparring
 categories:
+  - techniques
 ---
 
 # Sparring/Kumite

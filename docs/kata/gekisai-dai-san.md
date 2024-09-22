@@ -13,9 +13,9 @@ categories:
 
 <Infobox/>
 
-A supplemental Goju Ryu Karate kata, seemingly created in collaboration between [Uehara Kou](/docs/people/uehara-kou.md) (student of Eiichi Miyazato) and South African Karateka, as a bridge between the simpler Gekisai Kata and Saifa. This Kata introduces a number of open handed techniques and the concept of attacking with one hand while not chambering the other.
+A supplemental Goju Ryu Karate kata, seemingly created in collaboration between [Uehara Kou](/people/uehara-kou.md) (student of Eiichi Miyazato) and South African Karateka, as a bridge between the simpler Gekisai Kata and Saifa. This Kata introduces a number of open handed techniques and the concept of attacking with one hand while not chambering the other.
 
-Not to be confused with the other [Gekisai Dai San](/docs/kata/gekisai-dai-san.md) which has the same name. 
+Not to be confused with the other [Gekisai Dai San](/kata/gekisai-dai-san.md) which has the same name.
 
 ## Name Meaning
 
@@ -55,4 +55,3 @@ The reason for the "number three" is because Gekisai Dai San is the third in a s
 - [Hachiji Dachi](/stances#hachiji_dachi)
 - [Koukutsu Dachi](/stances#koukutsu_dachi)
 - [Neko Ashi Dachi](/stances#neko_ashi_dachi)
-

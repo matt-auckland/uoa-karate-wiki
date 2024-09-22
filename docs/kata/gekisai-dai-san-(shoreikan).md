@@ -13,9 +13,9 @@ categories:
 
 <Infobox/>
 
-A Shoreikan Goju Ryu Karate kata, this was created by [Seikichi Toguchi](/docs/people/seikichi-toguchi.md) (direct student of Chojun Miyagi), as a continuation of the Gekisai Series.
+A Shoreikan Goju Ryu Karate kata, this was created by [Seikichi Toguchi](/people/seikichi-toguchi.md) (direct student of Chojun Miyagi), as a continuation of the Gekisai Series.
 
-Not to be confused with the other [Gekisai Dai San](/docs/kata/gekisai-dai-san.md) which has the same name. 
+Not to be confused with the other [Gekisai Dai San](/kata/gekisai-dai-san.md) which has the same name.
 
 ## Name Meaning
 
@@ -54,4 +54,3 @@ The reason for the "number three" is because Gekisai Dai San is the third in a s
 - [Zenkutsu Dachi](/stances#zenkutsu_dachi)
 - [Hachiji Dachi](/stances#hachiji_dachi)
 - [Neko Ashi Dachi](/stances#neko_ashi_dachi)
-

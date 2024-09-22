@@ -4,6 +4,8 @@ categories:
   - Important
 ---
 
+# Grading
+
 A grading is an examination for karate to determine if a student can progress to a higher rank.
 They are generally held twice a year, near the end of each semester a week or two before exams begin.
 
@@ -14,6 +16,7 @@ A grading is about 2.5 - 3 hours long, and is generally composed of the followin
 <!-- - [Junbi Undo (Warm Ups)](/)
 - [Kihon (Basics)](/) -->
 <!-- - [Moving basics](/) -->
+
 - Junbi Undo (Warm Ups)
 - Kihon (Basics)
 - Moving basics

@@ -3,6 +3,8 @@ title: Japanese
 categories:
 ---
 
+# Japanese
+
 While not necessary at all to learn, enjoy, or even get good at Karate, knowing some basic Japanese can help to add to one's enjoyment and understanding of Karate and Japanese culture. It's also just nice to know you're pronouncing things correctly.
 
 ## Karate Words

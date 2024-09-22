@@ -5,6 +5,8 @@ categories:
   - Important
 ---
 
+# Etiquette
+
 Foremost in Karate is respect. It is also important to respect your dojo, your partners, your teachers, your training equipment, and yourself.
 
 This includes bowing on entry and exit (of the dojo), not wearing shoes on the dojo floor, wearing clean clothing and being personally clean, having short nails (to avoid injuring a partner), and being on time for training.
