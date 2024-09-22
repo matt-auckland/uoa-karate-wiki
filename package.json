@@ -13,6 +13,7 @@
     "@vuepress/bundler-vite": "^2.0.0-rc.15",
     "@vuepress/plugin-links-check": "^2.0.0-rc.46",
     "@vuepress/plugin-markdown-image": "^2.0.0-rc.46",
+    "@vuepress/plugin-search": "^2.0.0-rc.47",
     "@vuepress/theme-default": "^2.0.0-rc.46",
     "sass-embedded": "^1.79.3",
     "vue": "^3.5.7",

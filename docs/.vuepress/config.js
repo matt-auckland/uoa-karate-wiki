@@ -3,11 +3,12 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
 import { linksCheckPlugin } from '@vuepress/plugin-links-check'
 import { markdownImagePlugin } from '@vuepress/plugin-markdown-image'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 const footerLinksPlugin = (app) => {
   return {
     name: 'footerLinksPlugin',
-    onInitialized: (app) => {
+    onWatched: (app) => {
       let footerlinksContent = {}
       const trimmedPageObjs = app.pages.filter(
         (page) => !page.frontmatter.isDraft && !page.frontmatter.noFooter
@@ -98,6 +99,14 @@ export default defineUserConfig({
     ],
   ],
   plugins: [
+    searchPlugin({
+      // options
+      locales: {
+        '/': {
+          placeholder: 'Search',
+        },
+      }
+    }),
     footerLinksPlugin(),
     linksCheckPlugin({}),
     markdownImagePlugin({
@@ -235,8 +244,7 @@ export default defineUserConfig({
           },
           {
             text: "About the club",
-            link: '/uoa-karate/',
-            activeMatch: '/uoa-karate/$'
+            link: 'https://uoa-karate.club/#/about',
           },
           {
             text: "Tournament Results",
@@ -245,6 +253,10 @@ export default defineUserConfig({
           {
             text: "Black Belt Register",
             link: '/uoa-karate/black-belt-register',
+          },
+          {
+            text: "Related Clubs",
+            link: '/uoa-karate/related-clubs',
           },
         ]
       },

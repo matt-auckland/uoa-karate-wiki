@@ -1,5 +1,6 @@
 ---
 title: Auckland University Goju Ryu Karate Club
+isDraft: true
 categories:
   - karate club
 ---
