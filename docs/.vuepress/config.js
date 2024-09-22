@@ -6,79 +6,81 @@ import { markdownImagePlugin } from '@vuepress/plugin-markdown-image'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 const footerLinksPlugin = (app) => {
+  const buildFooter = (app) => {
+    let footerlinksContent = {}
+    const trimmedPageObjs = app.pages.filter(
+      (page) => !page.frontmatter.isDraft && !page.frontmatter.noFooter
+    ).map((page) => {
+      return {
+        categories: page.frontmatter?.categories,
+        title: page.title,
+        path: page.path,
+        categoryParent: page.frontmatter?.isCategoryParent,
+      };
+    });
+
+    // we add Important here so it's the first category to show in the footer
+    const footerCategoriesObj = { 'Important Pages': {}, important: {}, 'karate club': {}, techniques: {}, kata: {}, bunkai: {} };
+    const miscPages = { pages: [] };
+
+    // We don't want to display these categories right now, put their pages under "misc"
+    const ignoredCategories = ["hojo undo", "kobudo", "yakusoku kumite", "judo"];
+
+    trimmedPageObjs.forEach((page) => {
+      const putInMisc = page?.categories?.every(cat => {
+        cat = cat.toLowerCase();
+        return ignoredCategories.includes(cat)
+      })
+      // Put the page in misc if we don't want to display the category
+      if (putInMisc) {
+        miscPages.pages.push(page);
+        return
+      }
+
+      if (page?.categories?.length) {
+        page.categories.forEach((cat) => {
+          cat = cat.toLowerCase();
+
+          if (ignoredCategories.includes(cat)) {
+            return // Ignore certain catergories
+          }
+
+          if (!page.categoryParent) {
+            if (
+              footerCategoriesObj[cat] &&
+              footerCategoriesObj[cat].pages
+            ) {
+              footerCategoriesObj[cat].pages.push(page);
+            } else {
+              footerCategoriesObj[cat] = { pages: [page] };
+            }
+          }
+
+          if (page.categoryParent) {
+            if (!footerCategoriesObj[cat]) {
+              footerCategoriesObj[cat] = { pages: [] };
+            }
+            footerCategoriesObj[cat].path = page.path;
+          }
+
+        });
+      } else {
+        // If the page doesn't have a category, throw it in misc
+        miscPages.pages.push(page);
+      }
+    });
+    footerCategoriesObj.misc = miscPages;
+    footerCategoriesObj['Important Pages'] = footerCategoriesObj.important
+    delete footerCategoriesObj.important
+
+    app.writeTemp('footerLinks.js',
+      `export const footerLinksContent = ${JSON.stringify(footerCategoriesObj)}`
+    )
+  }
+
   return {
     name: 'footerLinksPlugin',
-    onWatched: (app) => {
-      let footerlinksContent = {}
-      const trimmedPageObjs = app.pages.filter(
-        (page) => !page.frontmatter.isDraft && !page.frontmatter.noFooter
-      ).map((page) => {
-        return {
-          categories: page.frontmatter?.categories,
-          title: page.title,
-          path: page.path,
-          categoryParent: page.frontmatter?.isCategoryParent,
-        };
-      });
-
-      // we add Important here so it's the first category to show in the footer
-      const footerCategoriesObj = { 'Important Pages': {}, important: {}, 'karate club': {}, techniques: {}, kata: {}, bunkai: {} };
-      const miscPages = { pages: [] };
-
-      // We don't want to display these categories right now, put their pages under "misc"
-      const ignoredCategories = ["hojo undo", "kobudo", "yakusoku kumite", "judo"];
-
-      trimmedPageObjs.forEach((page) => {
-        const putInMisc = page?.categories?.every(cat => {
-          cat = cat.toLowerCase();
-          return ignoredCategories.includes(cat)
-        })
-        // Put the page in misc if we don't want to display the category
-        if (putInMisc) {
-          miscPages.pages.push(page);
-          return
-        }
-
-        if (page?.categories?.length) {
-          page.categories.forEach((cat) => {
-            cat = cat.toLowerCase();
-
-            if (ignoredCategories.includes(cat)) {
-              return // Ignore certain catergories
-            }
-
-            if (!page.categoryParent) {
-              if (
-                footerCategoriesObj[cat] &&
-                footerCategoriesObj[cat].pages
-              ) {
-                footerCategoriesObj[cat].pages.push(page);
-              } else {
-                footerCategoriesObj[cat] = { pages: [page] };
-              }
-            }
-
-            if (page.categoryParent) {
-              if (!footerCategoriesObj[cat]) {
-                footerCategoriesObj[cat] = { pages: [] };
-              }
-              footerCategoriesObj[cat].path = page.path;
-            }
-
-          });
-        } else {
-          // If the page doesn't have a category, throw it in misc
-          miscPages.pages.push(page);
-        }
-      });
-      footerCategoriesObj.misc = miscPages;
-      footerCategoriesObj['Important Pages'] = footerCategoriesObj.important
-      delete footerCategoriesObj.important
-
-      app.writeTemp('footerLinks.js',
-        `export const footerLinksContent = ${JSON.stringify(footerCategoriesObj)}`
-      )
-    }
+    onInitialized: buildFooter,
   }
 }
 export default defineUserConfig({
