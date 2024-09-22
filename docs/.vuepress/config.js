@@ -21,38 +21,49 @@ const footerLinksPlugin = (app) => {
       });
 
       // we add Important here so it's the first category to show in the footer
-      const footerCategoriesObj = { 'Important Pages': {}, important: {}, 'karate club': {} };
+      const footerCategoriesObj = { 'Important Pages': {}, important: {}, 'karate club': {}, techniques: {}, kata: {}, bunkai: {} };
       const miscPages = { pages: [] };
-      const ignoredCategories = ["hojo undo", "kobudo", "yakusoku kumite"];
-      // console.log(trimmedPageObjs)
+
+      // We don't want to display these categories right now, put their pages under "misc"
+      const ignoredCategories = ["hojo undo", "kobudo", "yakusoku kumite", "judo"];
+
       trimmedPageObjs.forEach((page) => {
+        const putInMisc = page?.categories?.every(cat => {
+          cat = cat.toLowerCase();
+          return ignoredCategories.includes(cat)
+        })
+        // Put the page in misc if we don't want to display the category
+        if (putInMisc) {
+          miscPages.pages.push(page);
+          return
+        }
+
         if (page?.categories?.length) {
           page.categories.forEach((cat) => {
             cat = cat.toLowerCase();
 
-            // We don't want to display these categories right now
             if (ignoredCategories.includes(cat)) {
-              // Put the page in misc if we don't want to display the category
-              miscPages.pages.push(page);
-            } else {
-              if (!page.categoryParent) {
-                if (
-                  footerCategoriesObj[cat] &&
-                  footerCategoriesObj[cat].pages
-                ) {
-                  footerCategoriesObj[cat].pages.push(page);
-                } else {
-                  footerCategoriesObj[cat] = { pages: [page] };
-                }
-              }
+              return // Ignore certain catergories
+            }
 
-              if (page.categoryParent) {
-                if (!footerCategoriesObj[cat]) {
-                  footerCategoriesObj[cat] = { pages: [] };
-                }
-                footerCategoriesObj[cat].path = page.path;
+            if (!page.categoryParent) {
+              if (
+                footerCategoriesObj[cat] &&
+                footerCategoriesObj[cat].pages
+              ) {
+                footerCategoriesObj[cat].pages.push(page);
+              } else {
+                footerCategoriesObj[cat] = { pages: [page] };
               }
             }
+
+            if (page.categoryParent) {
+              if (!footerCategoriesObj[cat]) {
+                footerCategoriesObj[cat] = { pages: [] };
+              }
+              footerCategoriesObj[cat].path = page.path;
+            }
+
           });
         } else {
           // If the page doesn't have a category, throw it in misc
@@ -113,8 +124,12 @@ export default defineUserConfig({
     sidebar: 'heading', // Use headings to generate
     navbar: [
       {
-        text: 'Wiki Pages',
+        text: 'Browse',
         children: [
+          {
+            text: 'Home',
+            link: '/',
+          },
           {
             text: 'About Goju Ryu',
             link: '/goju-ryu.md',
@@ -125,8 +140,29 @@ export default defineUserConfig({
             link: '/vocabulary.md',
           },
           {
-            text: 'Hojo Undo',
-            link: '/hojo-undo/',
+            text: 'Techniques',
+            children: [
+              {
+                text: 'Sparring',
+                link: '/sparring',
+              },
+              {
+                text: 'Stances & Footwork',
+                link: '/stances-and-footwork',
+              },
+              {
+                text: 'Kakie',
+                link: '/kakie',
+              },
+              {
+                text: 'Throws and Takedowns',
+                link: '/throws-and-takedowns',
+              },
+              {
+                text: 'Judo Techniques',
+                link: '/judo',
+              },
+            ]
           },
           {
             text: 'Kata and Bunkai',
@@ -140,7 +176,6 @@ export default defineUserConfig({
               { text: 'Yakusoku Kumite', link: '/bunkai/yakusoku-kumite.md' },
             ],
           },
-
           {
             text: 'Etiquette & Ceremonies',
             children: [
@@ -159,18 +194,64 @@ export default defineUserConfig({
               },
             ],
           },
+          {
+            text: 'Other'
+            , children: [
+              {
+                text: 'Vocabulary',
+                link: '/vocabulary',
+              },
+              {
+                text: 'Conditioning',
+                link: '/conditioning',
+              },
+              {
+                text: 'Hojo Undo',
+                link: '/hojo-undo/',
+              },
+              {
+                text: 'Kobudo (Weapons)',
+                link: '/kobudo-weapons',
+              },
+              {
+                text: 'Japanese',
+                link: '/japanese',
+              },
+              {
+                text: 'Training By Kata',
+                link: '/training-by-kata',
+              },
+            ],
+
+          },
         ],
       },
       {
-        text: "About the club",
-        link: '/uoa-karate/',
+        text: "Club Info",
+        children: [
+          {
+            text: "Club main website",
+            link: 'https://uoa-karate.club'
+          },
+          {
+            text: "About the club",
+            link: '/uoa-karate/',
+            activeMatch: '/uoa-karate/$'
+          },
+          {
+            text: "Tournament Results",
+            link: '/uoa-karate/tournament-results',
+          },
+          {
+            text: "Black Belt Register",
+            link: '/uoa-karate/black-belt-register',
+          },
+        ]
       },
       {
         text: "Beginner's Guide",
         link: '/beginner-guide.md',
       },
-      { text: 'Grading Info', link: '/grading.md' },
-      { text: 'Main club website', link: 'https://uoa-karate.club' },
     ],
   }),
 })
