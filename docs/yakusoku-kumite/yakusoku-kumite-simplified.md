@@ -21,7 +21,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 1 - Gekisai Theme
 
 <Attack-Defense-Container label="1.1: Jodan Block into Gekisai Takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 1.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-1.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while blocking with Migi Jodan Hiki-Uke.</p>
@@ -30,7 +30,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="1.2: Simultaneous Block and Strike into Gekisai Takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 2.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-2.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left and block with Migi Chudan Yoko-Uke, while simultaneously striking with Hidari Gedan-Zuki.</p>
@@ -40,7 +40,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="1.4: Pull Arm Behind Back to Takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 4.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-4.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back into Hidari Zenkutsu-Dachi, blocking with Hidari Jodan Age-Uke, strike with Migi Jodan Gyaku-Zuki.</p>
@@ -51,7 +51,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="1.5: Kick Block into Gekisai Takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 5.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-5.mp4" />
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while blocking Migi Shuto-Uke</p>
@@ -72,7 +72,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="2.3: Saifa double punch defense">
-   <Wiki-Video slot="video" url="/videos/yakusoku 8.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-8.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki, Hidari Chudan Gyaku-Zuki combination</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Block with an Morote Shotei-Uke, then strike with Morote Shotei-Zuki to collar bones</p>
@@ -83,7 +83,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 2 - Leg attacking takedowns
 
 <Attack-Defense-Container label="2.1: Sanseiru Single leg takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 6.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-6.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>In an instant, drop down and forward into Koshi-Dachi, move forward and catch opponent's right leg with your left hand on the outside of the heel and right hand on the inside of the knee.</p>
@@ -103,7 +103,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="10.4: Leg Attack Defense (Saifa)">
-<Wiki-Video slot="video" url="/videos/yakusoku 41.mp4" />
+<Wiki-Video slot="video" url="/videos/yakusoku-41.mp4" />
 <Attack-Defense type="attack">Ashi-tori (leg catch)</Attack-Defense>
 <Attack-Defense type="defense">
    <p>Pull front foot back and strike ears with palms.</p>
@@ -129,7 +129,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="9.1: Kururunfa Throw">
-   <Wiki-Video slot="video" url="/videos/yakusoku 34.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-34.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>
@@ -142,7 +142,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="8.4: Juji Nage">
-   <Wiki-Video slot="video" url="/videos/yakusoku 33.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-33.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki, Hidari Jodan Gyaku-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Chudan Hiki-Uke and catch, Migi Jodan Hiki-Uke and catch (Toraguchi/Mawashi Uke).</p>
@@ -155,7 +155,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 6 - Joint Attacks
 
 <Attack-Defense-Container label="10.2: Juji Uke into Shoulder Arm Break">
-   <Wiki-Video slot="video" url="/videos/yakusoku 34.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-34.mp4" />
    <Attack-Defense type="attack">Push with one hand</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Catch with Juji-Uke, twist your body around and interlock your fingers over attacker's wrist and place the elbow on your shoulder and stand on attacker's foot with your heel.</p>
@@ -164,7 +164,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="10.1: Wrist Grab Defense Armlock Into Takedown And Ne-Waza">
-   <Wiki-Video slot="video" url="/videos/yakusoku 38.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-38.mp4" />
    <Attack-Defense type="attack">Using two hands, grip left wrist</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Migi Kin-Geri, grab opponents wrist and turn their arms over. Turn your body to the right pressing yourself against their elbow to lock their right arm.</p>
@@ -173,7 +173,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="9.3: Lapel Grab Defense, Finger Joint Bend">
-   <Wiki-Video slot="video" url="/videos/yakusoku 36.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-36.mp4" />
    <Attack-Defense type="attack">One handed lapel grab</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari catch wrist against your chest, Migi Palm strike to the ear.</p>
@@ -194,7 +194,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 7 - Misc crap
 
 <Attack-Defense-Container label="1.3: Pulldown from Behind Takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 3.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-3.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Morote Hiki-Uke (catching wrist and shoulder), Ashi-Bari and pull down (dropping body weight)</p>
@@ -203,7 +203,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="2.4: Osoto Gari - Greater Outer Reap">
-   <Wiki-Video slot="video" url="/videos/yakusoku 9.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-9.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while blocking Hidari Shotei Yoko-Uke</p>
@@ -214,7 +214,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="2.5: Parry kick to outside, knockdown while unbalanced">
-   <Wiki-Video slot="video" url="/videos/yakusoku 10.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-10.mp4" />
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left, blocking Hidari Gedan Uchi-Bari</p>
@@ -225,7 +225,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 3 - Defence Against Jodan Attacks
 
 <Attack-Defense-Container label="3.1: Foot hooking takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 11.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-11.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back into Migi-Zenkutsu-Dachi, blocking Migi Jodan Age-Uke</p>
@@ -237,7 +237,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="3.2: Kata Guruma/Shoulder Throw">
-   <Wiki-Video slot="video" url="/videos/yakusoku 12.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-12.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step back into Hidari Zenkutsu Dachi, blocking Hidari Jodan Age-Uke</p>
@@ -248,7 +248,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="3.3: Shutou hip throw into head kick">
-   <Wiki-Video slot="video" url="/videos/yakusoku 13.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-13.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Jodan Shotei-Uke (pushing blocking arm across the face), while stepping left leg forward into Shiko-Dachi and striking Migi Gedan Nukite-Zuki.</p>
@@ -260,7 +260,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 4 - Shisochin/Sanseiru Theme
 
 <Attack-Defense-Container label="4.1: Shisochin Rolling Bicep Takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 14.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-14.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Move to the left while performing Morote Hiki-Uke.</p>
@@ -270,7 +270,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="4.2: Mae-Geri Catch into Sweep">
-   <Wiki-Video slot="video" url="/videos/yakusoku 15.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-15.mp4" />
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Use Hidari Gedan-Barai Uke to receive the kick and scoop leg, then use Migi Jodan Shotei-Oshi to push opponent back.</p>
@@ -280,7 +280,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="4.3: Sanseiru kick catch, knee press takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 16.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-16.mp4" />
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hasami-Uke to catch leg (as in Sanseiru) and Migi Tsumasaki-Geri (toe kick) to point behind groin.</p>
@@ -291,7 +291,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="4.4: Mawashi-Geri Catch, into Sweep">
-   <Wiki-Video slot="video" url="/videos/yakusoku 17.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-17.mp4" />
    <Attack-Defense type="attack">Migi Jodan Mawashi-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Guard with Hidari Jodan Juji-Uke, and scoop up with your left arm to catch their leg.</p>
@@ -305,7 +305,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 5 - Throws & Takedowns
 
 <Attack-Defense-Container label="5.1: Hip joint press takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 18.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-18.mp4" />
    <Attack-Defense type="attack">Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Step forwards with the right leg as you parry with Hidari Yoko Shotei-Uke and strike Migi Jodan Shotei-Zuki (like in Shisochin).</p>
@@ -316,7 +316,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="5.2: Kubi Nage">
-   <Wiki-Video slot="video" url="/videos/yakusoku 19.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-19.mp4" />
    <Attack-Defense type="attack">Migi Jodan Furi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Simultaneously block with Hidari Jodan Yoko-Uke and strike with Migi Shotei Uchi to the ear (like Seiyunchin kata bunkai).</p>
@@ -326,7 +326,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="5.3: Ippon Seoi Nage">
-   <Wiki-Video slot="video" url="/videos/yakusoku 20.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-20.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Block Hidari Jodan Age-Uke, and strike Migi Gedan Nukite (Kinteki-Uchi)</p>
@@ -350,7 +350,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="5.5: Choke Defense, Over Shoulder throw">
-   <Wiki-Video slot="video" url="/videos/yakusoku 22.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-22.mp4" />
    <Attack-Defense type="attack">Choke attack (2 hands)</Attack-Defense>
    <Attack-Defense type="defense">
    <p>As attack comes in fast, throw a hand in the air as a decoy, simultaneously drop your body into Koshi-Dachi and as your opponent loses balance take weight on shoulders and throw backward.</p>
@@ -361,7 +361,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 6 - Juuji Uke Kick Defenses
 
 <Attack-Defense-Container label="6.1: Outside Maegeri Catch into Sweep">
-   <Wiki-Video slot="video" url="/videos/yakusoku 23.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-23.mp4" />
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Move to the outside while using Migi Gedan Sukui-Uke to catch under the leg.</p>
@@ -372,7 +372,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="6.2: Mawashigeri Catch into Flip">
-   <Wiki-Video slot="video" url="/videos/yakusoku 24.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-24.mp4" />
    <Attack-Defense type="attack">Migi Jodan Mawashi-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Block with Soto Yoko Juji-Uke, use left hand to catch their leg.</p>
@@ -382,7 +382,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="6.3: Yoko-Geri Parry into Pull-takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 25.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-25.mp4" />
    <Attack-Defense type="attack">Migi Chudan Yoko-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Migi Yoko Juji-Uke (push to spin the opponent away from you) and step behind opponent.</p>
@@ -394,7 +394,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 7 - No Theme
 
 <Attack-Defense-Container label="7.1: Hasami Uke into Kote Gaeshi">
-   <Wiki-Video slot="video" url="/videos/yakusoku 26.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-26.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Tai-Sabaki and pivot to the side, block with hasami uke (scissor block) and bring your right arm comes underneath and upward, both arms press on the either side of the punching arm to trap it (ends up looking like Sanchin Kamae).</p>
@@ -404,7 +404,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="7.2: Shisochin Grab Defense">
-   <Wiki-Video slot="video" url="/videos/yakusoku 27.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-27.mp4" />
    <Attack-Defense type="attack">Pushing or gripping lapels (both hands)</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Grip fingers, pull down and out on joints, Hiza-Geri or Hiji-Ate. (Similar to Shisochin Bunkai)</p>
@@ -412,7 +412,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="7.3: Straighten arm, press shoulder to takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 28.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-28.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Jodan Morote Hiki-Uke, pull arm straight, press left palm against thier shoulder joint. step forward as you push and 'throw' the arm in a circular motion to takedown.</p>
@@ -420,7 +420,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="7.4: Hiza-Geri into Dropping Elbow">
-   <Wiki-Video slot="video" url="/videos/yakusoku 29.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-29.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Jodan Morote Hiki-Uke while moving outside to the left, reach with your right hand to grab back of their neck and then pull opponent down while you throw Migi Hiza-Geri while moving forward.</p>
@@ -431,7 +431,7 @@ The number of applications shown in the video also differs from what is written 
 ## Set 8 - Joint Locks & Takedowns
 
 <Attack-Defense-Container label="8.1: Figure Four Lock">
-   <Wiki-Video slot="video" url="/videos/yakusoku 30.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-30.mp4" />
    <Attack-Defense type="attack">Migi Jodan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Jodan Morote Hiki-Uke, catch wrist and elbow, lock arm (figure four), and throw backwards.</p>
@@ -440,7 +440,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="8.2: Shisochin Inside Armbar Takedown">
-   <Wiki-Video slot="video" url="/videos/yakusoku 31.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-31.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Jodan Hiki-Uke (stay on the inside) and grasp opponent's wrist with your left hand, while striking Migi Jodan Gyaku Shotei-Zuki.</p>
@@ -450,7 +450,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="8.3: Falling Gekisai Takedown into Kick">
-   <Wiki-Video slot="video" url="/videos/yakusoku 32.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-32.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Suriashi to the left while using Migi Hiki-Uke and catching wrist.</p>
@@ -460,7 +460,7 @@ The number of applications shown in the video also differs from what is written 
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="9.2: Seisan Arm Wrap into Reap">
-   <Wiki-Video slot="video" url="/videos/yakusoku 35.mp4" />
+   <Wiki-Video slot="video" url="/videos/yakusoku-35.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Hiki-Uke, use left hand to reverse lock elbow from underneath (as in Seisan kata).</p>
