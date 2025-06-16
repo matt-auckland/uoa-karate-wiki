@@ -188,9 +188,80 @@ category:
 
 ## Okinawan
 
-| Romaji    | Japanese                                                    | Meaning                                                                                                                                                | Notes                                                                                     |
-| --------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| Enpi      | <ruby><rb>猿</rb><rb>臂</rb><rt>えん</rt><rt>ぴ</rt></ruby> | Elbow, Monkey arm                                                                                                                                      | Okinawan term, comes from China. Regular Japanese people may not know the "Elbow" meaning |
-| Muchimi   | ムチミ                                                      | Heavy, sticky                                                                                                                                          |                                                                                           |
-| Chinkuchi | チンクチ                                                    | Refers to an instantaneous, but momentary, contraction of muscles just as a punch makes contact.                                                       | https://www.karatebyjesse.com/chinkuchi-another-exotic-okinawan-karate-word/              |
-| Gamaku    | ガマク                                                      | Gamaku is an Okinawan term, Uchinaguchi or hogan dialect, that refers to the musculature the surrounds the waist and connects the torso to the pelvis. |                                                                                           |
+| Romaji    | Okinawan                                                    |Japanese| Meaning                                                                                                                                                | Notes                                                                                     |
+| --------- | ----------------------------------------------------------- |----| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| Enpi      | <ruby><rb>猿</rb><rb>臂</rb><rt>えん</rt><rt>ぴ</rt></ruby> |  |Elbow, Monkey arm                                                                                                                                      | Okinawan term, comes from China. Regular Japanese people may not know the "Elbow" meaning |
+| Muchimi   | ムチミ                                                      |  |Heavy, sticky, but relaxed                                                                                                                                         |                                                                                           |
+| Chinkuchi | チンクチ                                                    | |Refers to an instantaneous, but momentary, contraction of muscles just as a punch makes contact.                                                       | https://www.karatebyjesse.com/chinkuchi-another-exotic-okinawan-karate-word/              |
+| Gamaku    | ガマク                                                      |  |Gamaku is an Okinawan term, Uchinaguchi or hogan dialect, that refers to the musculature the surrounds the waist and connects the torso to the pelvis. |                                                                                           |
+
+| Tuudii       | トゥーディー     | 唐手（からて、とぅで）|         |       |
+| Ti       | ティ             | 手（て）             |         |       |
+| Bu       | ブ               | 武（ぶ）             |         |       |
+|Sokashidi       | ソカシディ     | 昔手（むかして）     |         |       | 
+|Kakushidi       | カクシディ     | 陰手（かくして）     |         |       |
+| Uradi      | ウラディ       | 襲手（うらて）       |         |       |
+| Kumidi       | クミディ       | 組手（くみて）       |         |       |
+| Ukidi       | ウキディ     | 受手（うけて）       |         |       |
+| Chichudi       | チチュディ     | 突手（つきて）       |         |       |
+| Nuchidi       | ヌチディ         | 抜手、貫手（ぬきて） |         |       |
+| Ugawandi       | ウガワンディー   | 拝手                 |         |       |
+| Irikumi       | イリクミ         | 入組（自由組手）     |         |       |
+| Kakiee       | カキエー         | 靠基（カキー・組手の一種）      |         |       |
+| Kakidii       | カキディー         | 掛手（かけて）       |         |       |
+| Tiijikun       | ティージクン     | 拳（こぶし、けん）   |         |       |
+| Yagii       | ヤギー           | 矢声（気合い）       |         |       |
+| Tanmee       | タンメー           | 翁（老人に対する敬称）|        |       |
+| Chinkuchi Iriree    | チンクチイリレー   | 関節を固めなさい     |         |       |
+| Chinkuchi Kakiti       | チンクチカキティ   | 関節を固めて極めろ   |         |       |
+| Kushi Iriree       | タシイリレー       | 腰を入れなさい       |         |       |
+| Chiru Nu Chan Chan       | チルヌチャンチャン| 腱の弾み（を表現する）|        |       |
+| Chiru Nu Chan Chan Soo Nen       | チルヌチャンチャンソーネン | 腱の弾みがない                 |         |       |
+| Umaa Chan Makassee       | ウマーチャンマカッセー     | ここは弾みでしなさい           |         |       |
+| Mii Nu Shin       | ミーヌシン                | 目の芯                         |         |       |
+| Mii Nu Shin Nu Neen       | ミーヌシンヌネーン        | 目の芯がない                   |         |       |
+| Churasan       | チュラサン                | 美しい、綺麗                   |         |       |
+| Shimeejurasan       | シメージュラサン          | まとまった美しさ               |         |       |
+| Muchimi Saanisee       | ムチミサーニセー          | 糯のよう粘りで〜しなさい       |         |       |
+| Muchiteen       | ムチッテェーン            | しなやかで粘りのある動き       |         |       |
+| Ippeechibesan       | イッペーチーベサン        | 非常に速い                     |         |       |
+| Iichi Fukee       | イーチフケー              | 息を吐きなさい                 |         |       |
+| Chigeeneen       | チゲーネーン            | 気力がない、元気がない         |         |       |
+| Tusee       | トゥセー                | 倒したり…                     |         |       |
+| Kurubasee       | クルバセー                | 投げたり…                     |         |       |
+| Fukee       | フケー                    | 吹きなさい                     |         |       |
+| Iichi       | イーチ         | 息                         |         |       |
+| Feeku       | フェーク        | 速く                       |         |       |
+| Kiin  | キーン         | 蹴る                       |         |       |
+| Chichun   | チチュン        | 突く                       |         |       |
+| Ukiin | ウキーン        | 受ける                     |         |       |
+| Ucchun      | ウッチュン      | 打つ                       |         |       |
+| Nigiin       | ニギーン        | 握る                       |         |       |
+| Chujuuku       | チュジューク    | 強く                       |         |       |
+| Ipee       | イペー          | 非常                       |         |       |
+| Kicchimaani       | キッチマーニ    | 踏ってごらん               |         |       |
+| Chichimaani       | チチマーニ      | 突いてごらん               |         |       |
+| Chikee       | チケー          | 突きなさい                 |         |       |
+| Muchimi | ムチミ          | 粘りのある動きの様子       |         | |
+| Chan       | チャン          | （筋肉と腱の弾みを意味する）|         |       |
+| Du       | ドゥ            | 体                         |         |       |
+| Kukuru       | ククル          | 心                         |         |       |
+| Kubi       | クビ            | 首                         |         |       |
+| Chiburu   | チブル          | 頭                         |         |       |
+| Chira | チラ            | 顔                         |         |       |
+| Chinshi       | チンシ          | 膝                         |         |       |
+| Muni | ムニ            | 胸                         |         |       |
+| Niku       | ニク            | 筋肉                       |         |       |
+| Chiru   | チル            | 腱                         |         |       |
+| Nii  | ニー            | 根、木の根っこ             |         |       |
+| Kunda    | クンダ          | 足の筋肉                   |         |       |
+| Kubikaji  | クビカジ        | 首筋                       |         |       |
+| Mumu | ムム            | 腰                         |         |       |
+| Tanden       | タンデン        | 丹田                       |         |       |
+| Machiwara | マチワラ        | 巻藁                       |         |       |
+| Sagimachiwara | サギマチワラ    | 提げ巻藁                   |         |       |
+| Dakimachiwara| ダキマチワラ    | 竹巻藁                     |         |       |
+| Chishii | チーシー        | 錘石                       |         |       |
+| Ishizaashi| イシザーシ      | 石錘                       |         |       |
+| Muchi Ishi | ムチイシ        | 持石                       |         |       |
+| Sashi Ishi| サシイシ        | 差し石                     |         |       |
