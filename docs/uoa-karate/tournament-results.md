@@ -27,7 +27,23 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 - Matteas Eden: 1st Place. Shisochin.
 - Krishin Cox: 3rd Place. Saifa.
 
-### Pukekohe Tournament - March
+### Pukekohe Tournament - April
+
+#### Kata
+
+##### Veteran's Mixed Kata
+
+- Ewan Tempero. 2nd Place.
+
+##### Men's Brown Belt
+
+- Colin Mak 2nd Place.
+
+#### Kumite
+
+##### Men's Brown Belt
+
+- Matteas Eden 3rd place.
 
 ## 2021
 
@@ -37,7 +53,7 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### 17+ White - Orange mixed
 
-- Malaaha 1st.
+- Malaaha Hussain 1st.
 
 ##### 17+ Green - Brown female
 
@@ -51,7 +67,7 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### 17+ White - Orange female
 
-- Malaaha 3rd place.
+- Malaaha Hussain 3rd place.
 
 ##### 17+ Green - Brown female
 
