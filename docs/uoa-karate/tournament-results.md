@@ -14,7 +14,7 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 #### Kata
 
-##### Men's Veterans
+##### Veterans
 
 - Ewan Tempero 3rd Place. Seisan.
 
@@ -24,7 +24,7 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### Men's Brown Belt (17+)
 
-- Matteas Eden: 1st Place. Shisochin.
+- Matt Eden: 1st Place. Shisochin.
 - Krishin Cox: 3rd Place. Saifa.
 
 ### Pukekohe Tournament - April
@@ -43,7 +43,48 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### Men's Brown Belt
 
-- Matteas Eden 3rd place.
+- Matt Eden 3rd place.
+
+## 2023
+
+### Pukekohe Tournament - September
+
+#### Kata
+
+##### Women's Brown belt
+
+- Jane Yang. 1st. Shisochin
+
+##### Men's Brown belt
+
+- Andrio Tabuzo 1st. Shisochin.
+- Matt Eden 4th. Shisochin.
+
+##### Team Kata
+
+- Jane Yang, Matt Eden, Andrio Tabuzo 4th. Shisochin.
+
+#### Kumite
+
+##### Women's Brown belt
+
+- Jane Yang 3rd.
+
+##### Men's Brown belt
+
+- Matt Eden 3rd.
+
+### Pukekohe Tournament - March
+
+#### Kata
+
+##### Veteran's Kata
+
+- Ewan Tempero. 2nd or 3rd. (TBC)
+
+##### Men's Brown Belt
+
+- Matt Eden 2nd. Saifa
 
 ## 2021
 
