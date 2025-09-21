@@ -14,18 +14,18 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 #### Kata
 
-##### Men's Veteran's Kata
+##### Men's Veterans
 
-- Ewan Tempero 3rd Place. Seisan
+- Ewan Tempero 3rd Place. Seisan.
 
-##### Men's Black Belt Kata (Open)
+##### Men's Black Belt (Open)
 
-- Lucas Cohn: 1st Place Kururunfa + Seipai (tiebreaker)
+- Lucas Cohn: 1st Place Kururunfa + Seipai (tiebreaker).
 
-##### Men's Brown Belt Kata (17+)
+##### Men's Brown Belt (17+)
 
-- Matteas Eden: 1st Place. Shisochin
-- Krishin Cox: 3rd Place. Saifa
+- Matteas Eden: 1st Place. Shisochin.
+- Krishin Cox: 3rd Place. Saifa.
 
 ### Pukekohe Tournament - March
 
@@ -37,25 +37,25 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### 17+ White - Orange mixed
 
-- Malaaha 1st
+- Malaaha 1st.
 
 ##### 17+ Green - Brown female
 
-- Jane Yang 1st
+- Jane Yang 1st.
 
 ##### 17+ Green - Brown male
 
-- Rimal Prasad 3rd
+- Rimal Prasad 3rd.
 
 #### Kumite
 
 ##### 17+ White - Orange female
 
-- Malaaha 3rd place
+- Malaaha 3rd place.
 
 ##### 17+ Green - Brown female
 
-- Jane Yang 3rd place
+- Jane Yang 3rd place.
 
 ## 2019
 
@@ -65,17 +65,17 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### 17 and above White-Orange: Mixed
 
-- Ravid Aharon 1st Place
+- Ravid Aharon 1st Place.
 
 ##### 17 and above Brown: Male
 
-- Rimal Prasad 3rd Place
+- Rimal Prasad 3rd Place.
 
 #### Kumite
 
 ##### 17 and above White-Orange: Male
 
-- Ravid Aharon 2nd Place
+- Ravid Aharon 2nd Place.
 
 ## 2018
 
@@ -85,33 +85,33 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### White to Orange Belt Mixed
 
-- Camilla Dahl-Nielsen 1st
-- Jessica Chen 2nd
-- Daniel Morgan 3rd
+- Camilla Dahl-Nielsen 1st.
+- Jessica Chen 2nd.
+- Daniel Morgan 3rd.
 
 ##### Green to Brown Belt Female
 
-- Shelly Lin 1st
-- Camilla Dahl-Nielsen 2nd
+- Shelly Lin 1st.
+- Camilla Dahl-Nielsen 2nd.
 
 ##### Green to Brown Belt Male
 
-- Rimal Prasad 1st
+- Rimal Prasad 1st.
 
 ##### Black Belt Male
 
-- Milimo Muleya 2nd
+- Milimo Muleya 2nd.
 
 #### Kumite
 
 ##### White to Orange Belt Male
 
-- Daniel Morgan 1st
-- Mehrdad Rafiepourgatabi 2nd
+- Daniel Morgan 1st.
+- Mehrdad Rafiepourgatabi 2nd.
 
 ##### Green to Brown Belt Male
 
-- Rimal Prasad 3rd
+- Rimal Prasad 3rd.
 
 ### IOGKFNZ Tournament Wellington - June
 
@@ -119,33 +119,33 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### Adult Female White and Blue
 
-- Wiranpat (Cherry) Pakornroongrueng 1st
+- Wiranpat (Cherry) Pakornroongrueng 1st.
 
 ##### Adult Male White Blue and Green
 
-- Rimal Prasad 1st
+- Rimal Prasad 1st.
 
 ##### Adult Female Yellow and Green
 
-- Wendy Yao 1st
+- Wendy Yao 1st.
 
 #### Senior Team Kata
 
-- Auckland University 3rd
+- Auckland University 3rd.
 
 #### Kumite
 
 ##### Adult Female White and Blue Kumite
 
-- Wiranpat (Cherry) Pakornroongrueng 2nd
+- Wiranpat (Cherry) Pakornroongrueng 2nd.
 
 ##### Adult Male White Blue and Yellow kumite
 
-- Daniel Morgan 1st
+- Daniel Morgan 1st.
 
 ##### Adult Male Green kumite
 
-- Rimal Prasad 2nd
+- Rimal Prasad 2nd.
 
 ## 2017
 
@@ -155,31 +155,31 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### Mixed, 5th till 1st kyu
 
-- Marcus Hong - 1st
-- Olivia - 2nd
-- Andrio Tabuzo- 3rd
-- Charlie - 4th
-- Mat Paul - 5th
+- Marcus Hong - 1st.
+- Olivia - 2nd.
+- Andrio Tabuzo- 3rd.
+- Charlie Wedd - 4th.
+- Mat Paul - 5th.
 
 #### Female, 10th till 4th kyu
 
-- Emma - 1st
+- Emma - 1st.
 
 #### Male, 10th till 4th kyu
 
-- Josiah - 2nd
+- Josiah - 2nd.
 
 #### Kumite
 
 ##### Female, 10th till 4th kyu
 
-- Emma - 2nd
+- Emma - 2nd.
 
 ##### Female, 5th kyu till 1st kyu + a random black belt
 
-- Olivia - 2nd
+- Olivia - 2nd.
 
 ##### Male, 5th till 1st kyu
 
-- Charlie - 1st
-- Marcus Hong - 2nd
+- Charlie Wedd - 1st.
+- Marcus Hong - 2nd.
