@@ -57,15 +57,6 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 - Jane Yang 3rd place
 
-## 2020
-
-### Pukekohe Tournament - September
-
-| Participant | Category | Placement | Notes |
-| ----------- | -------- | --------- | ----- |
-|             |          |           |       |
-|             |          |           |
-
 ## 2019
 
 ### Pukekohe Tournament - September
@@ -85,12 +76,6 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 ##### 17 and above White-Orange: Male
 
 - Ravid Aharon 2nd Place
-
-### Pukekohe Tournament - March
-
-| Participant | Category | Placement | Notes |
-| ----------- | -------- | --------- | ----- |
-|             |          |           |       |
 
 ## 2018
 
@@ -176,11 +161,11 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 - Charlie - 4th
 - Mat Paul - 5th
 
-#### Kata Female, 10th till 4th kyu
+#### Female, 10th till 4th kyu
 
 - Emma - 1st
 
-#### Kata Male, 10th till 4th kyu
+#### Male, 10th till 4th kyu
 
 - Josiah - 2nd
 
