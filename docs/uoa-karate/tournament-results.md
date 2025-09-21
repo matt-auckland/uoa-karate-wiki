@@ -72,6 +72,7 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 ##### Men's Brown belt
 
+- Andrio Tabuzo 1st.
 - Matt Eden 3rd.
 
 ### Pukekohe Tournament - March
