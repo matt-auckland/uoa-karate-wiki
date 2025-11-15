@@ -79,10 +79,6 @@ The club regularly participates in the biannual Pukekohe Tournament, and sometim
 
 #### Kata
 
-##### Veteran's Kata
-
-- Ewan Tempero. 2nd or 3rd. (TBC)
-
 ##### Men's Brown Belt
 
 - Matt Eden 2nd. Saifa
