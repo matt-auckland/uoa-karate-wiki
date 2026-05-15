@@ -1,7 +1,9 @@
 <template>
-  <video v-if="url" :src="url" class="local-vid" controls width="560" height="315" loading="lazy" playsinline />
-  <iframe v-else-if="ytUrl" width="560" height="315" loading="lazy" :src="processedUrl" frameborder="0"
-          allowfullscreen />
+  <div class="wiki-video">
+    <video v-if="url" :src="url" class="local-vid" controls width="560" height="315" loading="lazy" playsinline />
+    <iframe v-else-if="ytUrl" width="560" height="315" loading="lazy" :src="processedUrl" frameborder="0"
+            allowfullscreen />
+  </div>
 </template>
 
 <script setup>
@@ -31,3 +33,18 @@ const processedUrl = computed(() => {
   return processedUrl;
 })
 </script>
+
+<style scoped>
+.wiki-video {
+  aspect-ratio: 16 / 9;
+  max-width: 560px;
+  width: 100%;
+}
+
+.wiki-video video,
+.wiki-video iframe {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+</style>
