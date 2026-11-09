@@ -4,6 +4,8 @@ categories:
   - Bunkai
 ---
 
+# Seiyunchin Bunkai
+
 ## Standard Bunkai
 
 <Attack-Defense-Container label="1. Wrist grab escape">
