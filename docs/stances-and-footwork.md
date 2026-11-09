@@ -5,6 +5,8 @@ categories:
   - Techniques
 ---
 
+# Footwork & Stances
+
 ## Footwork
 
 <Wiki-Video ytUrl="https://www.youtube.com/watch?v=gvVyBNzfHiY" />
