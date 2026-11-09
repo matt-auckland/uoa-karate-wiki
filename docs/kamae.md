@@ -3,6 +3,8 @@ title: Kamae
 isDraft: true
 ---
 
+# Kamae
+
 Todo:
 
 - What is a kamae?
