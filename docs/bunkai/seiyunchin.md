@@ -56,7 +56,7 @@ categories:
 <Attack-Defense-Container label="7. Block and takedown">
    <Attack-Defense type="attack">From Hidari Zenkutsu Dachi, punch Migi Jodan Oizuki, followed with a Hidari Chudan Maegeri.</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Right hand ‘archer block’, scooping block catch leg (like in <a href="Saifa_(Bunkai)">Saifa bunkai #2</a>).</p>
+   <p>Right hand ‘archer block’, scooping block catch leg (like in <a href="/bunkai/saifa.html">Saifa bunkai #2</a>).</p>
    <p>Turn and lift, dropping into Shikodachi as you do. Lower/drop your attacker to the floor.</p>
    </Attack-Defense>
 </Attack-Defense-Container>
