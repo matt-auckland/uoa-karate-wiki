@@ -7,8 +7,7 @@ categories:
 
 ## Footwork
 
-<Wiki-Video ytUrl="https
-//www.youtube.com/watch?v=gvVyBNzfHiY" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=gvVyBNzfHiY" />
 
 ## Stances
 
