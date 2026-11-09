@@ -25,6 +25,51 @@ categories:
 
 <!-- ### Important Points -->
 
+## Technical Notes
+
+### Techniques
+
+- Chudan Osae Uke
+- Chudan Kuri Uke
+- Kansetsu Geri
+- Chudan Sukui Uke
+- Shotei Osae Uke
+- Gedan Harai Uke
+- Chudan Haishu Mawashi Osae Uke
+- Chudan Osae Uke
+- Agezuki
+- Maegeri
+- Age Hijiate
+- Toraguchi
+- Urakake Uke
+- Ushiro Hijiate
+- Koto Ate
+- Ryosho Gedan Osae Oshi
+- Ryosho Furisute
+- Kosa Uke
+- Kururunfa Zenkutsu Dachi
+
+### Stances
+
+- Musubi Dachi
+- Neko Ashi Dachi
+- Heiko Sanchin Dachi
+- Shikodachi
+- Hachidachi
+- Zenkutsu Dachi
+- Koshi Dachi
+
+### Footwork
+
+- Suriashi
+- Sabari
+
+### Kamae
+
+- Yoi no Kamae
+- Ni no Ji Kamae
+-
+
 <!-- ## Bunkai -->
 
 <!-- See [Kururunfa (Bunkai)](/bunkai/kururunfa.md) -->
