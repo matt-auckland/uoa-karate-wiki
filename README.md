@@ -41,6 +41,6 @@ External section fragments and actual video playback are not validated.
 
 To check an existing build without rebuilding:
 
-`node scripts/check-links.mjs --dir=docs/.vuepress/dist`
+`node scripts/check-links.js --dir=docs/.vuepress/dist`
 
 Run the checker regression tests with `npm run test:links`.
