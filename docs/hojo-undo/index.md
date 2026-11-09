@@ -48,7 +48,7 @@ Ishi Sashi or Saashii (石錠 or サーシー), are literally translated as Ston
 
 A creation of [Chojun Miyagi](/people/chojun-miyagi.md), the Kongoken (金剛圏 - コンゴウケン) is based off of large, man sized iron circles he saw being used by Hawaiian wrestlers to train when he visited Hawaii in the mid 1930s. He was apparently so impressed with the tool he brought one or more home when he returned to Okinawa around 1935. Miyagi modified the design to make it closer to the human body, flatting the sides so it now resembles more of a rectangle with circular ends. A Kongoken is normally around 150-165cm tall and around 20-25kg heavy, it can be used as a weight for regular strength exercises or it can be lifted, rotated and manipulated in various ways to simulate and train methods and techniques for things such as throwing, controlling and otherwise moving an opponents body.
 
-<Wiki-Video ytUrl="https://www.youtube.com/watch?v=DHdwHiSJTm4" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=WIivQIDDYYA" />
 
 ### Tetsu Geta
 

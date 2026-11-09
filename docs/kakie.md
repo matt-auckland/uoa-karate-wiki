@@ -13,7 +13,7 @@ categories:
 
 <Wiki-Video ytUrl="https://www.youtube.com/watch?v=AtsfUTZIrWQ" />
 
-<Wiki-Video ytUrl="https://www.youtube.com/watch?v=QrfEuwc8OwU" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=2NfXnfKqP4w" />
 
 ## Tips
 
