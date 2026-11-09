@@ -13,7 +13,7 @@ categories:
 
 <Infobox/>
 
-A Shoreikan Goju Ryu Karate kata, this was created by [Seikichi Toguchi](/people/seikichi-toguchi.md) (direct student of Chojun Miyagi), as a continuation of the Gekisai Series.
+A Shoreikan Goju Ryu Karate kata, this was created by Seikichi Toguchi (direct student of Chojun Miyagi), as a continuation of the Gekisai Series.
 
 Not to be confused with the other [Gekisai Dai San](/kata/gekisai-dai-san.md) which has the same name.
 
@@ -47,10 +47,10 @@ The reason for the "number three" is because Gekisai Dai San is the third in a s
 
 ### Kata Stances
 
-- [Musubi Dachi](/stances#musubi_dachi)
-- [Sanchin Dachi](/stances#sanchin_dachi)
-- [Shiko Dachi](/stances#shiko_dachi)
-- [Han Zenkutsu Dachi](/stances#hanzenkutsu_dachi)
-- [Zenkutsu Dachi](/stances#zenkutsu_dachi)
-- [Hachiji Dachi](/stances#hachiji_dachi)
-- [Neko Ashi Dachi](/stances#neko_ashi_dachi)
+- [Musubi Dachi](/stances-and-footwork.md#musubi-dachi-ready-stance)
+- [Sanchin Dachi](/stances-and-footwork.md#sanchin-dachi-tension-stance)
+- [Shiko Dachi](/stances-and-footwork.md#shiko-dachi-straddle-stance)
+- [Han Zenkutsu Dachi](/stances-and-footwork.md#han-zenkutsu-dachi-half-front-stance)
+- [Zenkutsu Dachi](/stances-and-footwork.md#zenkutsu-dachi-front-stance)
+- [Hachiji Dachi](/stances-and-footwork.md#soto-hachiji-dachi-or-hachiji-dachi-natural-stance)
+- [Neko Ashi Dachi](/stances-and-footwork.md#neko-ashi-dachi-cat-foot-stance)

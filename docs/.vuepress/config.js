@@ -167,11 +167,11 @@ export default defineUserConfig({
               },
               {
                 text: 'Throws and Takedowns',
-                link: '/throws-and-takedowns',
+                link: '/techniques/throws-and-takedowns',
               },
               {
                 text: 'Judo Techniques',
-                link: '/judo',
+                link: '/judo/',
               },
             ]
           },
@@ -183,8 +183,8 @@ export default defineUserConfig({
                 link: '/kata/',
               },
               { text: 'Bunkai', link: '/bunkai/' },
-              { text: 'Renzoku Bunkai', link: '/bunkai/renzokyu-bunkai.md' },
-              { text: 'Yakusoku Kumite', link: '/bunkai/yakusoku-kumite.md' },
+              { text: 'Renzoku Bunkai', link: '/bunkai/renzoku-bunkai.md' },
+              { text: 'Yakusoku Kumite', link: '/yakusoku-kumite/' },
             ],
           },
           {
@@ -198,7 +198,7 @@ export default defineUserConfig({
                 text: 'Opening / Closing Ceremony ',
                 link: '/ceremonies.md',
               },
-              { text: 'Dojo Kun ', link: '/ceremonies#dojo-kun.md' },
+              { text: 'Dojo Kun ', link: '/ceremonies.md#dojo-kun' },
               {
                 text: 'Speaking Japanese',
                 link: '/japanese.md',
@@ -222,7 +222,7 @@ export default defineUserConfig({
               },
               {
                 text: 'Kobudo (Weapons)',
-                link: '/kobudo-weapons',
+                link: '/kobudo.md',
               },
               {
                 text: 'Japanese',

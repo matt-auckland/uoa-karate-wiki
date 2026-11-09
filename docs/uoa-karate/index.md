@@ -18,4 +18,4 @@ This gives club members access to expert intructors and the ability to attend tr
 We try to create a warm and welcoming atmosphere at the club and as part of this we regularly hold all kinds of social events.
 Some examples: Our own 'Karate Camp', weekend training seminars, dinner/lunches after training, group movie viewings, trainings at the beach, and other group outings around Auckland. We also participate in tournaments multiple times a year and attend training camps around New Zealand (and occassionally overseas!).
 
-See the <a href="'https://uoa-karate.club/events'">events page</a> for information on upcoming club events.
+See the <a href="https://uoa-karate.club/events">events page</a> for information on upcoming club events.

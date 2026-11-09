@@ -30,6 +30,8 @@ It is said that [Kanryo Higashionna] was the one who changed Sanchin's open hand
 
 Two main versions of 'Sanchin' now exist in [Goju Ryu], "Higashionna", and "Miyagi". "Higashionna" retains the turns of Higashionna's original version. "Higashionna Sanchin" is also known as "Sanchin Dai Ni"
 
+<span id="how-to-miyagi-style"></span>
+
 ## How To - Miyagi Style (<ruby><rb>宮</rb><rt>みや</rt><rb>城</rb><rt>ぎ</rt></ruby>)
 
 <Wiki-Video ytUrl="https://youtu.be/kybxNOlnl20" />
@@ -53,6 +55,8 @@ Two main versions of 'Sanchin' now exist in [Goju Ryu], "Higashionna", and "Miya
 - Sanchin Dachi
 
 <!-- ### Dan Grade Changes -->
+
+<span id="how-to-higaonna-style"></span>
 
 ## How To - Higaonna Style (<ruby><rb>東</rb><rt>ひが</rt><rb>恩</rb><rt>おん</rt><rb>納</rb><rt>な</rt></ruby>)
 

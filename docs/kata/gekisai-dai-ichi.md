@@ -65,13 +65,13 @@ It was created to help popularise Karate in the 1940s by Chojun Miyagi with the 
 
 ### Kata Stances
 
-- [Musubi Dachi](/stances#musubi_dachi)
-- [Sanchin Dachi](/stances#sanchin_dachi)
-- [Han Zenkutsu Dachi](/stances#hanzenkutsu_dachi)
-- [Shiko Dachi](/stances#shiko_dachi)
-- [Zenkutsu Dachi](/stances#zenkutsu_dachi)
-- [Hachiji Dachi](/stances#hachiji_dachi)
-- [Heiko Dachi](/stances#heiko_dachi)
+- [Musubi Dachi](/stances-and-footwork.md#musubi-dachi-ready-stance)
+- [Sanchin Dachi](/stances-and-footwork.md#sanchin-dachi-tension-stance)
+- [Han Zenkutsu Dachi](/stances-and-footwork.md#han-zenkutsu-dachi-half-front-stance)
+- [Shiko Dachi](/stances-and-footwork.md#shiko-dachi-straddle-stance)
+- [Zenkutsu Dachi](/stances-and-footwork.md#zenkutsu-dachi-front-stance)
+- [Hachiji Dachi](/stances-and-footwork.md#soto-hachiji-dachi-or-hachiji-dachi-natural-stance)
+- [Heiko Dachi](/stances-and-footwork.md#heiko-dachi-natural-stance)
 
 ### Dan Grade Changes
 
