@@ -29,40 +29,55 @@ export default {
 
 <style scoped>
 .wiki-img {
-  margin-bottom: 50px;
-  display: block;
-}
-
-.wiki-img,
-q figure {
-  border: thin #c0c0c0 solid;
+  box-sizing: border-box;
   display: flex;
-  flex-flow: column;
-  padding: 5px;
-  max-width: 220px;
-  margin: auto;
+  flex-direction: column;
+  inline-size: fit-content;
+  max-inline-size: 100%;
+  margin-block: 1.5rem;
+  margin-inline: auto;
+  border: 1px solid var(--vp-c-border-hard, #c0c0c0);
+  padding: 0.375rem;
 }
 
-figure.float {
-  float: right;
-  margin: 10px;
-}
-
-img {
-  max-width: 400px;
-  max-height: 300px;
-  max-height: 200px;
+.wiki-img > a {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  min-inline-size: 0;
+  max-inline-size: 100%;
 }
 
-figcaption {
-  background-color: #222;
-  color: #fff;
-  font: italic smaller sans-serif;
-  padding: 3px;
+.wiki-img img {
+  display: block;
+  inline-size: auto;
+  max-inline-size: 100%;
+  block-size: auto;
+  margin-inline: auto;
+}
+
+.wiki-img figcaption {
+  padding: 0.375rem;
+  background-color: var(--vp-c-bg-alt, #f6f6f7);
+  color: var(--vp-c-text, #222);
+  font-size: 0.875em;
+  font-style: italic;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
   text-align: center;
 }
-</style>
 
+.wiki-img.float {
+  float: right;
+  max-inline-size: min(100%, 22rem);
+  margin-block: 0.5rem 1rem;
+  margin-inline: 1.5rem 0;
+}
+
+@media (max-width: 959px) {
+  .wiki-img.float {
+    float: none;
+    max-inline-size: 100%;
+    margin-block: 1.5rem;
+    margin-inline: auto;
+  }
+}
+</style>
