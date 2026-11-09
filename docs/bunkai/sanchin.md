@@ -6,4 +6,6 @@ categories:
   - Bunkai
 ---
 
+# Sanchin Bunkai
+
 To be written
