@@ -19,13 +19,17 @@ categories:
 
 <Infobox/>
 
-<!-- ## Name Meaning -->
+## Name Meaning
+
+The name Seiyunchin literally means "Control, Pull, Battle/Fight". The kata itself features strong low stances and many grappling techniques.
+The kata has several different pronunciations across the different schools of Goju Ryu.
+In Shito Ryu they use the kanji 征遠鎮 which mean Attack, Conquer, and Suppress" or "Conquer and Subdue over a Distance".
 
 <!-- ## Kata History -->
 
 ## How To
 
-<Wiki-Video ytUrl="https://www.youtube.com/watch?v=NBoU_T8VF_0" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=5uHADpRuC4Y" />
 
 <!-- ### Important Points -->
 
