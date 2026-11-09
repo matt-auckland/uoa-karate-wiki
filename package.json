@@ -7,7 +7,8 @@
   "scripts": {
     "serve": "vuepress dev docs",
     "build": "vuepress build docs",
-    "check-links": "vuepress check-md docs"
+    "check-links": "npm run build && node scripts/check-links.js",
+    "test:links": "node --test scripts/check-links.test.js"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.15",
@@ -15,9 +16,10 @@
     "@vuepress/plugin-markdown-image": "^2.0.0-rc.46",
     "@vuepress/plugin-search": "^2.0.0-rc.47",
     "@vuepress/theme-default": "^2.0.0-rc.46",
+    "cheerio": "1.0.0",
     "sass-embedded": "^1.79.3",
     "vue": "^3.5.7",
-    "vuepress": "^2.0.0-rc.15",
-    "vuepress-plugin-check-md": "^0.0.2"
-  }
+    "vuepress": "^2.0.0-rc.15"
+  },
+  "type": "module"
 }
