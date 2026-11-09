@@ -28,8 +28,8 @@ In Japanese, 'Kata' generally refers to a method of doing something or a sequenc
 | [Kururunfa](kururunfa.md)                                                  | 久留頓破       | 3rd Dan           | [Kaishugata](#kaishugata) |
 | [Seisan](seisan.md)                                                        | 十三手         | 4th Dan           | [Kaishugata](#kaishugata) |
 | [Suupaarinpei](suparinpei.md)                                              | 壱百零八手     | 5th Dan           | [Kaishugata](#kaishugata) |
-| [Sanchin (Higashionna)](sanchin.md#how-to-higaonna-style-東ひが恩おん納な) | 三戦（東恩納） | 9th Kyu           | [Heishugata](#heishugata) |
-| [Sanchin (Miyagi)](sanchin.md#how-to-miyagi-style-宮みや城ぎ)              | 三戦（宮城）   | 9th Kyu           | [Heishugata](#heishugata) |
+| [Sanchin (Higashionna)](sanchin.md#how-to-higaonna-style) | 三戦（東恩納） | 9th Kyu           | [Heishugata](#heishugata) |
+| [Sanchin (Miyagi)](sanchin.md#how-to-miyagi-style)              | 三戦（宮城）   | 9th Kyu           | [Heishugata](#heishugata) |
 | [Tensho](tensho.md)                                                        | 転掌           | 1st Dan           | [Heishugata](#heishugata) |
 
 ## Kata Types
