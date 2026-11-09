@@ -65,3 +65,11 @@ Different instructors have their preferences, and the order might be changed to 
 ## Training Area (Dojo)
 
 Karate training takes place in a Dojo. This can be anywhere from a patch of grass in a park, to a permanent facility dedicated to training. A permanent facility will often have a shinden (shrine) at the front (shomen), otherwise shomen will be a designated direction.
+
+
+## Example Training Videos
+
+These are two follow along training videos from Nakamura Sensei.
+
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=5Q8zEcxaMO0" />
+<Wiki-Video ytUrl="https://www.youtube.com/watch?v=eo4fhfLx3oI" />
