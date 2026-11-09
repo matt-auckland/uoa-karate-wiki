@@ -6,4 +6,6 @@ categories:
   - Bunkai
 ---
 
+# Seisan Bunkai
+
 To be written

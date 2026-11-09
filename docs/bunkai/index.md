@@ -6,6 +6,8 @@ categories:
 isCategoryParent: true
 ---
 
+# Bunkai
+
 The word 'Bunkai' (分解) refers to taking something apart, or analysing something.
 In the case of Karate, 'bunkai' refers to the application of the movements of the Kata against an opponent, these applications are created by taking apart and analysing the kata.
 

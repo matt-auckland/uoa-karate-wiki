@@ -4,6 +4,8 @@ categories:
   - Hojo Undo
 ---
 
+# Hojo Undo
+
 Hojo Undo (<ruby><rb>補</rb><rt>ほ</rt><rb>助</rb><rt>じょ</rt><rb>運</rb><rt>うん</rt><rb>動</rb><rt>どう</rt></ruby>） means "Supplementary Exercise(s)" and generally refers to the use of tools to assist one's training.
 
 ## Lifting Tools
