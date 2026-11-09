@@ -116,3 +116,5 @@ docs/.vuepress/.temp/
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+docs/.DS_Store
+.DS_Store
