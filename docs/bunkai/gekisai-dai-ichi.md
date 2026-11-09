@@ -4,6 +4,8 @@ categories:
   - Bunkai
 ---
 
+# Gekisai Dai Ichi Bunkai
+
 For the [kata](/kata/), see [Gekisai Dai Ichi](/kata/gekisai-dai-ichi.md)
 
 ## Standard Bunkai
