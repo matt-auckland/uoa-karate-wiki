@@ -50,6 +50,7 @@ export default {
   text-align: center;
   font-size: 125%;
   font-weight: bold;
+  color: #fff;
   background-color: #8b0b14;
   margin-bottom: 8px;
 }
