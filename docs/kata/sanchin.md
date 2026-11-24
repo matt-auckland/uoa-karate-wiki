@@ -5,7 +5,7 @@ kanji: <ruby><rb>三</rb><rt>サン</rt><rb>戦</rb><rt>チン</rt></ruby>
 origin: China
 creator: Unknown
 created_on: Unknown
-learnt_at: 8th Kyu (Blue Belt)
+learnt_at: 9th Kyu (Blue Belt)
 required_for_grading: Shodan
 
 categories:
