@@ -49,6 +49,8 @@ In Japanese, 'Kata' generally refers to a method of doing something or a sequenc
 
 ## Goju Ryu Kata List
 
+“First taught at” follows the [club wiki’s teaching progression](/grading.md). For grading up to Nidan, the [club grading guide](https://uoa-karate.club/#/grading-info) lists requirements by the rank you are testing for. It lists Sanchin without specifying a version.
+
 <script setup>
 import { RouteLink, usePageData } from 'vuepress/client'
 
