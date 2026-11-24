@@ -16,21 +16,23 @@ In Japanese, 'Kata' generally refers to a method of doing something or a sequenc
 
 ## Goju Ryu Kata List
 
-| Name                                                                       | Kanji          | Grade             | Type                      |
-| -------------------------------------------------------------------------- | -------------- | ----------------- | ------------------------- |
-| [Gekisai Dai Ichi](gekisai-dai-ichi.md)                                    | 撃砕第一       | Ungraded/10th Kyu | [Kaishugata](#kaishugata) |
-| [Gekisai Dai Ni](gekisai-dai-ni.md)                                        | 撃砕第二       | 9th Kyu           | [Kaishugata](#kaishugata) |
-| [Saifa](saifa.md)                                                          | 砕破           | 7th Kyu           | [Kaishugata](#kaishugata) |
-| [Seiyunchin](seiyunchin.md)                                                | 制引戦         | 5th Kyu           | [Kaishugata](#kaishugata) |
-| [Shisochin](shisochin.md)                                                  | 四向戦         | 3rd Kyu           | [Kaishugata](#kaishugata) |
-| [Sanseiru](sanseiru.md)                                                    | 三十六手       | 1st Dan           | [Kaishugata](#kaishugata) |
-| [Seipai](seipai.md)                                                        | 十八手         | 2nd Dan           | [Kaishugata](#kaishugata) |
-| [Kururunfa](kururunfa.md)                                                  | 久留頓破       | 3rd Dan           | [Kaishugata](#kaishugata) |
-| [Seisan](seisan.md)                                                        | 十三手         | 4th Dan           | [Kaishugata](#kaishugata) |
-| [Suupaarinpei](suparinpei.md)                                              | 壱百零八手     | 5th Dan           | [Kaishugata](#kaishugata) |
-| [Sanchin (Higashionna)](sanchin.md#how-to-higaonna-style) | 三戦（東恩納） | 9th Kyu           | [Heishugata](#heishugata) |
-| [Sanchin (Miyagi)](sanchin.md#how-to-miyagi-style)              | 三戦（宮城）   | 9th Kyu           | [Heishugata](#heishugata) |
-| [Tensho](tensho.md)                                                        | 転掌           | 1st Dan           | [Heishugata](#heishugata) |
+| Kata | Kanji | Start learning at | First tested for | Type |
+| --- | --- | --- | --- | --- |
+| [Gekisai Dai Ichi](gekisai-dai-ichi.md) | 撃砕第一 | Ungraded / 10th kyu | 9th kyu | [Kaishugata](#kaishugata) |
+| [Gekisai Dai Ni](gekisai-dai-ni.md) | 撃砕第二 | 9th kyu | 8th kyu | [Kaishugata](#kaishugata) |
+| [Saifa](saifa.md) | 砕破 | 7th kyu | 6th kyu | [Kaishugata](#kaishugata) |
+| [Seiyunchin](seiyunchin.md) | 制引戦 | 5th kyu | 4th kyu | [Kaishugata](#kaishugata) |
+| [Shisochin](shisochin.md) | 四向戦 | 3rd kyu | 2nd kyu | [Kaishugata](#kaishugata) |
+| [Sanseiru](sanseiru.md) | 三十六手 | Shodan | Nidan | [Kaishugata](#kaishugata) |
+| [Seipai](seipai.md) | 十八手 | Nidan | Sandan | [Kaishugata](#kaishugata) |
+| [Kururunfa](kururunfa.md) | 久留頓破 | Sandan | Unknown | [Kaishugata](#kaishugata) |
+| [Seisan](seisan.md) | 十三手 | Sandan | Unknown | [Kaishugata](#kaishugata) |
+| [Sūpārinpei](suparinpei.md) | 壱百零八手 | Sandan | Unspecified | [Kaishugata](#kaishugata) |
+| [Sanchin (Higashionna)](sanchin.md#how-to-higaonna-style) | 三戦（東恩納） | 9th kyu | Shodan | [Heishugata](#heishugata) |
+| [Sanchin (Miyagi)](sanchin.md#how-to-miyagi-style) | 三戦（宮城） | 9th kyu | Shodan | [Heishugata](#heishugata) |
+| [Tensho](tensho.md) | 転掌 | Shodan | Unspecified | [Heishugata](#heishugata) |
+
+See [Grading](/grading.md#kyu-grades-coloured-belts) for the kata and bunkai required at each kyu grade.
 
 ## Kata Types
 
