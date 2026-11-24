@@ -1,10 +1,11 @@
 ---
 name: Seiyunchin
 kanji: <ruby><rb>制</rb><rt>セイ</rt><rb>引</rb><rt>ユン</rt><rb>戦</rb><rt>チン</rt></ruby>
-altname1: Seiunchin
-altkanji1: <ruby><rb>制</rb><rt>セイ</rt><rb>引</rb><rt>ウン</rt><rb>戦</rb><rt>チン</rt></ruby>
-altname2: Seienchin
-altkanji2: <ruby><rb>制</rb><rt>セイ</rt><rb>引</rb><rt>エン</rt><rb>戦</rb><rt>チン</rt></ruby>
+alternate_names:
+  - name: Seiunchin
+    kanji: <ruby><rb>制</rb><rt>セイ</rt><rb>引</rb><rt>ウン</rt><rb>戦</rb><rt>チン</rt></ruby>
+  - name: Seienchin
+    kanji: <ruby><rb>制</rb><rt>セイ</rt><rb>引</rb><rt>エン</rt><rb>戦</rb><rt>チン</rt></ruby>
 origin: Okinawa
 creator: Unknown
 createdon: Unknown
