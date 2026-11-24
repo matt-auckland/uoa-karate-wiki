@@ -89,8 +89,8 @@ It'll all sound like gibberish at first so don't worry if you don't get it right
 - Jodan - Upper level (face height)
 - Chuudan - Middle level (The area below the head, but above the groin/bladder)
 - Gedan - Lower level (The area below chuudan, includes the body and legs)
-- Migi - Left
-- Hidari - Right
+- Migi (右) - Right
+- Hidari (左) - Left
 
 See [Vocabulary](/vocabulary.md) for a more comprehensive list of Karate Vocabulary.
 See [Japanese](/japanese.md) for information on learning/pronouncing Japanese.
