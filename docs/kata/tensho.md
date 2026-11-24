@@ -1,8 +1,9 @@
 ---
 name: Tensho
 kanji: <ruby><rb>転</rb><rt>テン</rt><rb>掌</rb><rt>ショ</rt></ruby>
-alternate_name_1: Tenshō
-alternate_kanji_1: <ruby><rb>転</rb><rt>テン</rt><rb>掌</rb><rt>ショウ</rt></ruby>
+alternate_names:
+  - name: Tenshō
+    kanji: <ruby><rb>転</rb><rt>テン</rt><rb>掌</rb><rt>ショウ</rt></ruby>
 origin: Okinawa
 creator: Chojun Miyagi
 created: 1920 - 1940

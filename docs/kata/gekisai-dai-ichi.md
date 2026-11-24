@@ -2,8 +2,9 @@
 title: Gekisai Dai Ichi
 name: Gekisai Dai Ichi
 kanji: <ruby><rb>撃</rb><rt>げき</rt><rb>砕</rb><rt>さい</rt><rb>第</rb><rt>だい</rt><rb>一</rb><rt>いち</rt></ruby>
-alternate_name1: Fukyu Gata Ni
-alternate_kanji1: <ruby><rb>普</rb><rt>ふ</rt><rb>及</rb><rt>きゅう</rt><rb>型</rb><rt>がた</rt><rb>二</rb><rt>に</rt></ruby>
+alternate_names:
+  - name: Fukyu Gata Ni
+    kanji: <ruby><rb>普</rb><rt>ふ</rt><rb>及</rb><rt>きゅう</rt><rb>型</rb><rt>がた</rt><rb>二</rb><rt>に</rt></ruby>
 origin: Okinawa
 creator: Chojun Miyagi
 created: 1940s

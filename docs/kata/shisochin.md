@@ -1,8 +1,9 @@
 ---
 name: Shisochin
 kanji: <ruby><rb>四</rb><rt>シ</rt><rb>向</rb><rt>ソウ</rt><rb>戦</rb><rt>チン</rt></ruby>
-altname1: Shisochin
-altkanji1: <ruby><rb>四</rb><rt>シ</rt><rb>向</rb><rt>ソウ</rt><rb>鎮</rb><rt>チン</rt></ruby>
+alternate_names:
+  - name: Shisochin
+    kanji: <ruby><rb>四</rb><rt>シ</rt><rb>向</rb><rt>ソウ</rt><rb>鎮</rb><rt>チン</rt></ruby>
 origin: China
 creator: Unknown
 createdon: Unknown

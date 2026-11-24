@@ -3,48 +3,25 @@
     <div class="title">
       {{ $page.frontmatter.name }}
     </div>
-    <div v-for="property in computedInfo">
-      <span class="prop-title">{{ property.title }}: </span>
-      <span v-html="property.data" />
+    <div v-for="[key, value] in properties" :key="key">
+      <span class="prop-title">{{ key.replaceAll("_", " ") }}: </span>
+      <ul v-if="key === 'alternate_names'" class="alternate-names">
+        <li v-for="alias in value" :key="alias.name + (alias.kanji || '')">
+          {{ alias.name }} <span v-if="alias.kanji" v-html="alias.kanji" />
+        </li>
+      </ul>
+      <span v-else v-html="value" />
     </div>
   </div>
 </template>
 
 <script>
+const hiddenFields = new Set(["sidebar", "title", "isDraft", "noFooter", "categories", "name", "head"]);
+
 export default {
-  data() {
-    return {
-      banlist: [
-        "sidebar",
-        "title",
-        "isDraft",
-        "noFooter",
-        "categories",
-        "name",
-        "head"
-      ],
-    };
-  },
   computed: {
-    computedInfo() {
-      const ctrl = this;
-      const keys = Object.keys(this.$page.frontmatter);
-      let modifiedInfo = keys
-        .filter((key) => !ctrl.banlist.includes(key))
-        .map((key, i) => {
-          const computedData = {
-            title: key.replace(/\_/g, " "),
-            data: this.$page.frontmatter[key],
-          };
-
-          if (computedData.title.indexOf(/\d/) > -1) {
-            // console.log("test");
-          }
-
-          return computedData;
-        });
-
-      return modifiedInfo;
+    properties() {
+      return Object.entries(this.$page.frontmatter).filter(([key]) => !hiddenFields.has(key));
     },
   },
 };
@@ -62,6 +39,11 @@ export default {
   clear: right;
   font-size: 88%;
   line-height: 1.5em;
+}
+
+.infobox .alternate-names {
+  margin: 0;
+  padding-inline-start: 1.5em;
 }
 
 .infobox .title {

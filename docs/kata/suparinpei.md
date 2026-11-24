@@ -1,10 +1,11 @@
 ---
 name: Sūpārinpei
 kanji: <ruby><rb>壱百零八手</rb><rt>スーパーリンペイ</rt></ruby>
-altname1: Peichurin
-altkanji1: <ruby><rb>百歩連</rb><rt>ペーチュウリン</rt></ruby>
-altname2: Becchurin
-altkanji2: <ruby><rb>百歩連</rb><rt>べっちゅうりん</rt></ruby>
+alternate_names:
+  - name: Peichurin
+    kanji: <ruby><rb>百歩連</rb><rt>ペーチュウリン</rt></ruby>
+  - name: Becchurin
+    kanji: <ruby><rb>百歩連</rb><rt>べっちゅうりん</rt></ruby>
 origin: China
 creator: Unknown
 createdon: Unknown

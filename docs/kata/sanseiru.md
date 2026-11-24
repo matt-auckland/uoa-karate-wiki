@@ -1,10 +1,11 @@
 ---
 name: Sanseiru
 kanji: <ruby><rb>三十六手</rb><rt>サンセイル</rt></ruby>
-altname1: Sanseirū
-altkanji1: <ruby><rb>三十六手</rb><rt>サンセイルー</rt></ruby>
-altname2: Sanseiryū
-altkanji2: <ruby><rb>三十六手</rb><rt>サンセイリュー</rt></ruby>
+alternate_names:
+  - name: Sanseirū
+    kanji: <ruby><rb>三十六手</rb><rt>サンセイルー</rt></ruby>
+  - name: Sanseiryū
+    kanji: <ruby><rb>三十六手</rb><rt>サンセイリュー</rt></ruby>
 origin: China
 creator: Unknown
 createdon: Unknown
