@@ -12,7 +12,7 @@ Judo is a martial art focused on grappling, throwing, and submission techniques,
 
 # Techniques categorised by grade
 
-Chinese names follow the Beijing Judo Association’s technique list, using the characters printed there.<sup>[1](#judo-source-1)</sup> Regional names carry a separate citation. A blank cell means the Chinese name for that technique has yet to be verified.
+Chinese names are based on the Beijing Judo Association’s technique list.<sup>[1](#judo-source-1)</sup> Where that list omits a technique, a footnote cites the source for its Chinese name.
 
 ## White Belt
 
@@ -71,7 +71,7 @@ None.
 | Kouchi Gari     | 小内刈     | 小内刈 | Small Inner Reap       | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/koutigari/)    |
 | Osoto Gaeshi    | 大外返     | 大外返     | Large Outer Reversal   | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotogaesi/)  |
 | Koshi Guruma    | 腰輪       | 腰车 | Hip Wheel              | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/kosiguruma/)  |
-| Osoto Gari      | 大外刈     | 大外刈 (Taiwan: 大外割<sup>[4](#judo-source-4)</sup>) | Large Outer Reap       | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotogari/)   |
+| Osoto Gari      | 大外刈     | 大外刈 | Large Outer Reap       | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotogari/)   |
 | Seoi Otoshi     | 背負落     | 背负落     | Shoulder Drop          | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/seoiotosi/)     |
 | Sumi Gaeshi     | 隅返       | 隅返 | Corner Reversal        | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/masute/sumigaesi/) |
 
@@ -139,7 +139,7 @@ None.
 | Obi Tori Gaeshi       | 帯取返     | 帶取返<sup>[3](#judo-source-3)</sup> | Belt Grab Counter          | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/yoko/obitori/)      |
 | Hane Goshi Gaeshi     | 跳腰返     | 跳腰返   | Spring Hip Counter         | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/hanegosi/)      |
 | Soto Makikomi         | 外巻込     | 外巻込 | Outer Wraparound           | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/yoko/sotomaki/)     |
-| Uchi Mata Sukashi     | 内股透かし | 內股透<sup>[3](#judo-source-3)</sup> | Inner Thigh Slip           | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/utimatasukasi/) |
+| Uchi Mata Sukashi     | 内股透かし | 内股 | Inner Thigh Slip           | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/utimatasukasi/) |
 | O Guruma              | 大輪       | 大车 | Large Wheel                | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/ooguruma/)      |
 | Hikkomi Gaeshi        | 引込返     | 引込返 | Pulling-In Counter         | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/masute/hikikomi/)   |
 | Hane Goshi            | 跳腰       | 跳腰     | Spring Hip                 | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/hane/)         |
@@ -189,7 +189,7 @@ None.
 
 | Romaji     | Japanese | Chinese | English       | Info                                                                         |
 | ---------- | -------- | ------- | ------------- | ---------------------------------------------------------------------------- |
-| Ura Gatame | 裏固め   | 裏固<sup>[5](#judo-source-5)</sup> | Rear Hold     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ura/) |
+| Ura Gatame | 裏固め   | 裏固<sup>[4](#judo-source-4)</sup> | Rear Hold     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ura/) |
 | Uki Gatame | 浮固め   | 浮固<sup>[3](#judo-source-3)</sup> | Floating Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/uki/) |
 
 ### Joint locks and choking techniques
@@ -240,5 +240,4 @@ None.
 1. <span id="judo-source-1"></span>[Beijing Judo Association, *Judo techniques* (柔道技术)](https://www.bjjudo.org.cn/h-col-154.html)
 2. <span id="judo-source-2"></span>[Jin Wan Bao, report on the national judo points tournament](https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-05/29/content_87658_3482098.htm)
 3. <span id="judo-source-3"></span>[Hong Kong Judo Association, *Coaching information* (教練資訊)](https://www.hkjudo.org/coach)
-4. <span id="judo-source-4"></span>[Chinese Culture University, technical report on *Osoto Gari* (大外割)](https://irlib.pccu.edu.tw/handle/987654321/44101)
-5. <span id="judo-source-5"></span>[Kowloon Judo Club, *Essence of Judo*](https://hkklnjudo.org/judo-awareness/Essence%20of%20Judo2022/Essence%20of%20Judo2022.html)
+4. <span id="judo-source-4"></span>[Kowloon Judo Club, *Essence of Judo*](https://hkklnjudo.org/judo-awareness/Essence%20of%20Judo2022/Essence%20of%20Judo2022.html)
