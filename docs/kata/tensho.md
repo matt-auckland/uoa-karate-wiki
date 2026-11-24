@@ -33,19 +33,19 @@ This kata was created by Chojun Miyagi Sensei. It is supposed to be based off a 
 
 ### Kata Techniques
 
-- [Morote Chudan Uke](/)
-- [Hiki Uke](/)
-- [Kake Uke](/)
-- [Shotei Uchi](/)
-- [Koken](/)
-- [Shotei Uke](/)
-- [Chudan Uke](/)
-- [Toraguchi](/)
+- Morote Chudan Uke
+- Hiki Uke
+- Kake Uke
+- Shotei Uchi
+- Koken
+- Shotei Uke
+- Chudan Uke
+- Toraguchi
 
 ### Kata Stances
 
-- [Musubi Dachi](/)
-- [Sanchin Dachi](/)
+- [Musubi Dachi](/stances-and-footwork.md#musubi-dachi-ready-stance)
+- [Sanchin Dachi](/stances-and-footwork.md#sanchin-dachi-tension-stance)
 
 <!-- ### Dan Grade Changes -->
 
