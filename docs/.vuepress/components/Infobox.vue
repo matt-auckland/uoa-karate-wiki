@@ -62,4 +62,11 @@ export default {
 .infobox rt {
   font-size: 80%;
 }
+@media (max-width: 768px) {
+  .infobox {
+    float: none;
+    margin: 0.5em 0 1em;
+    overflow-wrap: anywhere;
+  }
+}
 </style>
