@@ -12,7 +12,7 @@ Judo is a martial art focused on grappling, throwing, and submission techniques,
 
 # Techniques categorised by grade
 
-Chinese names follow the [Beijing Judo Association’s technique list][Beijing], using the characters printed there. Regional names carry a separate citation. A blank cell means the Chinese name for that technique has yet to be verified.
+Chinese names follow the Beijing Judo Association’s technique list, using the characters printed there.<sup>[1](#judo-source-1)</sup> Regional names carry a separate citation. A blank cell means the Chinese name for that technique has yet to be verified.
 
 ## White Belt
 
@@ -44,7 +44,7 @@ None.
 | O Goshi              | 大腰       | 大腰       | Major Hip Throw           | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/oogosi/)       |
 | Tsuri Goshi          | 吊腰       | 钓腰 | Lifting Hip Throw         | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/turi/)         |
 | Sasae Tsurikomi Ashi | 支釣込足   | 支钓込足 | Propping Drawing Ankle    | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/sasaeturikomi/) |
-| Morote Seoi Nage     | 諸手背負投 | 双手背负投 ([Tianjin][Tianjin]) | Two-Hand Shoulder Throw   | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/seoi/)           |
+| Morote Seoi Nage     | 諸手背負投 | 双手背负投<sup>[2](#judo-source-2)</sup> | Two-Hand Shoulder Throw   | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/seoi/)           |
 | O Uchi Gari          | 大内刈     | 大内刈 | Major Inner Reaping Throw | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/ooutigari/)     |
 
 ### Holding Techniques
@@ -71,7 +71,7 @@ None.
 | Kouchi Gari     | 小内刈     | 小内刈 | Small Inner Reap       | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/koutigari/)    |
 | Osoto Gaeshi    | 大外返     | 大外返     | Large Outer Reversal   | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotogaesi/)  |
 | Koshi Guruma    | 腰輪       | 腰车 | Hip Wheel              | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/kosiguruma/)  |
-| Osoto Gari      | 大外刈     | 大外刈 (Taiwan: 大外割, [source][Taiwan]) | Large Outer Reap       | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotogari/)   |
+| Osoto Gari      | 大外刈     | 大外刈 (Taiwan: 大外割<sup>[4](#judo-source-4)</sup>) | Large Outer Reap       | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotogari/)   |
 | Seoi Otoshi     | 背負落     | 背负落     | Shoulder Drop          | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/seoiotosi/)     |
 | Sumi Gaeshi     | 隅返       | 隅返 | Corner Reversal        | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/masute/sumigaesi/) |
 
@@ -80,7 +80,7 @@ None.
 | Romaji                   | Japanese     | Chinese    | English                         | Info                                                                               |
 | ------------------------ | ------------ | ---------- | ------------------------------- | ---------------------------------------------------------------------------------- |
 | Tate Shiho Gatame        | 縦四方固め   | 纵四方固   | Vertical Four-Corner Hold       | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/tatesihou/) |
-| Kuzure Yoko Shiho Gatame | 崩横四方固め | 崩橫四方固 ([Hong Kong][Hong Kong]) | Modified Side Four-Corner Hold  | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/yokosihou/) |
+| Kuzure Yoko Shiho Gatame | 崩横四方固め | 崩橫四方固<sup>[3](#judo-source-3)</sup> | Modified Side Four-Corner Hold  | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/yokosihou/) |
 | Kuzure Kami Shiho Gatame | 崩上四方固め | 崩上四方固 | Modified Upper Four-Corner Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/kamisihou/) |
 
 ### Joint locks and choking techniques
@@ -96,7 +96,7 @@ None.
 | Ashi Guruma        | 足輪     | 足车 | Leg Wheel              | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/asiguruma/)    |
 | O Soto Guruma      | 大外輪   | 大外车 | Large Outer Wheel      | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotoguruma/) |
 | De Ashi Barai      | 出足払   | 出足払 | Advancing Foot Sweep   | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/deasiharai/)   |
-| Ko Uchi Makikomi   | 小内巻込 | 小內卷 ([Hong Kong][Hong Kong]) | Small Inner Wraparound | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/kutikitaosi/)   |
+| Ko Uchi Makikomi   | 小内巻込 | 小內卷<sup>[3](#judo-source-3)</sup> | Small Inner Wraparound | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/te/kutikitaosi/)   |
 | Tsuri Komi Goshi   | 釣込腰   | 钓込腰 | Lifting Pulling Hip    | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/turikomi/)    |
 | Tomoe Nage         | 巴投     | 巴投 | Circle Throw           | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/masute/tomoe/)     |
 | Harai Goshi        | 払腰     | 払腰 | Sweeping Hip Throw     | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/harai/)       |
@@ -112,7 +112,7 @@ None.
 | Romaji                   | Japanese     | Chinese    | English                            | Info                                                                                |
 | ------------------------ | ------------ | ---------- | ---------------------------------- | ----------------------------------------------------------------------------------- |
 | Kuzure Tate Shiho Gatame | 崩縦四方固め |  | Modified Vertical Four-Corner Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/kuzurekami/) |
-| Ushiro Kesa Gatame       | 後袈裟固め   | 後袈裟固 ([Hong Kong][Hong Kong]) | Rear Scarf Hold                    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ushirokesa/) |
+| Ushiro Kesa Gatame       | 後袈裟固め   | 後袈裟固<sup>[3](#judo-source-3)</sup> | Rear Scarf Hold                    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ushirokesa/) |
 
 ### Joint locks and choking techniques
 
@@ -136,10 +136,10 @@ None.
 | Okuri Ashi Barai      | 送り足払   | 送足払 | Sliding Foot Sweep         | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/okuriasiharai/) |
 | Tsubame Gaeshi        | 燕返       | 燕返     | Swallow Counter            | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/tubame/)        |
 | O Soto Makikomi       | 大外巻込   | 大外巻込 | Large Outer Wraparound     | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/oosotomaki/)    |
-| Obi Tori Gaeshi       | 帯取返     | 帶取返 ([Hong Kong][Hong Kong]) | Belt Grab Counter          | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/yoko/obitori/)      |
+| Obi Tori Gaeshi       | 帯取返     | 帶取返<sup>[3](#judo-source-3)</sup> | Belt Grab Counter          | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/yoko/obitori/)      |
 | Hane Goshi Gaeshi     | 跳腰返     | 跳腰返   | Spring Hip Counter         | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/hanegosi/)      |
 | Soto Makikomi         | 外巻込     | 外巻込 | Outer Wraparound           | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/yoko/sotomaki/)     |
-| Uchi Mata Sukashi     | 内股透かし | 內股透 ([Hong Kong][Hong Kong]) | Inner Thigh Slip           | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/utimatasukasi/) |
+| Uchi Mata Sukashi     | 内股透かし | 內股透<sup>[3](#judo-source-3)</sup> | Inner Thigh Slip           | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/utimatasukasi/) |
 | O Guruma              | 大輪       | 大车 | Large Wheel                | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/asi/ooguruma/)      |
 | Hikkomi Gaeshi        | 引込返     | 引込返 | Pulling-In Counter         | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/masute/hikikomi/)   |
 | Hane Goshi            | 跳腰       | 跳腰     | Spring Hip                 | [Link](https://www.judo-ch.jp/english/dictionary/technique/nage/kosi/hane/)         |
@@ -162,7 +162,7 @@ None.
 | Hadaka Jime    | 裸絞     | 裸绞    | Naked Strangle          | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/hadaka/)       |
 | Sankaku Jime   | 三角絞   | 三角绞  | Triangle Strangle       | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/sankaku/)      |
 | Kata Ha Jime   | 片羽絞   | 片羽绞 | Single Wing Strangle    | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/kataha/)       |
-| Koshi Jime     | 腰絞     | 腰絞 ([Hong Kong][Hong Kong]) | Hip Strangle            | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/koshi/)        |
+| Koshi Jime     | 腰絞     | 腰絞<sup>[3](#judo-source-3)</sup> | Hip Strangle            | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/koshi/)        |
 
 ## Brown Belt
 
@@ -189,8 +189,8 @@ None.
 
 | Romaji     | Japanese | Chinese | English       | Info                                                                         |
 | ---------- | -------- | ------- | ------------- | ---------------------------------------------------------------------------- |
-| Ura Gatame | 裏固め   | 裏固 ([Kowloon][Kowloon]) | Rear Hold     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ura/) |
-| Uki Gatame | 浮固め   | 浮固 ([Hong Kong][Hong Kong]) | Floating Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/uki/) |
+| Ura Gatame | 裏固め   | 裏固<sup>[5](#judo-source-5)</sup> | Rear Hold     | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/ura/) |
+| Uki Gatame | 浮固め   | 浮固<sup>[3](#judo-source-3)</sup> | Floating Hold | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/osae/uki/) |
 
 ### Joint locks and choking techniques
 
@@ -235,8 +235,10 @@ None.
 | Ashi Garami | 足絡     | 足缄 | Leg Entanglement | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/kansetu/asigarami/) |
 | Do Jime     | 胴絞     | 胴绞 | Trunk Strangle   | [Link](https://www.judo-ch.jp/english/dictionary/technique/katame/sime/dou/)          |
 
-[Beijing]: https://www.bjjudo.org.cn/h-col-154.html
-[Hong Kong]: https://www.hkjudo.org/coach
-[Kowloon]: https://hkklnjudo.org/judo-awareness/Essence%20of%20Judo2022/Essence%20of%20Judo2022.html
-[Tianjin]: https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-05/29/content_87658_3482098.htm
-[Taiwan]: https://irlib.pccu.edu.tw/handle/987654321/44101
+## Sources
+
+1. <span id="judo-source-1"></span>[Beijing Judo Association, *Judo techniques* (柔道技术)](https://www.bjjudo.org.cn/h-col-154.html)
+2. <span id="judo-source-2"></span>[Jin Wan Bao, report on the national judo points tournament](https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-05/29/content_87658_3482098.htm)
+3. <span id="judo-source-3"></span>[Hong Kong Judo Association, *Coaching information* (教練資訊)](https://www.hkjudo.org/coach)
+4. <span id="judo-source-4"></span>[Chinese Culture University, technical report on *Osoto Gari* (大外割)](https://irlib.pccu.edu.tw/handle/987654321/44101)
+5. <span id="judo-source-5"></span>[Kowloon Judo Club, *Essence of Judo*](https://hkklnjudo.org/judo-awareness/Essence%20of%20Judo2022/Essence%20of%20Judo2022.html)
