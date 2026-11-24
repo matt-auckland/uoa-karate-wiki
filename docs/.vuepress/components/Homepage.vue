@@ -195,15 +195,19 @@ export default {
 
 @media (max-width: 768px) {
   .grid-cont {
-    --size: 150px;
-    gap: 15px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: auto;
+    gap: 10px;
     font-size: 14px;
-    justify-content: space-between;
-    line-height: 1.2;
+  }
+
+  .page-link {
+    gap: 4px;
+    overflow-wrap: anywhere;
   }
 
   .page-link .icon {
-    font-size: 1.8em;
+    font-size: 1.5em;
   }
 }
 </style>
