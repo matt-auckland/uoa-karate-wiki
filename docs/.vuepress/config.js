@@ -145,7 +145,6 @@ export default defineUserConfig({
             text: 'About Goju Ryu',
             link: '/goju-ryu.md',
           },
-          { text: 'Kobudo', link: '/kobudo.md' },
           {
             text: 'Vocabulary',
             link: '/vocabulary.md',
@@ -209,10 +208,6 @@ export default defineUserConfig({
             text: 'Other'
             , children: [
               {
-                text: 'Vocabulary',
-                link: '/vocabulary',
-              },
-              {
                 text: 'Conditioning',
                 link: '/conditioning',
               },
@@ -223,10 +218,6 @@ export default defineUserConfig({
               {
                 text: 'Kobudo (Weapons)',
                 link: '/kobudo.md',
-              },
-              {
-                text: 'Japanese',
-                link: '/japanese',
               },
               {
                 text: 'Training By Kata',
