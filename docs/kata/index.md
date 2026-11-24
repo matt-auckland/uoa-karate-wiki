@@ -4,6 +4,39 @@ categories:
   - Kata
 
 isCategoryParent: true
+kataList:
+  - file: gekisai-dai-ichi
+    type: Kaishugata
+  - file: gekisai-dai-ni
+    type: Kaishugata
+  - file: saifa
+    type: Kaishugata
+  - file: seiyunchin
+    type: Kaishugata
+  - file: shisochin
+    type: Kaishugata
+  - file: sanseiru
+    type: Kaishugata
+  - file: seipai
+    type: Kaishugata
+  - file: kururunfa
+    type: Kaishugata
+  - file: seisan
+    type: Kaishugata
+  - file: suparinpei
+    type: Kaishugata
+  - file: sanchin
+    type: Heishugata
+    variant: Higashionna
+    suffix: （東恩納）
+    anchor: '#how-to-higaonna-style'
+  - file: sanchin
+    type: Heishugata
+    variant: Miyagi
+    suffix: （宮城）
+    anchor: '#how-to-miyagi-style'
+  - file: tensho
+    type: Heishugata
 ---
 
 # Kata
@@ -16,21 +49,26 @@ In Japanese, 'Kata' generally refers to a method of doing something or a sequenc
 
 ## Goju Ryu Kata List
 
-| Name                                                                       | Kanji          | Grade             | Type                      |
-| -------------------------------------------------------------------------- | -------------- | ----------------- | ------------------------- |
-| [Gekisai Dai Ichi](gekisai-dai-ichi.md)                                    | 撃砕第一       | Ungraded/10th Kyu | [Kaishugata](#kaishugata) |
-| [Gekisai Dai Ni](gekisai-dai-ni.md)                                        | 撃砕第二       | 9th Kyu           | [Kaishugata](#kaishugata) |
-| [Saifa](saifa.md)                                                          | 砕破           | 7th Kyu           | [Kaishugata](#kaishugata) |
-| [Seiyunchin](seiyunchin.md)                                                | 制引戦         | 5th Kyu           | [Kaishugata](#kaishugata) |
-| [Shisochin](shisochin.md)                                                  | 四向戦         | 3rd Kyu           | [Kaishugata](#kaishugata) |
-| [Sanseiru](sanseiru.md)                                                    | 三十六手       | 1st Dan           | [Kaishugata](#kaishugata) |
-| [Seipai](seipai.md)                                                        | 十八手         | 2nd Dan           | [Kaishugata](#kaishugata) |
-| [Kururunfa](kururunfa.md)                                                  | 久留頓破       | 3rd Dan           | [Kaishugata](#kaishugata) |
-| [Seisan](seisan.md)                                                        | 十三手         | 4th Dan           | [Kaishugata](#kaishugata) |
-| [Suupaarinpei](suparinpei.md)                                              | 壱百零八手     | 5th Dan           | [Kaishugata](#kaishugata) |
-| [Sanchin (Higashionna)](sanchin.md#how-to-higaonna-style) | 三戦（東恩納） | 9th Kyu           | [Heishugata](#heishugata) |
-| [Sanchin (Miyagi)](sanchin.md#how-to-miyagi-style)              | 三戦（宮城）   | 9th Kyu           | [Heishugata](#heishugata) |
-| [Tensho](tensho.md)                                                        | 転掌           | 1st Dan           | [Heishugata](#heishugata) |
+<script setup>
+import { RouteLink, usePageData } from 'vuepress/client'
+
+const page = usePageData()
+</script>
+
+<table>
+  <thead>
+    <tr><th>Name</th><th>Kanji</th><th>First taught at</th><th>Required for grading</th><th>Type</th></tr>
+  </thead>
+  <tbody>
+    <tr v-for="kata in page.kataRows" :key="kata.path">
+      <td><RouteLink :to="kata.path">{{ kata.name }}</RouteLink></td>
+      <td>{{ kata.kanji }}</td>
+      <td>{{ kata.firstTaught }}</td>
+      <td>{{ kata.requiredFor }}</td>
+      <td><a :href="'#' + kata.type.toLowerCase()">{{ kata.type }}</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Kata Types
 
