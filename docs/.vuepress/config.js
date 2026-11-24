@@ -109,24 +109,6 @@ export default defineUserConfig({
         },
       }
     }),
-    {
-      name: 'kata-index',
-      onInitialized(app) {
-        const index = app.pages.find(page => page.filePathRelative === 'kata/index.md')
-        index.data.kataRows = index.frontmatter.kataList.map(entry => {
-          const page = app.pages.find(page => page.filePathRelative === `kata/${entry.file}.md`)
-          const { name, kanji, learnt_at, required_for_grading, grading } = page.frontmatter
-          return {
-            name: entry.variant ? `${name} (${entry.variant})` : name,
-            kanji: kanji.replace(/<rt>.*?<\/rt>|<[^>]+>/g, '') + (entry.suffix || ''),
-            path: page.path + (entry.anchor || ''),
-            firstTaught: learnt_at,
-            requiredFor: required_for_grading || grading || 'Unspecified',
-            type: entry.type,
-          }
-        })
-      },
-    },
     footerLinksPlugin(),
     linksCheckPlugin({}),
     markdownImagePlugin({

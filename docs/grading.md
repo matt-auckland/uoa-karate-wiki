@@ -49,9 +49,9 @@ Theory tests generally ask questions about the History of Goju-Ryu (including th
 
 ### Kyu Grades - Coloured Belts
 
-Learn the kata and bunkai in each row while holding the grade in the first column. Demonstrate them to earn the grade in the second column. Requirements are cumulative, so earlier rows still apply.
+Find your current grade to see what to learn for your next grading. Earlier requirements still apply.
 
-| Grade held | Testing for | Kata added | Bunkai added |
+| Current grade | Next grade | Kata | Bunkai |
 | --- | --- | --- | --- |
 | Ungraded / 10th kyu | 9th kyu | [Gekisai Dai Ichi](/kata/gekisai-dai-ichi.md) | — |
 | 9th kyu | 8th kyu | [Gekisai Dai Ni](/kata/gekisai-dai-ni.md) | [Gekisai Dai Ichi](/bunkai/gekisai-dai-ichi.md) |
