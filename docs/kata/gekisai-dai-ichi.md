@@ -18,7 +18,7 @@ categories:
 
 <Infobox/>
 
-The first [kata](/) taught in modern Goju Ryu. It was created to help popularise Karate. It is the only kata in Goju Ryu that ends with a step forward instead of a step backward.
+The first [kata](/) taught in modern Goju Ryu. It was created to help popularise Karate.
 
 ## Name Meaning
 
