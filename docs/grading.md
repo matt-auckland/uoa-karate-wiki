@@ -49,40 +49,21 @@ Theory tests generally ask questions about the History of Goju-Ryu (including th
 
 ### Kyu Grades - Coloured Belts
 
-Each rank has a different belt and generally learns a specific Kata or set of Bunkai.
-These form the basis of the grading requirements for the next rank.
+Requirements are cumulative. Each row shows the kata and bunkai first required when testing for that grade.
 
-- Ungraded (White Belt)
-  - Learns:
-    - [Gekisai Dai Ichi](/kata/gekisai-dai-ichi.md)
-- 9th Kyu (Blue Belt)
-  - Learns:
-    - [Gekisai Dai Ichi (Bunkai)](/bunkai/gekisai-dai-ichi.md)
-    - [Gekisai Dai Ni](/kata/gekisai-dai-ni.md)
-    - [Sanchin](/kata/sanchin.md)
-- 8th Kyu (Blue Belt, one black tab)
-  - Learns:
-    - [Gekisai Dai Ni (Bunkai)](/bunkai/gekisai-dai-ni.md)
-    - [Saifa](/kata/saifa.md)
-- 7th Kyu (Yellow Belt)
-  - Learns:
-    - [Saifa (Bunkai.md)](/bunkai/saifa.md)
-- 6th Kyu (Yellow Belt, one black tab)
-  - Learns:
-    - [Seiyunchin](/kata/seiyunchin.md)
-- 5th Kyu (Green Belt)
-  - Learns:
-    - [Seiyunchin (Bunkai)](/bunkai/seiyunchin.md)
-- 4th Kyu (Green Belt, one black tab)
-  - Learns:
-    - [Shisochin](/kata/shisochin.md)
-- 3rd Kyu (Brown Belt)
-  - Learns:
-    - [Shisochin (Bunkai)](/bunkai/shisochin.md)
-- 2nd Kyu (Brown Belt, one black tab)
-  - Learns:
-- 1st Kyu (Brown Belt, two black tabs)
-  - Learns:
+| Testing for | Kata added | Bunkai added |
+| --- | --- | --- |
+| 9th kyu | [Gekisai Dai Ichi](/kata/gekisai-dai-ichi.md) | — |
+| 8th kyu | [Gekisai Dai Ni](/kata/gekisai-dai-ni.md) | [Gekisai Dai Ichi](/bunkai/gekisai-dai-ichi.md) |
+| 7th kyu | — | [Gekisai Dai Ni](/bunkai/gekisai-dai-ni.md) |
+| 6th kyu | [Saifa](/kata/saifa.md) | — |
+| 5th kyu | — | [Saifa](/bunkai/saifa.md) |
+| 4th kyu | [Seiyunchin](/kata/seiyunchin.md) | — |
+| 3rd kyu | — | [Seiyunchin](/bunkai/seiyunchin.md) |
+| 2nd kyu | [Shisochin](/kata/shisochin.md) | — |
+| 1st kyu | — | [Shisochin](/bunkai/shisochin.md) |
+
+Students also begin practising [Sanchin](/kata/sanchin.md) at blue belt. It is required for Shodan.
 
 ### Dan Grades - Black Belts
 

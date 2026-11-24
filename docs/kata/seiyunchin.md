@@ -8,8 +8,8 @@ altkanji2: <ruby><rb>制</rb><rt>セイ</rt><rb>引</rb><rt>エン</rt><rb>戦</
 origin: Okinawa
 creator: Unknown
 createdon: Unknown
-learnt_at: 6th Kyu (Yellow Belt)
-grading: 5th Kyu and above
+learnt_at: 5th Kyu (Green Belt)
+grading: 4th Kyu and above
 
 categories:
   - Kata

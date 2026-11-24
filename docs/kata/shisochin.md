@@ -6,8 +6,8 @@ altkanji1: <ruby><rb>四</rb><rt>シ</rt><rb>向</rb><rt>ソウ</rt><rb>鎮</rb>
 origin: China
 creator: Unknown
 createdon: Unknown
-learnt_at: 4th Kyu (Green Belt)
-grading: 3rd Kyu and above
+learnt_at: 3rd Kyu (Brown Belt)
+grading: 2nd Kyu and above
 
 categories:
   - Kata

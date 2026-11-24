@@ -49,7 +49,7 @@ In Japanese, 'Kata' generally refers to a method of doing something or a sequenc
 
 ## Goju Ryu Kata List
 
-“First taught at” follows the [club wiki’s teaching progression](/grading.md). For grading up to Nidan, the [club grading guide](https://uoa-karate.club/#/grading-info) lists requirements by the rank you are testing for. It lists Sanchin without specifying a version.
+“First taught at” is the rank held when starting a kata. “Required for grading” is the rank being attempted. See the [kyu grading progression](/grading.md#kyu-grades-coloured-belts) for the first exam that includes each kata and its bunkai.
 
 <script setup>
 import { RouteLink, usePageData } from 'vuepress/client'

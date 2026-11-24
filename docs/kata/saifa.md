@@ -4,8 +4,8 @@ kanji: <ruby><rb>砕</rb><rt>サイ</rt><rb>破</rb><rt>ファ</rt></ruby>
 origin: China
 creator: Unknown
 createdon: Unknown
-learnt_at: 8th Kyu (Blue Belt)
-grading: 7th Kyu and above
+learnt_at: 7th Kyu (Yellow Belt)
+grading: 6th Kyu and above
 
 categories:
   - Kata
