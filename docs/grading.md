@@ -49,19 +49,19 @@ Theory tests generally ask questions about the History of Goju-Ryu (including th
 
 ### Kyu Grades - Coloured Belts
 
-Requirements are cumulative. Each row shows the kata and bunkai first required when testing for that grade.
+Learn the kata and bunkai in each row while holding the grade in the first column. Demonstrate them to earn the grade in the second column. Requirements are cumulative, so earlier rows still apply.
 
-| Testing for | Kata added | Bunkai added |
-| --- | --- | --- |
-| 9th kyu | [Gekisai Dai Ichi](/kata/gekisai-dai-ichi.md) | — |
-| 8th kyu | [Gekisai Dai Ni](/kata/gekisai-dai-ni.md) | [Gekisai Dai Ichi](/bunkai/gekisai-dai-ichi.md) |
-| 7th kyu | — | [Gekisai Dai Ni](/bunkai/gekisai-dai-ni.md) |
-| 6th kyu | [Saifa](/kata/saifa.md) | — |
-| 5th kyu | — | [Saifa](/bunkai/saifa.md) |
-| 4th kyu | [Seiyunchin](/kata/seiyunchin.md) | — |
-| 3rd kyu | — | [Seiyunchin](/bunkai/seiyunchin.md) |
-| 2nd kyu | [Shisochin](/kata/shisochin.md) | — |
-| 1st kyu | — | [Shisochin](/bunkai/shisochin.md) |
+| Grade held | Testing for | Kata added | Bunkai added |
+| --- | --- | --- | --- |
+| Ungraded / 10th kyu | 9th kyu | [Gekisai Dai Ichi](/kata/gekisai-dai-ichi.md) | — |
+| 9th kyu | 8th kyu | [Gekisai Dai Ni](/kata/gekisai-dai-ni.md) | [Gekisai Dai Ichi](/bunkai/gekisai-dai-ichi.md) |
+| 8th kyu | 7th kyu | — | [Gekisai Dai Ni](/bunkai/gekisai-dai-ni.md) |
+| 7th kyu | 6th kyu | [Saifa](/kata/saifa.md) | — |
+| 6th kyu | 5th kyu | — | [Saifa](/bunkai/saifa.md) |
+| 5th kyu | 4th kyu | [Seiyunchin](/kata/seiyunchin.md) | — |
+| 4th kyu | 3rd kyu | — | [Seiyunchin](/bunkai/seiyunchin.md) |
+| 3rd kyu | 2nd kyu | [Shisochin](/kata/shisochin.md) | — |
+| 2nd kyu | 1st kyu | — | [Shisochin](/bunkai/shisochin.md) |
 
 Students also begin practising [Sanchin](/kata/sanchin.md) at blue belt. It is required for Shodan.
 
