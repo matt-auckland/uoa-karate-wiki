@@ -443,7 +443,7 @@ The number of applications shown in the video also differs from what is written 
    <Wiki-Video slot="video" url="/videos/yakusoku-31.mp4" />
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Hidari Jodan Hiki-Uke (stay on the inside) and grasp opponent's wrist with your left hand, while striking Migi Jodan Gyaku Shotei-Zuki.</p>
+   <p>Hidari Chudan Hiki-Uke (stay on the inside) and grasp opponent's wrist with your left hand, while striking Migi Jodan Gyaku Shotei-Zuki.</p>
    <p>Then use your right forearm to their left arm, and press against their elbow joint (on the inside of their arm).</p>
    <p>Step outside their front foot and Tai-Sabaki (turn counter-clockwise) + Ashi-Waza (sweeping the leg), while pressing your forearm against their elbow joint to throw them.</p>
 </Attack-Defense>
