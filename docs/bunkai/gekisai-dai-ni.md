@@ -15,7 +15,7 @@ There are 2 standard bunkai for Gekisai Dai Ni.
 **Note** There are currently no photos/videos, I'll add some eventually.
 
 <Attack-Defense-Container label="1. Hiki uke">
-   <Attack-Defense type="attack">From hidari zenkutsu-dachi, punch hidari chudan oizuki.</Attack-Defense>
+   <Attack-Defense type="attack">From hidari zenkutsu-dachi, punch migi chudan oizuki.</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Right handed hiki uke, while performing a suriashi to the left on a 45 degree angle to the front (end up standing in heiko-sanchin-dachi. </p>
    <p>Follow with a right handed nukite to the attacker’s eyes.</p>
@@ -23,7 +23,7 @@ There are 2 standard bunkai for Gekisai Dai Ni.
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="2. Toraguchi">
-  <Attack-Defense type="attack">From hidari zenkutsu-dachi, punch hidari chudan oizuki.</Attack-Defense>
+  <Attack-Defense type="attack">From hidari zenkutsu-dachi, punch migi chudan oizuki.</Attack-Defense>
   <Attack-Defense type="defense">
   <p>Perform a left handed toraguchi while performing a suriashi to the right on a 45 degree angle. </p>
   <p>End in a hidari neko-ashi-dachi, follow with a two handed push to the shoulder and hip of the attacker while performing a suriashi forward.</p>
