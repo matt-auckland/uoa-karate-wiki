@@ -17,7 +17,7 @@ There are 5 standard bunkai for Gekisai Dai Ichi, some with a few variations.
   <Attack-Defense type="attack">From hidari zenkutsu-dachi, punch migi jodan oizuki</Attack-Defense>
   <Attack-Defense type="defense">
   <p>Step back into hidari sanchin dachi blocking with hidari jodan age-uke, then step forward into migi hanzenkutsu-dachi punching migi jodan oizuki.</p>
-  <p><i>Note: You may step diagonally backwards, or move laterally to take yourself off-line. You can keep blocking with your right hand or drop it if you wish.</i></p>
+  <p><i>Note: You may step diagonally backwards, or move laterally to take yourself off-line. You can keep your left hand up or lower it as you punch.</i></p>
   </Attack-Defense>
 </Attack-Defense-Container>
 
@@ -39,7 +39,7 @@ There are 5 standard bunkai for Gekisai Dai Ichi, some with a few variations.
 </Attack-Defense-Container>
 
 <Attack-Defense-Container label="4. Block and takedown">
-  <Attack-Defense type="attack">From hidari zenkutsu-dachi, punch hidari chudan oizuki</Attack-Defense>
+  <Attack-Defense type="attack">From hidari zenkutsu-dachi, punch migi chudan oizuki</Attack-Defense>
   <Attack-Defense type="defense">
   <p>Block with migi chudan uke while doing a suriashi on a 45 degree angle forward and to the left.</p>
   <p>Grab wrist with your blocking hand, move in hip to hip, and hidari shuto uchi across the attacker’s chest.</p>

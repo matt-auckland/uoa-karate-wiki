@@ -43,7 +43,7 @@ categories:
 <Attack-Defense-Container label="5. Block and strike to the ear">
    <Attack-Defense type="attack">From Hidari Zenkutsu Dachi, punch Migi Chudan Oizuki.</Attack-Defense>
    <Attack-Defense type="defense">
-   <p>Parry the punch with a Migi Chudan Uke while using suriashi to move to the left and forward (45 degrees) settling into Neko Ashi Dachi, at the same time perform an open handed palm strike to the attacker's right ear (which is on the defender's right).</p>
+   <p>Parry the punch with a Migi Chudan Uke while using suriashi to move to the left and forward (45 degrees) settling into Neko Ashi Dachi, at the same time perform an open handed palm strike to the attacker's right ear.</p>
    </Attack-Defense>
 </Attack-Defense-Container>
 

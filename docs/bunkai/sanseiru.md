@@ -64,7 +64,7 @@ For the [kata](/kata/), see [Sanseiru](/kata/sanseiru)
 </Attack-Defense>
 <Attack-Defense type="defense">
 <p>Suriashi to the right, blocking hidari chudan uke. Kick with Migi gedan maegeri, land forward, and strike with migi chudan hijiate.</p> 
-<p>Block the second attack with migi gedan barai, then cover your attacker's right hand with your left hand and step across to the left slightly, as you are shifting over, swap your hands so your right hand is covering their right hand.</p> 
+<p>Block the attacker’s left punch with migi gedan barai. Cover their chambered right hand with your left hand before they can punch with it. As you step slightly to the left, switch hands so your right hand covers theirs.</p> 
 <p>Follow with migi kansetsu geri to the opponents right leg. As they drop down, they will be forced to turn away from you, attack with hidari gyakuzuki to the head (because they dropped down this will be at your chudan/gedan height).</p>
 </Attack-Defense>
 
