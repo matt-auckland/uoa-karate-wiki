@@ -193,7 +193,7 @@ The number of applications shown in the video also differs from what is written 
    <Attack-Defense type="attack">Migi Chudan Mae-Geri</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hasami-Uke to catch leg (as in Sanseiru) and Migi Tsumasaki-Geri (toe kick) to point behind groin.</p>
-   <p>Insert your leg between their legs, with your right foot pressing on their left leg's knee, while your right knee is on top of their left leg.</p>
+   <p>Insert your leg between their legs, with your right foot pressing on their left leg's knee, while your right knee is on top of their right leg.</p>
    <p>Straighten your right leg (pushing on their knee) and press downwards with your knee on their right leg to collapse their posture and take them down (retain hold of their leg).</p>
    <p>Migi Kansetsu-Geri to groin, and throw their leg across their body to turn them away from you.</p>
    </Attack-Defense>
@@ -353,7 +353,7 @@ The number of applications shown in the video also differs from what is written 
    <Attack-Defense type="attack">Migi Chudan Oi-Zuki</Attack-Defense>
    <Attack-Defense type="defense">
    <p>Hidari Jodan Hiki-Uke (stay on the inside) and grasp opponent's wrist with your left hand, while striking Migi Jodan Gyaku Shotei-Zuki.</p>
-   <p>Then use your right forearm to their left arm, and press against their elbow joint (on the inside of their arm).</p>
+   <p>Then press your right forearm against the inside of the attacker’s right elbow.</p>
    <p>Step outside their front foot and Tai-Sabaki (turn counter-clockwise) + Ashi-Waza (sweeping the leg), while pressing your forearm against their elbow joint to throw them.</p>
 </Attack-Defense>
 </Attack-Defense-Container>
